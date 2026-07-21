@@ -1,355 +1,355 @@
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-Employee,Group,Squad,Role,Job Status,Onboarding Status,Basic Knowledge Score,Basic Knowledge Status ,Basic Knowledge Equivalent,Operational Knowledge Score,Operational Knowledge Status ,Operational Knowledge Equivalent,Performance Score, Performance Status ,Performance Equivalent,Behavioral Score,Behavioral Status ,Behavioral Equivalent,Critical Thinking Score,Critical Thinking Status ,Critical Thinking Equivalent,Readiness Total Score,Comments,Readiness Status,Trainer Recommendation,Tier Recommended,Trainee page
-Patrice Camille Halili,1,CX - Leadership,Supervisor,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,0,Not ready,#NAME?,#NAME?,,,,,
-Ghel Punzalan,1,CX - OPS,Lead,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Carlos Lluen,1,CX - BPO Training,Lead,Active,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Pablo Coronel,2,CX - Specialist,Supervisor,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Jenny Hardy,2,CX - Specialist,Supervisor,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Guillermo Reyes,2,CX - OPS,,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Ludmila Biagi,3,CX - Specialist,,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Emilse Itati,4,CX - Specialist,,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Marco Toribio,1,CX - BPO Leadership,Supervisor,Active,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-M.Elisa Cordoba,5,CX - Specialist,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Adriana Quiroz,1,CX - BPO Training,Lead,Active,,0.7,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Trinidad Cejas,6,CX - Specialist,,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Magali Silva,6,CX - Specialist,,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Gabriela Tapia,1,CX - BPO Leadership,Lead,Active,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Luis Lacruz,8,CX - OPS,,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Hector Uscamayta,1,CX - BPO Specialist,Specialist,Active,,0.7,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Jose D De la Cruz,1,CX - BPO Specialist,Specialist,Active,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Jose L Franco,1,CX - BPO Specialist,Specialist,Active,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Joan Torres,11,CX - OPS,,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Sofia Seivane,12,CX - Specialist,,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Ricardo Guzman,12,CX - Specialist,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Narayan Martino,1,CX - BPO Specialist,Specialist,Active,,0.7,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Sylvana Pilco,1,CX - BPO Leadership,Lead,Active,,3.1,Needs intervention,0.2,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Diego Enriquez,2,CX - Training,Lead,Active,,0.7,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Gretshen Zevallos,2,CX - BPO Specialist,Specialist,Active,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Eduardo Santana,2,CX - BPO Specialist,Specialist,Active,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Renato Benigno,2,CX - BPO Specialist,Specialist,Active,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Lucas Gerez,16,CX - Specialist,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Camila Sanchez,17,CX - Specialist,Lead,Inactive,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Jenny Huaman,2,CX - BPO Specialist,Specialist,Active,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Mariana Rodriguez,17,CX - Specialist,,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Jorge Parra,18,CX - Specialist,,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Valeria Tupa,2,CX - BPO Specialist,Specialist,Active,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Gisella Ribachi,19,CX - Specialist,,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Esequiel Starostiuk,19,CX - Specialist,,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Mariana Ferreyros,2,CX - BPO Specialist,Specialist,Active,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Luis Peralta,2,CX - BPO Specialist,Specialist,Active,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Pedro Cornet,20,CX - Specialist,,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Ludmila Cirelli,20,CX - Specialist,,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Alejandro Acosta,21,CX - Specialist,,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Adolfo Benjamin Kunjuk,21,CX - Specialist,,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Alonso Saravia,22,CX - QA,,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Nicolas Rojas,22,CX - Specialist,,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Ricardo-Alejandro Acuna-Mendoza,3,CX - BPO Specialist,Specialist,Active,,1.5,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Daniel-Emilio Morales-Vizcardo,3,CX - BPO Specialist,Specialist,Active,,1.5,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Anny-Beatriz Reyna-Gamboa,3,CX - BPO Specialist,Specialist,Active,,0.8,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Abigail-Briggette Chauca-Tinco,3,CX - BPO Specialist,Specialist,Active,,1.5,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Maura-Cecilia Valle-Alvarado,3,CX - BPO Specialist,Specialist,Active,,1.5,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Eglys Garcia,23,CX - Specialist,,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Manuel Torres,23,CX - Specialist,,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Nicolas Appezzato,23,CX - Specialist,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Ariana Ehrhardt,23,CX - Specialist,Specialist,Inactive,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Diego Francisco Hurtado Paz,3,CX - BPO Specialist,Specialist,Active,,1.5,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Martina Notti,23,CX - Specialist,,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Enrique-Josias Huayanay-Vasquez,3,CX - BPO Specialist,Specialist,Active,,1.5,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Pablo Ovejero,23,CX - OPS,,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-José Luis Amorone,23,CX - OPS,,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Cleiver Guzman,24,CX - Specialist,,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Sandra Félix,3,CX - BPO Specialist,Specialist,Active,,1.5,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Gabriel Gonzalez,4,CX - Assistant,Supervisor,Active,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Crizy Chavely Depaz,4,CX - BPO Specialist,Specialist,Active,,1.5,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Malena Rosas,24,CX - Specialist,,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Mara Mendez,24,CX - Specialist,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Carolina Coscia,24,CX - Specialist,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Alejandra Maria Grande Tavara,4,CX - BPO Specialist,Specialist,Active,,1.5,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Brian Muro,24,CX - Specialist,,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Martin Diaz,24,CX - Specialist,,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Gianfrancis Arian Alegria Davila,4,CX - BPO Specialist,Specialist,Active,,1.5,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Carlos Eduardo Barbosa Barros,25,CX - Specialist,,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Micaela Delpiano,25,CX - Specialist,,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Emiliano Molina Barbaran,4,CX - BPO Specialist,Specialist,Active,,1.5,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Agostina Peduto,25,CX - Specialist,,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Gabriela Rivera,25,CX - Specialist,,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Gonzalo Rodriguez,25,CX - Specialist,,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Agustina Casal,25,CX Data,Analyst,Inactive,,0.7,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Luana Samira La Madrid Goncalves,26,CX - Specialist,Specialist,Inactive,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Sebastian Alejandro Delgado Pomacondor,4,CX - BPO Specialist,Specialist,Active,,1.5,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Jorge Luis,26,CX - Specialist,,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Damaris Cordova Luzon,4,CX - BPO Specialist,Specialist,Active,,1.5,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Hernan Coronel,5,CX - Training,Lead,Active,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Federico Ramos,26,CX - Specialist,Specialist,Inactive,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Jodith Estabillo,7,CX - Ops,Ops Coordinator,Active,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Johans Breidenbach,10,CX - QA,Analyst,Active,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Florencia Centrone,10,CX - Training,Analyst,Active,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Valentina Villa,26,CX - Specialist,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Zoe Quiroga,10,CX - Specialist,Specialist,Active,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Mateo Diaz,12,CX - Leadership,Lead,Inactive,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Yessica Nagib,13,CX - QA,Analyst,Active,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Darwin Noriega,14,CX - QA,Lead,Active,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Francia Colmenarez,15,CX - Specialist,Specialist,Active,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Maria Sol Popovich,27,CX - OPS,,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Maria Regules,15,CX - Leadership,Lead,Active,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Gabriela Baron,16,CX - Specialist,Specialist,Active,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Maria Fernanda Lara,17,CX - Specialist,Specialist,Active,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Serafin Sanchez,18,CX - Leadership,Manager,Active,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Fausto Rossi,19,CX - Specialist,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Milena Franco,19,CX - Leadership,Lead,Active,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Israel Fowks,28,CX - Specialist,,Inactive,,2.5,Needs intervention,0.1,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Paola Pirela,22,CX - Leadership,Supervisor,Active,,0.7,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Serena Gerbi,22,CX - Training,Analyst,Active,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Juan Fajardo,28,CX - Specialist,Specialist,Inactive,,2.5,Needs intervention,0.1,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Luis Siso,23,CX - Leadership,Supervisor,Active,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Fiorella Marquez,23,CX - Leadership,Supervisor,Active,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Braian Restrepo,23,CX - QA,Lead,Active,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Yeirmer Méndez,23,CX - Leadership,Lead,Active,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Daniela Castañeda,23,CX - Leadership,Lead,Active,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Rocio Vargas,24,CX - Leadership,Supervisor,Active,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Jose Angel Diaz,24,CX - Leadership,Lead,Active,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Luca Espindola,24,CX - Leadership,Specialist,Active,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Girolamo Yapo,24,CX - Specialist,Specialist,Active,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Ana Navarro,24,CX - Ops,Specialist,Active,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Yessenia Rojas,29,CX - Specialist,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Gabriel Navarro,25,CX - Specialist,Specialist,Active,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Laika Supay Deviasso,26,CX - Leadership,Lead,Active,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Florencia Castro,26,CX - Specialist,Specialist,Active,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Cecilia Gabet,26,CX - Specialist,Specialist,Active,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Lucila Aguilar Loyola,26,CX - Leadership,Lead,Active,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Ketevan  Streletska,26,CX - Leadership,Supervisor,Active,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Matias  Cardoso,26,CX - Ops,Specialist,Active,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Ximena Angulo,27,CX - Specialist,Specialist,Active,,2.5,Needs intervention,0.1,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Esteban Mujica,27,CX - Leadership,Lead,Active,,2.5,Needs intervention,0.1,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-María Carolina Cenoz,29,CX - Specialist,Specialist,Inactive,,3.1,Needs intervention,0.2,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Nicholas Meintjes,29,CX - Specialist,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Magalí Fernandez,27,CX - Specialist,Specialist,Active,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Valeria Leon,27,CX - Specialist,Specialist,Active,,2.5,Needs intervention,0.1,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Emiliano Ezcurra,27,CX - Specialist,Specialist,Active,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Renzo Durán,27,CX - Ops,Supervisor,Active,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Candelaria Lucena,28,CX - Specialist,Specialist,Active,,2.5,Needs intervention,0.1,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Eddington Fabrizzio,28,CX - Specialist,Specialist,Active,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Sergio Medina Macedo,30,CX - Specialist,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,90 days,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Sofia Chunga,30,CX - Specialist,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,90 days,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Erick Perez,28,CX - Specialist,Specialist,Active,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Kamil Asaram,28,CX - Specialist,Specialist,Active,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Henry Carmona,28,CX - Specialist,Specialist,Active,,2.5,Needs intervention,0.1,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Alejandra Paredes,28,CX - Specialist,Specialist,Active,,2.5,Needs intervention,0.1,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Lucia Huarte,28,CX - Specialist,Specialist,Active,,2.5,Needs intervention,0.1,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Lucas Medina,28,CX - Specialist,Specialist,Active,,2.5,Needs intervention,0.1,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Nicolas Tkaczyk,28,CX - Specialist,Specialist,Active,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Gabriel Badilla,28,CX - Specialist,Specialist,Active,,2.5,Needs intervention,0.1,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Cinthia Medina,28,CX - Leadership,Manager,Active,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Eduardo Giannini Vilchez Sarmiento,29,CX - Specialist,Specialist,Active,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Katherine Lino Bravo,29,CX - Specialist,Specialist,Active,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Renzo Hernan Bravo Suarez,29,CX - Specialist,Specialist,Active,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-George Derrick Serna,29,CX - Specialist,Specialist,Inactive,,3.1,Needs intervention,0.2,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Francisco Villar,29,CX - Specialist,Specialist,Active,,1.3,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Maria Cecilia Vargas,29,CX - Specialist,Specialist,Active,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Hans Acosta,29,CX - Specialist,Specialist,Active,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Ana Lucia Melendez,31,CX - Specialist,Specialist,Inactive,,3.5,Needs intervention,0.3,3.1,Needs intervention,0.2,#REF!,90 days,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Ervin Ponce de Leon,29,CX - Specialist,Specialist,Active,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Perla Luna,29,CX - Specialist,Specialist,Active,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Candy Lucero Vargas Moreira,29,CX - Specialist,Specialist,Active,,3.1,Needs intervention,0.2,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Spencer Jahir Arenas Eulatth,29,CX - Specialist,Specialist,Active,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Natalia Fernanda Esteves Lozada,29,CX - Specialist,Specialist,Active,,3.1,Needs intervention,0.2,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Giancarlo Ruggiero,29,CX - Specialist,Specialist,Active,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Ana Laura Fernandez,29,CX - Specialist,Specialist,Active,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Luz Fiorella Salazar,29,CX - Specialist,Specialist,Active,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Emiliano Barboza Chira,29,CX - Specialist,Specialist,Active,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Carlos Chagua,29,CX - Specialist,Specialist,Active,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Mauricio Cardenas,29,CX - Specialist,Specialist,Active,,3.1,Needs intervention,0.2,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-D'jana Leandro Jara,30,CX - Specialist,Specialist,Active,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,3.67,90 days,0.9,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Franko Svarcic,30,CX - Specialist,Specialist,Active,,3.5,Needs intervention,0.3,#N/A,#N/A,#N/A,3.33,90 days,0.6,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Francisco Romano Ruiz,30,CX - Leadership,Supervisor,Active,,3.5,Needs intervention,0.3,#N/A,#N/A,#N/A,#REF!,90 days,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Bosco Ancho,30,CX - Specialist,Specialist,Active,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,3.33,90 days,0.6,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Miguel Acosta,30,CX - Specialist,Specialist,Active,,3.5,Needs intervention,0.3,#N/A,#N/A,#N/A,3.67,90 days,0.9,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Maria Jose Perilla,30,CX - Specialist,Specialist,Active,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,4.33,90 days,1.2,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Yamely Elescano,30,CX - Specialist,Specialist,Active,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,3.00,90 days,0.6,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Alessandro Olivo,30,CX - Specialist,Specialist,Active,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,4.00,90 days,1.2,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Walter Yllescas,30,CX - Specialist,Specialist,Active,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,3.67,90 days,0.9,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Juan Carlos La Fuente Verano,30,CX - Specialist,Specialist,Active,,3.5,Needs intervention,0.3,#N/A,#N/A,#N/A,4.00,90 days,1.2,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Bethsabet Chalco Coronel,30,CX - Specialist,Specialist,Active,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,3.33,90 days,0.6,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Joseph Espinoza,30,CX - Specialist,Specialist,Active,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,3.33,90 days,0.6,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Julian Acotto,30,CX - Specialist,Specialist,Active,,0.7,Not ready,0.1,#N/A,#N/A,#N/A,3.67,90 days,0.9,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Rodrigo Benavides,30,CX - Specialist,Specialist,Active,,0.7,Not ready,0.1,#N/A,#N/A,#N/A,4.00,90 days,1.2,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Aaron Perea,31,CX - Leadership,Supervisor,Inactive,,3.5,Needs intervention,0.3,4.1,Developing,0.4,#REF!,90 days,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Abraham Luis Ramirez Garcia Blasquez,31,CX - Specialist,Specialist,Active,,3.5,Needs intervention,0.3,4.4,Developing,0.4,3.67,90 days,0.9,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Daniel Alejandro Virguez Chauta,31,CX - Specialist,Specialist,Active,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,3.33,90 days,0.6,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Alex Chavez,31,CX - Specialist,Specialist,Active,,2.9,Needs intervention,0.1,3.9,Needs intervention,0.3,3.67,90 days,0.9,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Ericka Cardenas,1,CX - BPO Leadership,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Alexandra Garcia Iman,31,CX - Specialist,Specialist,Active,,1.5,Not ready,0.1,3.7,Needs intervention,0.3,4.00,90 days,1.2,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Arturo Rojas,31,CX - Specialist,Specialist,Active,,3.5,Needs intervention,0.3,3.8,Needs intervention,0.3,3.67,90 days,0.9,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Bruno Vasquez,31,CX - Specialist,Specialist,Active,,3.5,Needs intervention,0.3,4.0,Developing,0.4,3.67,90 days,0.9,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Alex Cutire,1,CX - BPO Specialist,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Alisson Vasquez,1,CX - BPO Specialist,Specialist,Inactive,,0.7,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Ashlly Valdiviezo,1,CX - BPO Specialist,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Daniel Villar,1,CX - BPO Specialist,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-David Abad,1,CX - BPO Specialist,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Fariza Yunis,1,CX - BPO Specialist,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Bryan Arana Romero,31,CX - Specialist,Specialist,Active,,2.9,Needs intervention,0.1,3.5,Needs intervention,0.2,2.67,90 days,0.3,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Daniel Carlos Moran Rivera,31,CX - Specialist,Specialist,Active,,3.5,Needs intervention,0.3,4.1,Developing,0.4,2.67,90 days,0.3,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Karla Medina,1,CX - BPO Specialist,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Daniella Giraldo,31,CX - Assistant,Manager Assistant ,Active,,3.5,Needs intervention,0.3,4.4,Developing,0.4,#DIV/0!,90 days,#DIV/0!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Diego Quiroz,31,CX - Specialist,Specialist,Active,,3.5,Needs intervention,0.3,3.8,Needs intervention,0.3,4.00,90 days,1.2,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Marcos Anyosa,1,CX - BPO Specialist,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Marco Huapalla,1,CX - BPO Specialist,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Mathias Fernandez,1,CX - BPO Specialist,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Micaela Bravo,1,CX - BPO Specialist,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Moises Laynes,1,CX - BPO Specialist,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Eduardo Leon,31,CX - Specialist,Specialist,Active,,3.5,Needs intervention,0.3,4.4,Developing,0.4,3.00,90 days,0.6,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Franco Dongo Chacón,31,CX - Specialist,Specialist,Active,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,3.33,90 days,0.6,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Victor Salazar,1,CX - BPO Specialist,Specialist,Inactive,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Viktor Valdivia,1,CX - BPO Specialist,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Viviana Jurado,1,CX - BPO Specialist,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Gerald Torres Zamora,31,CX - Specialist,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2.33,90 days,0.3,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Vanessa Ortiz,2,CX - BPO Specialist,Specialist,Inactive,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Gustavo Rodriguez,31,CX - Specialist,Specialist,Inactive,,3.5,Needs intervention,0.3,#N/A,#N/A,#N/A,#REF!,90 days,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Oscar Chacon,2,CX - BPO Specialist,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Kiara Gutierrez,2,CX - BPO Specialist,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Madeleynne Castillo,2,CX - BPO Specialist,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Sandra Felix Consulta,2,CX - BPO Specialist,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Hugo Montoya Merino,31,CX - Specialist,Specialist,Active,,3.5,Needs intervention,0.3,4.4,Developing,0.4,3.67,90 days,0.9,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Jorge Peregrino,2,CX - BPO Specialist,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Julio Segura,2,CX - BPO Specialist,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Ignacio Agustin Nuñez,31,CX - Specialist,Specialist,Active,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,3.67,90 days,0.9,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Israel Toro,31,CX - Specialist,Specialist,Active,,2.9,Needs intervention,0.1,3.7,Needs intervention,0.3,2.67,90 days,0.3,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Joaquin Mole,31,CX - Specialist,Specialist,Active,,2.9,Needs intervention,0.1,3.1,Needs intervention,0.2,2.67,90 days,0.3,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Karen Duran,31,CX - Specialist,Specialist,Active,,3.5,Needs intervention,0.3,3.6,Needs intervention,0.3,3.67,90 days,0.9,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Mary Flores,2,CX - BPO Specialist,Specialist,Inactive,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Carlos Herbozo,2,CX - BPO Specialist,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Damaris Cordova,2,CX - BPO Specialist,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Alejandra Vera,2,CX - BPO Specialist,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Madeleynne Castillo-Paredes,3,CX - BPO Specialist,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Liuben Ogando-Castro,3,CX - BPO Specialist,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Kevin Enrique Torres Díaz,31,CX - Specialist,Specialist,Active,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,4.00,90 days,1.2,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Sheyla Lopez-Salvador,3,CX - BPO Specialist,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Luis Jesus Diaz Yauri,31,CX - Specialist,Specialist,Active,,3.5,Needs intervention,0.3,4.5,Developing,0.4,3.67,90 days,0.9,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Allison-Priscilla Mendoza-Flores,3,CX - BPO Specialist,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Mariana Marquina,31,CX - Specialist,Specialist,Active,,2.9,Needs intervention,0.1,3.5,Needs intervention,0.2,3.00,90 days,0.6,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Luis-Jose Salazar-Alarcon,3,CX - BPO Specialist,Specialist,Inactive,,1.5,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Mariana Rojas,31,CX - Specialist,Specialist,Active,,3.5,Needs intervention,0.3,3.5,Needs intervention,0.2,2.67,90 days,0.3,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Erick-Alfredo GardinGamero,3,CX - BPO Specialist,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Marlon-Sebastian Ramirez-Munico,3,CX - BPO Specialist,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Mario Flores-Gonzalez,3,CX - BPO Specialist,Specialist,Inactive,,1.5,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Martin Carhuamaca,31,CX - Leadership,Lead,Active,,3.5,Needs intervention,0.3,4.0,Developing,0.4,#DIV/0!,90 days,#DIV/0!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Martina Schinca,31,CX - Specialist,Specialist,Active,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,3.00,90 days,0.6,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Mónica Mileih Garcia Pelaez,31,CX - Specialist,Specialist,Active,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,4.33,90 days,1.2,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Rosario Sanchez,3,CX - BPO Specialist,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Natalia Reinosa,31,CX - Leadership,Supervisor,Inactive,,3.5,Needs intervention,0.3,3.5,Needs intervention,0.3,#REF!,90 days,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Alejandro Arenas,3,CX - BPO Specialist,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Kaori Nakashima,4,CX - BPO Specialist,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Olga Acosta,31,CX - Specialist,Specialist,Active,,3.5,Needs intervention,0.3,4.0,Developing,0.4,3.67,90 days,0.9,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Renzo Berzabat Neyra de la Cruz,31,CX - Specialist,Specialist,Active,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,3.67,90 days,0.9,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Luis Enrique Inga La Serna,4,CX - BPO Specialist,Specialist,Inactive,,0.7,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Fabio Leandro Gastiaburu Porras,4,CX - BPO Specialist,Specialist,Inactive,,1.5,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Rodolfo Hernandez,31,CX - Specialist,Specialist,Active,,1.5,Not ready,0.1,2.7,Needs intervention,0.1,2.00,90 days,0.3,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Rodolfo Pineda Lora,31,CX - Specialist,Specialist,Active,,3.5,Needs intervention,0.3,3.6,Needs intervention,0.3,3.00,90 days,0.6,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Roxana Isabel  Salas Zarate,4,CX - BPO Specialist,Specialist,Inactive,,1.5,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Angela  Santos Vasquez,4,CX - BPO Specialist,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Salomon Mattos Ruiz,31,CX - Specialist,Specialist,Active,,3.5,Needs intervention,0.3,4.0,Developing,0.4,3.67,90 days,0.9,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Yocelyn Rita  Fernández Salas ,4,CX - BPO Specialist,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Ximena Farrilie Anticona Herrera,31,CX - Leadership,Supervisor,Active,,2.9,Needs intervention,0.1,3.6,Needs intervention,0.3,#REF!,90 days,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Daphne Francesca Chavez Bielich,4,CX - BPO Specialist,Specialist,Inactive,,1.5,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Jeffrin Luis  Tarifeño Rojas,4,CX - BPO Specialist,Specialist,Inactive,,1.5,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Jeeimy Rojas Hidalgo,5,CX - BPO Training,Specialist,Active,,0.8,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Ivan Oriundo Prado,5,CX - BPO Specialist ,Specialist,Inactive,,0.8,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Anatoly Montero Mercado,5,CX - BPO Training,Specialist,Active,,1.5,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Gonzalo Gutierrez Römer,5,CX - BPO Training,Specialist,Active,,0.8,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Sandra Segura Gropuzzo,5,CX - BPO Training,Specialist,Active,,0.8,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Sheyla Noriega Bernal,5,CX - BPO Training,Specialist,Active,,2.1,Needs intervention,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Tatiana Gutierrez Mabama,5,CX - BPO Specialist ,Specialist,Inactive,,0.7,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Yoselyn Campos Cueva,5,CX - BPO Training,Specialist,Active,,0.8,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Karla Galiano Gaspar,5,CX - BPO Specialist ,Specialist,Inactive,,0.7,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Samantha Carranza Sanchez,5,CX - BPO Training,Specialist,Active,,0.7,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Cesar De la Cruz Gomez,5,CX - BPO Training,Specialist,Active,,1.5,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Ayeska Auza Villanueva,5,CX - BPO Specialist ,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Ruth Quispe Diaz,5,CX - BPO Specialist ,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Michael Gomez ,5,CX - BPO Specialist ,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Alberto Herrera ,5,CX - BPO Specialist ,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Enrique Pando Castro,5,CX - BPO Specialist ,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Christian Fernandez Jara,5,CX - BPO Specialist ,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Mayra Aguirre Romero,5,CX - BPO Specialist ,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Jennifer Paz Temoche,5,CX - BPO Specialist ,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Sofía Meza Chumpitaz,5,CX - BPO Specialist ,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Ximena Macalupu Ventocilla,5,CX - BPO Specialist ,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Sandra Benites ,5,CX - BPO Specialist ,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Sephora Diaz Altamirano,5,CX - BPO Specialist ,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Kathy Bustamante Valverde,5,CX - BPO Specialist ,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Jhon Crespo Damiano,5,CX - BPO Specialist ,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Jampiero Chora Suarez,5,CX - BPO Specialist ,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Cristel Candela Mendoza,5,CX - BPO Specialist ,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Jorge Sipan Barraza,5,CX - BPO Specialist ,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Abrahan Mariñas Calderon,32,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,4.8,Meets expectations,0.125,3.33,Developing,0.7,4,Meets expectations,0.8,4.2,Meets expectations,1.4,3.15,,Intervention Required,,,
-Andre Gaston Valdivia Vasquez,32,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,4.7,Meets expectations,0.125,3.67,Developing,1.05,4.5,Exceeds expectations,1,4.6,Exceeds expectations,1.75,4.05,,Ready with Coaching,,,
-Angello Omaet Niño De Guzmán Zevallos,32,CX - Specialist,Specialist,Active,Promoted,5,Exceeds expectations,0.125,4.7,Meets expectations,0.125,3.67,Developing,1.05,5,Exceeds expectations,1,5,Exceeds expectations,1.75,4.05,,Ready with Coaching,,,
-Angelo Stefano Paricela Principe,32,CX - Specialist,Specialist,Active,,4.9,Exceeds expectations,0.125,4.2,Developing,0.1,3.67,Developing,1.05,5,Exceeds expectations,1,5,Exceeds expectations,1.75,4.025,,Ready with Coaching,,,
-Anyela Andreina Dachille Nava,32,CX - Specialist,Specialist,Active,,3.9,Needs intervention,0.075,4.7,Meets expectations,0.125,3.67,Developing,1.05,4,Meets expectations,0.8,4.8,Exceeds expectations,1.75,3.8,,Coaching Required,,,
-Brenda Chavez,32,CX - Specialist,Specialist,Inactive,,4.9,Exceeds expectations,0.5,2.7,Needs intervention,0.1,#REF!,,#REF!,3.5,Developing,0.6,3.8,Developing,0.75,#REF!,,,,,
-Camila Alexandra Buiza Cabrera,32,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,4.7,Meets expectations,0.125,2.67,Needs intervention,0.35,3.5,Developing,0.6,4.8,Exceeds expectations,1.75,2.95,,Intervention Required,,,
-Cesar Adrian Arraiz Chavez,32,CX - Specialist,Specialist,Active,Promoted,5,Exceeds expectations,0.125,4.5,Developing,0.1,4.00,Meets expectations,1.4,5,Exceeds expectations,1,5,Exceeds expectations,1.75,4.375,,Ready with Coaching,,,
-Cesar Rivera Magno,32,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,4.5,Meets expectations,0.125,3.33,Developing,0.7,4,Meets expectations,0.8,4.6,Exceeds expectations,1.75,3.5,,Coaching Required,,,
-Cristina Torres Bustillos,32,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,4.5,Meets expectations,0.125,3.33,Developing,0.7,4.75,Exceeds expectations,1,5,Exceeds expectations,1.75,3.7,,Coaching Required,,,
-Diego Alfonso La Torre Flores,32,CX - Specialist,Specialist,Inactive,,5,Exceeds expectations,0.125,4.6,Meets expectations,0.125,3.33,Developing,0.7,3.25,Developing,0.4,2,Needs intervention,0.35,1.7,,Reevaluation Required,,,
-Eduardo Benjamin Yep Ishisaka,32,CX - Specialist,Specialist,Active,Promoted,5,Exceeds expectations,0.125,4.7,Meets expectations,0.125,3.67,Developing,1.05,5,Exceeds expectations,1,4,Meets expectations,1.4,3.7,,Coaching Required,,,
-Eduardo Felipe Rodriguez Proscopio,32,CX - Specialist,Specialist,Active,,4.9,Exceeds expectations,0.125,3.9,Needs intervention,0.075,3.67,Developing,1.05,3.25,Developing,0.4,3.4,Developing,0.7,2.35,,Reevaluation Required,,,
-Eliana Del Carmen Vega Cipriano,32,CX - Specialist,Specialist,Active,Promoted,5,Exceeds expectations,0.125,4.7,Meets expectations,0.125,2.67,Needs intervention,0.35,4.5,Exceeds expectations,1,5,Exceeds expectations,1.75,3.35,,Intervention Required,,,
-Henry Amaranto,32,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,3.0,Needs intervention,0.05,3.00,Developing,0.7,3.75,Developing,0.6,3,Developing,0.7,2.175,,Reevaluation Required,,,
-Jackelyn Rocio Mattos Regalado,32,CX - Specialist,Specialist,Active,Promoted,5,Exceeds expectations,0.125,4.7,Meets expectations,0.125,3.67,Developing,1.05,4.25,Meets expectations,0.8,5,Exceeds expectations,1.75,3.85,,Coaching Required,,,
-Janssel Ivair Flores Tello,32,CX - Specialist,Specialist,Inactive,,5,Exceeds expectations,0.125,4.6,Meets expectations,0.125,#N/A,#N/A,#N/A,3.5,Developing,0.6,2.8,Needs intervention,0.35,#N/A,,#N/A,,,
-Joaquin Manuel Caballero Flores,32,CX - Specialist,Specialist,Inactive,,4.7,Meets expectations,0.5,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Jose Mauricio Reyes Tasayco,32,CX - Specialist,Specialist,Inactive,,3.5,Needs intervention,0.075,2.7,Needs intervention,0.025,#N/A,#N/A,#N/A,3,Developing,0.4,2,Needs intervention,0.35,#N/A,,#N/A,,,
-Josue Castrosqui Brush,32,CX - Specialist,Specialist,Active,Promoted,5,Exceeds expectations,0.125,4.2,Developing,0.1,4.33,Meets expectations,1.4,5,Exceeds expectations,1,5,Exceeds expectations,1.75,4.375,,Ready with Coaching,,,
-Juan Diego Gomez Aiyon,32,CX - Specialist,Specialist,Active,Promoted,5,Exceeds expectations,0.125,4.2,Developing,0.1,3.33,Developing,0.7,5,Exceeds expectations,1,5,Exceeds expectations,1.75,3.675,,Coaching Required,,,
-Julio Mateo Arakaki Vera,32,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,4.8,Meets expectations,0.125,2.67,Needs intervention,0.35,3.25,Developing,0.4,3,Developing,0.7,1.7,,Reevaluation Required,,,
-Kaori Nakashima Tarazona,32,CX - Specialist,Specialist,Active,Promoted,5,Exceeds expectations,0.125,4.6,Meets expectations,0.125,3.67,Developing,1.05,4.75,Exceeds expectations,1,4.8,Exceeds expectations,1.75,4.05,,Ready with Coaching,,,
-Kevin Palomino,32,CX - Specialist,Specialist,Inactive,Promoted,5,Exceeds expectations,0.125,4.7,Meets expectations,0.125,3.67,Developing,1.05,4.5,Exceeds expectations,1,4.2,Meets expectations,1.4,3.7,,Coaching Required,,,
-Lisangel Carolina Gallardo Hernandez,32,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,3.7,Needs intervention,0.075,3.33,Developing,0.7,3.5,Developing,0.6,3.8,Developing,1.05,2.55,,Intervention Required,,,
-Madeleynne Castillo Paredes,32,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,4.7,Meets expectations,0.125,2.67,Needs intervention,0.35,4,Meets expectations,0.8,4,Meets expectations,1.4,2.8,,Intervention Required,,,
-Marco Antonio Ato Mejia,32,CX - Specialist,Specialist,Inactive,,4.9,Exceeds expectations,0.125,4.4,Developing,0.1,3.33,Developing,0.7,3,Developing,0.4,3,Developing,0.7,2.025,,Reevaluation Required,,,
-María Fernanda Torres Vasquez,32,CX - Specialist,Specialist,Active,,4.9,Exceeds expectations,0.125,4.4,Developing,0.1,3.33,Developing,0.7,3.5,Developing,0.6,4.8,Exceeds expectations,1.75,3.275,,Intervention Required,,,
-Matias Alonso Tamariz Briceño,32,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,4.7,Meets expectations,0.125,3.00,Developing,0.7,3.75,Developing,0.6,4,Meets expectations,1.4,2.95,,Intervention Required,,,
-Matias Cruz Rodriguez,32,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,4.7,Meets expectations,0.125,4.33,Meets expectations,1.4,4.5,Exceeds expectations,1,3.2,Developing,0.7,3.35,,Intervention Required,,,
-Mauricio José Vargas Morón,32,CX - Specialist,Specialist,Inactive,,5,Exceeds expectations,0.5,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Michael Matzumura Gonzáles,32,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,4.6,Meets expectations,0.125,3.33,Developing,0.7,5,Exceeds expectations,1,5,Exceeds expectations,1.75,3.7,,Coaching Required,,,
-Miguel Ángel Márquez Jader,32,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,4.3,Developing,0.1,2.33,Needs intervention,0.35,4.5,Exceeds expectations,1,3.8,Developing,1.05,2.625,,Intervention Required,,,
-Milagros Hurtado Salazar,32,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,4.3,Developing,0.1,3.33,Developing,0.7,4.5,Exceeds expectations,1,5,Exceeds expectations,1.75,3.675,,Coaching Required,,,
-Milagros Suarez Lujan,32,CX - Specialist,Specialist,Active,Promoted,5,Exceeds expectations,0.125,4.3,Developing,0.1,2.67,Needs intervention,0.35,4,Meets expectations,0.8,5,Exceeds expectations,1.75,3.125,,Intervention Required,,,
-Nicolas Garcia,32,CX - Specialist,Specialist,Active,Promoted,5,Exceeds expectations,0.125,4.1,Developing,0.1,4.00,Meets expectations,1.4,5,Exceeds expectations,1,3.6,Developing,1.05,3.675,,Coaching Required,,,
-Nicole Adriana Rojas Rojas,32,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,4.5,Meets expectations,0.125,2.67,Needs intervention,0.35,2.75,Needs intervention,0.2,3.6,Developing,1.05,1.85,,Reevaluation Required,,,
-Nidia Peña Sanchez,32,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,4.7,Meets expectations,0.125,2.33,Needs intervention,0.35,3.5,Developing,0.6,3.2,Developing,0.7,1.9,,Reevaluation Required,,,
-Osvaldo Martín Leclere,32,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,4.3,Developing,0.1,3.00,Developing,0.7,5,Exceeds expectations,1,4.6,Exceeds expectations,1.75,3.675,,Coaching Required,,,
-Pedro Galindo,32,CX - Specialist,Specialist,Active,,4,Developing,0.1,4.5,Developing,0.1,3.00,Developing,0.7,3.5,Developing,0.6,3.2,Developing,0.7,2.2,,Reevaluation Required,,,
-Piero Benjamín Porras Miguel,32,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,4.0,Developing,0.1,3.00,Developing,0.7,3,Developing,0.4,2.4,Needs intervention,0.35,1.675,,Reevaluation Required,,,
-Raffael Anttonio Garcia Perez Vargas,32,CX - Specialist,Specialist,Active,Promoted,5,Exceeds expectations,0.125,3.6,Needs intervention,0.075,3.67,Developing,1.05,3.5,Developing,0.6,3.8,Developing,1.05,2.9,,Intervention Required,,,
-Rosa Loayza Uzategui,32,CX - Specialist,Specialist,Active,,4.3,Developing,0.1,4.5,Meets expectations,0.125,3.33,Developing,0.7,4.25,Meets expectations,0.8,3,Developing,0.7,2.425,,Reevaluation Required,,,
-Sheyla Alvarado Santillán,32,CX - Specialist,Specialist,Inactive,,5,Exceeds expectations,0.5,#N/A,#N/A,#N/A,,,0.3,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Sofia Chunga Zavaleta,32,CX - Specialist,Specialist,Inactive,,2.9,Needs intervention,0.1,2.6,Needs intervention,0.1,,,0.3,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
-Vanessa Lie Del Rosario Acero,32,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,4.5,Developing,0.1,3.00,Developing,0.7,4.75,Exceeds expectations,1,5,Exceeds expectations,1.75,3.675,,Coaching Required,,,
-Ximena Prado Moscoso,32,CX - Specialist,Specialist,Active,Promoted,5,Exceeds expectations,0.125,4.9,Exceeds expectations,0.125,4.00,Meets expectations,1.4,4.75,Exceeds expectations,1,5,Exceeds expectations,1.75,4.4,,Ready with Coaching,,,
-Nicole Mujica Wiener,33,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,4.0,Developing,0.1,3.33,Developing,0.7,4.25,Meets expectations,0.8,4.6,Exceeds expectations,1.75,3.475,,Intervention Required,,,
-Fabiana Vega,33,CX - Specialist,Specialist,Active,,4.4,Developing,0.1,3.5,Needs intervention,0.075,2.67,Needs intervention,0.35,4.25,Meets expectations,0.8,3.8,Developing,1.05,2.375,,Reevaluation Required,,,
-Macla Rivas,33,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,4.5,Meets expectations,0.125,3.00,Developing,0.7,4.25,Meets expectations,0.8,3,Developing,0.7,2.45,,Reevaluation Required,,,
-Matías Larriviere,33,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,4.5,Developing,0.1,3.67,Developing,1.05,2.5,Needs intervention,0.2,4,Meets expectations,1.4,2.875,,Intervention Required,,,
-Stefania Garay Angarita,33,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,4.6,Meets expectations,0.125,3.67,Developing,1.05,4.25,Meets expectations,0.8,5,Exceeds expectations,1.75,3.85,,Coaching Required,,,
-Renzo Silva,33,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,4.2,Developing,0.1,3.33,Developing,0.7,3.75,Developing,0.6,3,Developing,0.7,2.225,,Reevaluation Required,,,
-Maria Cortez,33,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,3.5,Needs intervention,0.075,3.33,Developing,0.7,3,Developing,0.4,3,Developing,0.7,2,,Reevaluation Required,,,
-Oscar Diaz,33,CX - Specialist,Specialist,Active,,4.3,Developing,0.1,4.6,Meets expectations,0.125,3.33,Developing,0.7,4.25,Meets expectations,0.8,3.8,Developing,1.05,2.775,,Intervention Required,,,
-Guillo Camacho Galvez,33,CX - Specialist,Specialist,Active,,4.4,Developing,0.1,4.1,Developing,0.1,4.00,Meets expectations,1.4,2.75,Needs intervention,0.2,4.8,Exceeds expectations,1.75,3.55,,Coaching Required,,,
-Danilo Tipismana,33,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,4.8,Meets expectations,0.125,4.00,Meets expectations,1.4,3.75,Developing,0.6,4,Meets expectations,1.4,3.65,,Coaching Required,,,
-Sara Parreño,33,CX - Specialist,Specialist,Inactive,,4.9,Exceeds expectations,0.125,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,#N/A,,,
-Cielo Godoy,33,CX - Specialist,Specialist,Active,,4.3,Developing,0.1,3.9,Needs intervention,0.075,2.33,Needs intervention,0.35,3.75,Developing,0.6,3.4,Developing,0.7,1.825,,Reevaluation Required,,,
-Luisa Muñinco,33,CX - Specialist,Specialist,Inactive,,5,Exceeds expectations,0.125,4.1,Developing,0.1,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,#N/A,,,
-Edmar Rodrigo,33,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,4.1,Developing,0.1,3.33,Developing,0.7,3.5,Developing,0.6,2.8,Needs intervention,0.35,1.875,,Reevaluation Required,,,
-Silvana Hidalgo Moreira,33,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,4.5,Meets expectations,0.125,3.67,Developing,1.05,4.5,Exceeds expectations,1,3.6,Developing,1.05,3.35,,Intervention Required,,,
-Alonso Patron,33,CX - Leadership,Supervisor,Active,,5,Exceeds expectations,0.125,4.8,Meets expectations,0.125,4.33,Meets expectations,1.4,4.5,Exceeds expectations,1,4.8,Exceeds expectations,1.75,4.4,,Ready with Coaching,,,
-Alejandro Rodriguez,33,CX - Leadership,Supervisor,Active,,4.3,Developing,0.1,3.2,Needs intervention,0.05,2.33,Needs intervention,0.35,3.25,Developing,0.4,2.6,Needs intervention,0.35,1.25,,Reevaluation Required,,,
-Grey Cruzado,33,CX - Leadership,Supervisor,Active,,5,Exceeds expectations,0.125,4.8,Meets expectations,0.125,3.00,Developing,0.7,3.75,Developing,0.6,4.2,Meets expectations,1.4,2.95,,Intervention Required,,,
-Ernesto Nunez,33,CX - QA,Analyst,Active,,5,Exceeds expectations,0.125,4.3,Developing,0.1,3.00,Developing,0.7,4.5,Exceeds expectations,1,4,Meets expectations,1.4,3.325,,Intervention Required,,,
-Bruno Bances Monard,33,CX - QA,Analyst,Inactive,,5,Exceeds expectations,0.125,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,#N/A,,,
-Lucia Ponce,33,CX - QA,Analyst,Inactive,,4.3,Developing,0.1,4.3,Developing,0.1,3.00,Developing,0.7,4.25,Meets expectations,0.8,3.6,Developing,1.05,2.75,,Intervention Required,,,
-Fernando Alfredo Merino Suarez,33,CX - Specialist,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,#N/A,,,
-Alejandra Geldres,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,4.6,Meets expectations,0.125,3.33,Developing,0.7,4.75,Exceeds expectations,1,4.2,Meets expectations,1.6,3.55,,Coaching Required,"## Supervisor Quick View
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Employee,Group,Squad,Role,Job Status,Supervisor,Onboarding Status,Basic Knowledge Score,Basic Knowledge Status ,Basic Knowledge Equivalent,Operational Knowledge Score,Operational Knowledge Status ,Operational Knowledge Equivalent,Performance Score, Performance Status ,Performance Equivalent,Behavioral Score,Behavioral Status ,Behavioral Equivalent,Critical Thinking Score,Critical Thinking Status ,Critical Thinking Equivalent,Readiness Total Score,Comments,Readiness Status,Trainer Recommendation,Tier Recommended,Trainee page
+Patrice Camille Halili,1,CX - Leadership,Supervisor,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,0,Not ready,#NAME?,#NAME?,,,,,
+Ghel Punzalan,1,CX - OPS,Lead,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Carlos Lluen,1,CX - BPO Training,Lead,Active,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Pablo Coronel,2,CX - Specialist,Supervisor,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Jenny Hardy,2,CX - Specialist,Supervisor,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Guillermo Reyes,2,CX - OPS,,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Ludmila Biagi,3,CX - Specialist,,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Emilse Itati,4,CX - Specialist,,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Marco Toribio,1,CX - BPO Leadership,Supervisor,Active,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+M.Elisa Cordoba,5,CX - Specialist,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Adriana Quiroz,1,CX - BPO Training,Lead,Active,,,0.7,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Trinidad Cejas,6,CX - Specialist,,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Magali Silva,6,CX - Specialist,,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Gabriela Tapia,1,CX - BPO Leadership,Lead,Active,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Luis Lacruz,8,CX - OPS,,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Hector Uscamayta,1,CX - BPO Specialist,Specialist,Active,,,0.7,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Jose D De la Cruz,1,CX - BPO Specialist,Specialist,Active,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Jose L Franco,1,CX - BPO Specialist,Specialist,Active,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Joan Torres,11,CX - OPS,,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Sofia Seivane,12,CX - Specialist,,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Ricardo Guzman,12,CX - Specialist,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Narayan Martino,1,CX - BPO Specialist,Specialist,Active,,,0.7,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Sylvana Pilco,1,CX - BPO Leadership,Lead,Active,,,3.1,Needs intervention,0.2,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Diego Enriquez,2,CX - Training,Lead,Active,,,0.7,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Gretshen Zevallos,2,CX - BPO Specialist,Specialist,Active,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Eduardo Santana,2,CX - BPO Specialist,Specialist,Active,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Renato Benigno,2,CX - BPO Specialist,Specialist,Active,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Lucas Gerez,16,CX - Specialist,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Camila Sanchez,17,CX - Specialist,Lead,Inactive,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Jenny Huaman,2,CX - BPO Specialist,Specialist,Active,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Mariana Rodriguez,17,CX - Specialist,,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Jorge Parra,18,CX - Specialist,,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Valeria Tupa,2,CX - BPO Specialist,Specialist,Active,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Gisella Ribachi,19,CX - Specialist,,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Esequiel Starostiuk,19,CX - Specialist,,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Mariana Ferreyros,2,CX - BPO Specialist,Specialist,Active,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Luis Peralta,2,CX - BPO Specialist,Specialist,Active,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Pedro Cornet,20,CX - Specialist,,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Ludmila Cirelli,20,CX - Specialist,,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Alejandro Acosta,21,CX - Specialist,,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Adolfo Benjamin Kunjuk,21,CX - Specialist,,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Alonso Saravia,22,CX - QA,,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Nicolas Rojas,22,CX - Specialist,,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Ricardo-Alejandro Acuna-Mendoza,3,CX - BPO Specialist,Specialist,Active,,,1.5,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Daniel-Emilio Morales-Vizcardo,3,CX - BPO Specialist,Specialist,Active,,,1.5,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Anny-Beatriz Reyna-Gamboa,3,CX - BPO Specialist,Specialist,Active,,,0.8,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Abigail-Briggette Chauca-Tinco,3,CX - BPO Specialist,Specialist,Active,,,1.5,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Maura-Cecilia Valle-Alvarado,3,CX - BPO Specialist,Specialist,Active,,,1.5,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Eglys Garcia,23,CX - Specialist,,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Manuel Torres,23,CX - Specialist,,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Nicolas Appezzato,23,CX - Specialist,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Ariana Ehrhardt,23,CX - Specialist,Specialist,Inactive,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Diego Francisco Hurtado Paz,3,CX - BPO Specialist,Specialist,Active,,,1.5,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Martina Notti,23,CX - Specialist,,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Enrique-Josias Huayanay-Vasquez,3,CX - BPO Specialist,Specialist,Active,,,1.5,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Pablo Ovejero,23,CX - OPS,,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+José Luis Amorone,23,CX - OPS,,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Cleiver Guzman,24,CX - Specialist,,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Sandra Félix,3,CX - BPO Specialist,Specialist,Active,,,1.5,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Gabriel Gonzalez,4,CX - Assistant,Supervisor,Active,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Crizy Chavely Depaz,4,CX - BPO Specialist,Specialist,Active,,,1.5,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Malena Rosas,24,CX - Specialist,,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Mara Mendez,24,CX - Specialist,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Carolina Coscia,24,CX - Specialist,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Alejandra Maria Grande Tavara,4,CX - BPO Specialist,Specialist,Active,,,1.5,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Brian Muro,24,CX - Specialist,,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Martin Diaz,24,CX - Specialist,,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Gianfrancis Arian Alegria Davila,4,CX - BPO Specialist,Specialist,Active,,,1.5,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Carlos Eduardo Barbosa Barros,25,CX - Specialist,,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Micaela Delpiano,25,CX - Specialist,,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Emiliano Molina Barbaran,4,CX - BPO Specialist,Specialist,Active,,,1.5,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Agostina Peduto,25,CX - Specialist,,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Gabriela Rivera,25,CX - Specialist,,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Gonzalo Rodriguez,25,CX - Specialist,,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Agustina Casal,25,CX Data,Analyst,Inactive,,,0.7,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Luana Samira La Madrid Goncalves,26,CX - Specialist,Specialist,Inactive,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Sebastian Alejandro Delgado Pomacondor,4,CX - BPO Specialist,Specialist,Active,,,1.5,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Jorge Luis,26,CX - Specialist,,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Damaris Cordova Luzon,4,CX - BPO Specialist,Specialist,Active,,,1.5,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Hernan Coronel,5,CX - Training,Lead,Active,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Federico Ramos,26,CX - Specialist,Specialist,Inactive,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Jodith Estabillo,7,CX - Ops,Ops Coordinator,Active,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Johans Breidenbach,10,CX - QA,Analyst,Active,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Florencia Centrone,10,CX - Training,Analyst,Active,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Valentina Villa,26,CX - Specialist,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Zoe Quiroga,10,CX - Specialist,Specialist,Active,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Mateo Diaz,12,CX - Leadership,Lead,Inactive,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Yessica Nagib,13,CX - QA,Analyst,Active,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Darwin Noriega,14,CX - QA,Lead,Active,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Francia Colmenarez,15,CX - Specialist,Specialist,Active,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Maria Sol Popovich,27,CX - OPS,,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Maria Regules,15,CX - Leadership,Lead,Active,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Gabriela Baron,16,CX - Specialist,Specialist,Active,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Maria Fernanda Lara,17,CX - Specialist,Specialist,Active,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Serafin Sanchez,18,CX - Leadership,Manager,Active,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Fausto Rossi,19,CX - Specialist,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Milena Franco,19,CX - Leadership,Lead,Active,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Israel Fowks,28,CX - Specialist,,Inactive,,,2.5,Needs intervention,0.1,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Paola Pirela,22,CX - Leadership,Supervisor,Active,,,0.7,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Serena Gerbi,22,CX - Training,Analyst,Active,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Juan Fajardo,28,CX - Specialist,Specialist,Inactive,,,2.5,Needs intervention,0.1,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Luis Siso,23,CX - Leadership,Supervisor,Active,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Fiorella Marquez,23,CX - Leadership,Supervisor,Active,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Braian Restrepo,23,CX - QA,Lead,Active,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Yeirmer Méndez,23,CX - Leadership,Lead,Active,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Daniela Castañeda,23,CX - Leadership,Lead,Active,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Rocio Vargas,24,CX - Leadership,Supervisor,Active,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Jose Angel Diaz,24,CX - Leadership,Lead,Active,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Luca Espindola,24,CX - Leadership,Specialist,Active,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Girolamo Yapo,24,CX - Specialist,Specialist,Active,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Ana Navarro,24,CX - Ops,Specialist,Active,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Yessenia Rojas,29,CX - Specialist,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Gabriel Navarro,25,CX - Specialist,Specialist,Active,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Laika Supay Deviasso,26,CX - Leadership,Lead,Active,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Florencia Castro,26,CX - Specialist,Specialist,Active,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Cecilia Gabet,26,CX - Specialist,Specialist,Active,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Lucila Aguilar Loyola,26,CX - Leadership,Lead,Active,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Ketevan  Streletska,26,CX - Leadership,Supervisor,Active,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Matias  Cardoso,26,CX - Ops,Specialist,Active,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,#REF!,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Ximena Angulo,27,CX - Specialist,Specialist,Active,,,2.5,Needs intervention,0.1,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Esteban Mujica,27,CX - Leadership,Lead,Active,,,2.5,Needs intervention,0.1,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+María Carolina Cenoz,29,CX - Specialist,Specialist,Inactive,,,3.1,Needs intervention,0.2,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Nicholas Meintjes,29,CX - Specialist,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Magalí Fernandez,27,CX - Specialist,Specialist,Active,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Valeria Leon,27,CX - Specialist,Specialist,Active,,,2.5,Needs intervention,0.1,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Emiliano Ezcurra,27,CX - Specialist,Specialist,Active,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Renzo Durán,27,CX - Ops,Supervisor,Active,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Candelaria Lucena,28,CX - Specialist,Specialist,Active,,,2.5,Needs intervention,0.1,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Eddington Fabrizzio,28,CX - Specialist,Specialist,Active,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Sergio Medina Macedo,30,CX - Specialist,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,90 days,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Sofia Chunga,30,CX - Specialist,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,90 days,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Erick Perez,28,CX - Specialist,Specialist,Active,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Kamil Asaram,28,CX - Specialist,Specialist,Active,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Henry Carmona,28,CX - Specialist,Specialist,Active,,,2.5,Needs intervention,0.1,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Alejandra Paredes,28,CX - Specialist,Specialist,Active,,,2.5,Needs intervention,0.1,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Lucia Huarte,28,CX - Specialist,Specialist,Active,,,2.5,Needs intervention,0.1,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Lucas Medina,28,CX - Specialist,Specialist,Active,,,2.5,Needs intervention,0.1,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Nicolas Tkaczyk,28,CX - Specialist,Specialist,Active,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Gabriel Badilla,28,CX - Specialist,Specialist,Active,,,2.5,Needs intervention,0.1,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Cinthia Medina,28,CX - Leadership,Manager,Active,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Eduardo Giannini Vilchez Sarmiento,29,CX - Specialist,Specialist,Active,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Katherine Lino Bravo,29,CX - Specialist,Specialist,Active,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Renzo Hernan Bravo Suarez,29,CX - Specialist,Specialist,Active,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+George Derrick Serna,29,CX - Specialist,Specialist,Inactive,,,3.1,Needs intervention,0.2,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Francisco Villar,29,CX - Specialist,Specialist,Active,,,1.3,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Maria Cecilia Vargas,29,CX - Specialist,Specialist,Active,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Hans Acosta,29,CX - Specialist,Specialist,Active,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Ana Lucia Melendez,31,CX - Specialist,Specialist,Inactive,,,3.5,Needs intervention,0.3,3.1,Needs intervention,0.2,#REF!,90 days,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Ervin Ponce de Leon,29,CX - Specialist,Specialist,Active,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Perla Luna,29,CX - Specialist,Specialist,Active,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Candy Lucero Vargas Moreira,29,CX - Specialist,Specialist,Active,,,3.1,Needs intervention,0.2,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Spencer Jahir Arenas Eulatth,29,CX - Specialist,Specialist,Active,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Natalia Fernanda Esteves Lozada,29,CX - Specialist,Specialist,Active,,,3.1,Needs intervention,0.2,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Giancarlo Ruggiero,29,CX - Specialist,Specialist,Active,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Ana Laura Fernandez,29,CX - Specialist,Specialist,Active,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Luz Fiorella Salazar,29,CX - Specialist,Specialist,Active,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Emiliano Barboza Chira,29,CX - Specialist,Specialist,Active,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Carlos Chagua,29,CX - Specialist,Specialist,Active,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Mauricio Cardenas,29,CX - Specialist,Specialist,Active,,,3.1,Needs intervention,0.2,#N/A,#N/A,#N/A,#REF!,4 Weeks,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+D'jana Leandro Jara,30,CX - Specialist,Specialist,Active,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,3.67,90 days,0.9,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Franko Svarcic,30,CX - Specialist,Specialist,Active,,,3.5,Needs intervention,0.3,#N/A,#N/A,#N/A,3.33,90 days,0.6,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Francisco Romano Ruiz,30,CX - Leadership,Supervisor,Active,,,3.5,Needs intervention,0.3,#N/A,#N/A,#N/A,#REF!,90 days,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Bosco Ancho,30,CX - Specialist,Specialist,Active,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,3.33,90 days,0.6,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Miguel Acosta,30,CX - Specialist,Specialist,Active,,,3.5,Needs intervention,0.3,#N/A,#N/A,#N/A,3.67,90 days,0.9,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Maria Jose Perilla,30,CX - Specialist,Specialist,Active,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,4.33,90 days,1.2,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Yamely Elescano,30,CX - Specialist,Specialist,Active,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,3.00,90 days,0.6,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Alessandro Olivo,30,CX - Specialist,Specialist,Active,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,4.00,90 days,1.2,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Walter Yllescas,30,CX - Specialist,Specialist,Active,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,3.67,90 days,0.9,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Juan Carlos La Fuente Verano,30,CX - Specialist,Specialist,Active,,,3.5,Needs intervention,0.3,#N/A,#N/A,#N/A,4.00,90 days,1.2,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Bethsabet Chalco Coronel,30,CX - Specialist,Specialist,Active,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,3.33,90 days,0.6,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Joseph Espinoza,30,CX - Specialist,Specialist,Active,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,3.33,90 days,0.6,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Julian Acotto,30,CX - Specialist,Specialist,Active,,,0.7,Not ready,0.1,#N/A,#N/A,#N/A,3.67,90 days,0.9,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Rodrigo Benavides,30,CX - Specialist,Specialist,Active,,,0.7,Not ready,0.1,#N/A,#N/A,#N/A,4.00,90 days,1.2,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Aaron Perea,31,CX - Leadership,Supervisor,Inactive,,,3.5,Needs intervention,0.3,4.1,Developing,0.4,#REF!,90 days,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Abraham Luis Ramirez Garcia Blasquez,31,CX - Specialist,Specialist,Active,,,3.5,Needs intervention,0.3,4.4,Developing,0.4,3.67,90 days,0.9,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Daniel Alejandro Virguez Chauta,31,CX - Specialist,Specialist,Active,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,3.33,90 days,0.6,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Alex Chavez,31,CX - Specialist,Specialist,Active,,,2.9,Needs intervention,0.1,3.9,Needs intervention,0.3,3.67,90 days,0.9,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Ericka Cardenas,1,CX - BPO Leadership,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Alexandra Garcia Iman,31,CX - Specialist,Specialist,Active,,,1.5,Not ready,0.1,3.7,Needs intervention,0.3,4.00,90 days,1.2,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Arturo Rojas,31,CX - Specialist,Specialist,Active,,,3.5,Needs intervention,0.3,3.8,Needs intervention,0.3,3.67,90 days,0.9,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Bruno Vasquez,31,CX - Specialist,Specialist,Active,,,3.5,Needs intervention,0.3,4.0,Developing,0.4,3.67,90 days,0.9,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Alex Cutire,1,CX - BPO Specialist,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Alisson Vasquez,1,CX - BPO Specialist,Specialist,Inactive,,,0.7,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Ashlly Valdiviezo,1,CX - BPO Specialist,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Daniel Villar,1,CX - BPO Specialist,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+David Abad,1,CX - BPO Specialist,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Fariza Yunis,1,CX - BPO Specialist,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Bryan Arana Romero,31,CX - Specialist,Specialist,Active,,,2.9,Needs intervention,0.1,3.5,Needs intervention,0.2,2.67,90 days,0.3,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Daniel Carlos Moran Rivera,31,CX - Specialist,Specialist,Active,,,3.5,Needs intervention,0.3,4.1,Developing,0.4,2.67,90 days,0.3,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Karla Medina,1,CX - BPO Specialist,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Daniella Giraldo,31,CX - Assistant,Manager Assistant ,Active,,,3.5,Needs intervention,0.3,4.4,Developing,0.4,#DIV/0!,90 days,#DIV/0!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Diego Quiroz,31,CX - Specialist,Specialist,Active,,,3.5,Needs intervention,0.3,3.8,Needs intervention,0.3,4.00,90 days,1.2,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Marcos Anyosa,1,CX - BPO Specialist,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Marco Huapalla,1,CX - BPO Specialist,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Mathias Fernandez,1,CX - BPO Specialist,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Micaela Bravo,1,CX - BPO Specialist,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Moises Laynes,1,CX - BPO Specialist,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Eduardo Leon,31,CX - Specialist,Specialist,Active,,,3.5,Needs intervention,0.3,4.4,Developing,0.4,3.00,90 days,0.6,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Franco Dongo Chacón,31,CX - Specialist,Specialist,Active,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,3.33,90 days,0.6,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Victor Salazar,1,CX - BPO Specialist,Specialist,Inactive,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Viktor Valdivia,1,CX - BPO Specialist,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Viviana Jurado,1,CX - BPO Specialist,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Gerald Torres Zamora,31,CX - Specialist,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2.33,90 days,0.3,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Vanessa Ortiz,2,CX - BPO Specialist,Specialist,Inactive,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Gustavo Rodriguez,31,CX - Specialist,Specialist,Inactive,,,3.5,Needs intervention,0.3,#N/A,#N/A,#N/A,#REF!,90 days,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Oscar Chacon,2,CX - BPO Specialist,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Kiara Gutierrez,2,CX - BPO Specialist,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Madeleynne Castillo,2,CX - BPO Specialist,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Sandra Felix Consulta,2,CX - BPO Specialist,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Hugo Montoya Merino,31,CX - Specialist,Specialist,Active,,,3.5,Needs intervention,0.3,4.4,Developing,0.4,3.67,90 days,0.9,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Jorge Peregrino,2,CX - BPO Specialist,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Julio Segura,2,CX - BPO Specialist,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Ignacio Agustin Nuñez,31,CX - Specialist,Specialist,Active,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,3.67,90 days,0.9,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Israel Toro,31,CX - Specialist,Specialist,Active,,,2.9,Needs intervention,0.1,3.7,Needs intervention,0.3,2.67,90 days,0.3,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Joaquin Mole,31,CX - Specialist,Specialist,Active,,,2.9,Needs intervention,0.1,3.1,Needs intervention,0.2,2.67,90 days,0.3,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Karen Duran,31,CX - Specialist,Specialist,Active,,,3.5,Needs intervention,0.3,3.6,Needs intervention,0.3,3.67,90 days,0.9,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Mary Flores,2,CX - BPO Specialist,Specialist,Inactive,,,#DIV/0!,#DIV/0!,#DIV/0!,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Carlos Herbozo,2,CX - BPO Specialist,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Damaris Cordova,2,CX - BPO Specialist,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Alejandra Vera,2,CX - BPO Specialist,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Madeleynne Castillo-Paredes,3,CX - BPO Specialist,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Liuben Ogando-Castro,3,CX - BPO Specialist,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Kevin Enrique Torres Díaz,31,CX - Specialist,Specialist,Active,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,4.00,90 days,1.2,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Sheyla Lopez-Salvador,3,CX - BPO Specialist,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Luis Jesus Diaz Yauri,31,CX - Specialist,Specialist,Active,,,3.5,Needs intervention,0.3,4.5,Developing,0.4,3.67,90 days,0.9,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Allison-Priscilla Mendoza-Flores,3,CX - BPO Specialist,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Mariana Marquina,31,CX - Specialist,Specialist,Active,,,2.9,Needs intervention,0.1,3.5,Needs intervention,0.2,3.00,90 days,0.6,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Luis-Jose Salazar-Alarcon,3,CX - BPO Specialist,Specialist,Inactive,,,1.5,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Mariana Rojas,31,CX - Specialist,Specialist,Active,,,3.5,Needs intervention,0.3,3.5,Needs intervention,0.2,2.67,90 days,0.3,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Erick-Alfredo GardinGamero,3,CX - BPO Specialist,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Marlon-Sebastian Ramirez-Munico,3,CX - BPO Specialist,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Mario Flores-Gonzalez,3,CX - BPO Specialist,Specialist,Inactive,,,1.5,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Martin Carhuamaca,31,CX - Leadership,Lead,Active,,,3.5,Needs intervention,0.3,4.0,Developing,0.4,#DIV/0!,90 days,#DIV/0!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Martina Schinca,31,CX - Specialist,Specialist,Active,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,3.00,90 days,0.6,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Mónica Mileih Garcia Pelaez,31,CX - Specialist,Specialist,Active,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,4.33,90 days,1.2,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Rosario Sanchez,3,CX - BPO Specialist,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Natalia Reinosa,31,CX - Leadership,Supervisor,Inactive,,,3.5,Needs intervention,0.3,3.5,Needs intervention,0.3,#REF!,90 days,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Alejandro Arenas,3,CX - BPO Specialist,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Kaori Nakashima,4,CX - BPO Specialist,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Olga Acosta,31,CX - Specialist,Specialist,Active,,,3.5,Needs intervention,0.3,4.0,Developing,0.4,3.67,90 days,0.9,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Renzo Berzabat Neyra de la Cruz,31,CX - Specialist,Specialist,Active,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,3.67,90 days,0.9,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Luis Enrique Inga La Serna,4,CX - BPO Specialist,Specialist,Inactive,,,0.7,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Fabio Leandro Gastiaburu Porras,4,CX - BPO Specialist,Specialist,Inactive,,,1.5,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Rodolfo Hernandez,31,CX - Specialist,Specialist,Active,,,1.5,Not ready,0.1,2.7,Needs intervention,0.1,2.00,90 days,0.3,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Rodolfo Pineda Lora,31,CX - Specialist,Specialist,Active,,,3.5,Needs intervention,0.3,3.6,Needs intervention,0.3,3.00,90 days,0.6,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Roxana Isabel  Salas Zarate,4,CX - BPO Specialist,Specialist,Inactive,,,1.5,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Angela  Santos Vasquez,4,CX - BPO Specialist,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Salomon Mattos Ruiz,31,CX - Specialist,Specialist,Active,,,3.5,Needs intervention,0.3,4.0,Developing,0.4,3.67,90 days,0.9,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Yocelyn Rita  Fernández Salas ,4,CX - BPO Specialist,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Ximena Farrilie Anticona Herrera,31,CX - Leadership,Supervisor,Active,,,2.9,Needs intervention,0.1,3.6,Needs intervention,0.3,#REF!,90 days,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Daphne Francesca Chavez Bielich,4,CX - BPO Specialist,Specialist,Inactive,,,1.5,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Jeffrin Luis  Tarifeño Rojas,4,CX - BPO Specialist,Specialist,Inactive,,,1.5,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Jeeimy Rojas Hidalgo,5,CX - BPO Training,Specialist,Active,,,0.8,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Ivan Oriundo Prado,5,CX - BPO Specialist ,Specialist,Inactive,,,0.8,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Anatoly Montero Mercado,5,CX - BPO Training,Specialist,Active,,,1.5,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Gonzalo Gutierrez Römer,5,CX - BPO Training,Specialist,Active,,,0.8,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Sandra Segura Gropuzzo,5,CX - BPO Training,Specialist,Active,,,0.8,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Sheyla Noriega Bernal,5,CX - BPO Training,Specialist,Active,,,2.1,Needs intervention,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Tatiana Gutierrez Mabama,5,CX - BPO Specialist ,Specialist,Inactive,,,0.7,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Yoselyn Campos Cueva,5,CX - BPO Training,Specialist,Active,,,0.8,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Karla Galiano Gaspar,5,CX - BPO Specialist ,Specialist,Inactive,,,0.7,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Samantha Carranza Sanchez,5,CX - BPO Training,Specialist,Active,,,0.7,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Cesar De la Cruz Gomez,5,CX - BPO Training,Specialist,Active,,,1.5,Not ready,0.1,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Ayeska Auza Villanueva,5,CX - BPO Specialist ,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Ruth Quispe Diaz,5,CX - BPO Specialist ,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Michael Gomez ,5,CX - BPO Specialist ,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Alberto Herrera ,5,CX - BPO Specialist ,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Enrique Pando Castro,5,CX - BPO Specialist ,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Christian Fernandez Jara,5,CX - BPO Specialist ,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Mayra Aguirre Romero,5,CX - BPO Specialist ,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Jennifer Paz Temoche,5,CX - BPO Specialist ,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Sofía Meza Chumpitaz,5,CX - BPO Specialist ,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Ximena Macalupu Ventocilla,5,CX - BPO Specialist ,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Sandra Benites ,5,CX - BPO Specialist ,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Sephora Diaz Altamirano,5,CX - BPO Specialist ,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Kathy Bustamante Valverde,5,CX - BPO Specialist ,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Jhon Crespo Damiano,5,CX - BPO Specialist ,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Jampiero Chora Suarez,5,CX - BPO Specialist ,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Cristel Candela Mendoza,5,CX - BPO Specialist ,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Jorge Sipan Barraza,5,CX - BPO Specialist ,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Abrahan Mariñas Calderon,32,CX - Specialist,Specialist,Active,,,5,Exceeds expectations,0.125,4.8,Meets expectations,0.125,3.33,Developing,0.7,4,Meets expectations,0.8,4.2,Meets expectations,1.4,3.15,,Intervention Required,,,
+Andre Gaston Valdivia Vasquez,32,CX - Specialist,Specialist,Active,,,5,Exceeds expectations,0.125,4.7,Meets expectations,0.125,3.67,Developing,1.05,4.5,Exceeds expectations,1,4.6,Exceeds expectations,1.75,4.05,,Ready with Coaching,,,
+Angello Omaet Niño De Guzmán Zevallos,32,CX - Specialist,Specialist,Active,,Promoted,5,Exceeds expectations,0.125,4.7,Meets expectations,0.125,3.67,Developing,1.05,5,Exceeds expectations,1,5,Exceeds expectations,1.75,4.05,,Ready with Coaching,,,
+Angelo Stefano Paricela Principe,32,CX - Specialist,Specialist,Active,,,4.9,Exceeds expectations,0.125,4.2,Developing,0.1,3.67,Developing,1.05,5,Exceeds expectations,1,5,Exceeds expectations,1.75,4.025,,Ready with Coaching,,,
+Anyela Andreina Dachille Nava,32,CX - Specialist,Specialist,Active,,,3.9,Needs intervention,0.075,4.7,Meets expectations,0.125,3.67,Developing,1.05,4,Meets expectations,0.8,4.8,Exceeds expectations,1.75,3.8,,Coaching Required,,,
+Brenda Chavez,32,CX - Specialist,Specialist,Inactive,,,4.9,Exceeds expectations,0.5,2.7,Needs intervention,0.1,#REF!,,#REF!,3.5,Developing,0.6,3.8,Developing,0.75,#REF!,,,,,
+Camila Alexandra Buiza Cabrera,32,CX - Specialist,Specialist,Active,,,5,Exceeds expectations,0.125,4.7,Meets expectations,0.125,2.67,Needs intervention,0.35,3.5,Developing,0.6,4.8,Exceeds expectations,1.75,2.95,,Intervention Required,,,
+Cesar Adrian Arraiz Chavez,32,CX - Specialist,Specialist,Active,,Promoted,5,Exceeds expectations,0.125,4.5,Developing,0.1,4.00,Meets expectations,1.4,5,Exceeds expectations,1,5,Exceeds expectations,1.75,4.375,,Ready with Coaching,,,
+Cesar Rivera Magno,32,CX - Specialist,Specialist,Active,,,5,Exceeds expectations,0.125,4.5,Meets expectations,0.125,3.33,Developing,0.7,4,Meets expectations,0.8,4.6,Exceeds expectations,1.75,3.5,,Coaching Required,,,
+Cristina Torres Bustillos,32,CX - Specialist,Specialist,Active,,,5,Exceeds expectations,0.125,4.5,Meets expectations,0.125,3.33,Developing,0.7,4.75,Exceeds expectations,1,5,Exceeds expectations,1.75,3.7,,Coaching Required,,,
+Diego Alfonso La Torre Flores,32,CX - Specialist,Specialist,Inactive,,,5,Exceeds expectations,0.125,4.6,Meets expectations,0.125,3.33,Developing,0.7,3.25,Developing,0.4,2,Needs intervention,0.35,1.7,,Reevaluation Required,,,
+Eduardo Benjamin Yep Ishisaka,32,CX - Specialist,Specialist,Active,,Promoted,5,Exceeds expectations,0.125,4.7,Meets expectations,0.125,3.67,Developing,1.05,5,Exceeds expectations,1,4,Meets expectations,1.4,3.7,,Coaching Required,,,
+Eduardo Felipe Rodriguez Proscopio,32,CX - Specialist,Specialist,Active,,,4.9,Exceeds expectations,0.125,3.9,Needs intervention,0.075,3.67,Developing,1.05,3.25,Developing,0.4,3.4,Developing,0.7,2.35,,Reevaluation Required,,,
+Eliana Del Carmen Vega Cipriano,32,CX - Specialist,Specialist,Active,,Promoted,5,Exceeds expectations,0.125,4.7,Meets expectations,0.125,2.67,Needs intervention,0.35,4.5,Exceeds expectations,1,5,Exceeds expectations,1.75,3.35,,Intervention Required,,,
+Henry Amaranto,32,CX - Specialist,Specialist,Active,,,5,Exceeds expectations,0.125,3.0,Needs intervention,0.05,3.00,Developing,0.7,3.75,Developing,0.6,3,Developing,0.7,2.175,,Reevaluation Required,,,
+Jackelyn Rocio Mattos Regalado,32,CX - Specialist,Specialist,Active,,Promoted,5,Exceeds expectations,0.125,4.7,Meets expectations,0.125,3.67,Developing,1.05,4.25,Meets expectations,0.8,5,Exceeds expectations,1.75,3.85,,Coaching Required,,,
+Janssel Ivair Flores Tello,32,CX - Specialist,Specialist,Inactive,,,5,Exceeds expectations,0.125,4.6,Meets expectations,0.125,#N/A,#N/A,#N/A,3.5,Developing,0.6,2.8,Needs intervention,0.35,#N/A,,#N/A,,,
+Joaquin Manuel Caballero Flores,32,CX - Specialist,Specialist,Inactive,,,4.7,Meets expectations,0.5,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Jose Mauricio Reyes Tasayco,32,CX - Specialist,Specialist,Inactive,,,3.5,Needs intervention,0.075,2.7,Needs intervention,0.025,#N/A,#N/A,#N/A,3,Developing,0.4,2,Needs intervention,0.35,#N/A,,#N/A,,,
+Josue Castrosqui Brush,32,CX - Specialist,Specialist,Active,,Promoted,5,Exceeds expectations,0.125,4.2,Developing,0.1,4.33,Meets expectations,1.4,5,Exceeds expectations,1,5,Exceeds expectations,1.75,4.375,,Ready with Coaching,,,
+Juan Diego Gomez Aiyon,32,CX - Specialist,Specialist,Active,,Promoted,5,Exceeds expectations,0.125,4.2,Developing,0.1,3.33,Developing,0.7,5,Exceeds expectations,1,5,Exceeds expectations,1.75,3.675,,Coaching Required,,,
+Julio Mateo Arakaki Vera,32,CX - Specialist,Specialist,Active,,,5,Exceeds expectations,0.125,4.8,Meets expectations,0.125,2.67,Needs intervention,0.35,3.25,Developing,0.4,3,Developing,0.7,1.7,,Reevaluation Required,,,
+Kaori Nakashima Tarazona,32,CX - Specialist,Specialist,Active,,Promoted,5,Exceeds expectations,0.125,4.6,Meets expectations,0.125,3.67,Developing,1.05,4.75,Exceeds expectations,1,4.8,Exceeds expectations,1.75,4.05,,Ready with Coaching,,,
+Kevin Palomino,32,CX - Specialist,Specialist,Inactive,,Promoted,5,Exceeds expectations,0.125,4.7,Meets expectations,0.125,3.67,Developing,1.05,4.5,Exceeds expectations,1,4.2,Meets expectations,1.4,3.7,,Coaching Required,,,
+Lisangel Carolina Gallardo Hernandez,32,CX - Specialist,Specialist,Active,,,5,Exceeds expectations,0.125,3.7,Needs intervention,0.075,3.33,Developing,0.7,3.5,Developing,0.6,3.8,Developing,1.05,2.55,,Intervention Required,,,
+Madeleynne Castillo Paredes,32,CX - Specialist,Specialist,Active,,,5,Exceeds expectations,0.125,4.7,Meets expectations,0.125,2.67,Needs intervention,0.35,4,Meets expectations,0.8,4,Meets expectations,1.4,2.8,,Intervention Required,,,
+Marco Antonio Ato Mejia,32,CX - Specialist,Specialist,Inactive,,,4.9,Exceeds expectations,0.125,4.4,Developing,0.1,3.33,Developing,0.7,3,Developing,0.4,3,Developing,0.7,2.025,,Reevaluation Required,,,
+María Fernanda Torres Vasquez,32,CX - Specialist,Specialist,Active,,,4.9,Exceeds expectations,0.125,4.4,Developing,0.1,3.33,Developing,0.7,3.5,Developing,0.6,4.8,Exceeds expectations,1.75,3.275,,Intervention Required,,,
+Matias Alonso Tamariz Briceño,32,CX - Specialist,Specialist,Active,,,5,Exceeds expectations,0.125,4.7,Meets expectations,0.125,3.00,Developing,0.7,3.75,Developing,0.6,4,Meets expectations,1.4,2.95,,Intervention Required,,,
+Matias Cruz Rodriguez,32,CX - Specialist,Specialist,Active,,,5,Exceeds expectations,0.125,4.7,Meets expectations,0.125,4.33,Meets expectations,1.4,4.5,Exceeds expectations,1,3.2,Developing,0.7,3.35,,Intervention Required,,,
+Mauricio José Vargas Morón,32,CX - Specialist,Specialist,Inactive,,,5,Exceeds expectations,0.5,#N/A,#N/A,#N/A,#REF!,,#REF!,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Michael Matzumura Gonzáles,32,CX - Specialist,Specialist,Active,,,5,Exceeds expectations,0.125,4.6,Meets expectations,0.125,3.33,Developing,0.7,5,Exceeds expectations,1,5,Exceeds expectations,1.75,3.7,,Coaching Required,,,
+Miguel Ángel Márquez Jader,32,CX - Specialist,Specialist,Active,,,5,Exceeds expectations,0.125,4.3,Developing,0.1,2.33,Needs intervention,0.35,4.5,Exceeds expectations,1,3.8,Developing,1.05,2.625,,Intervention Required,,,
+Milagros Hurtado Salazar,32,CX - Specialist,Specialist,Active,,,5,Exceeds expectations,0.125,4.3,Developing,0.1,3.33,Developing,0.7,4.5,Exceeds expectations,1,5,Exceeds expectations,1.75,3.675,,Coaching Required,,,
+Milagros Suarez Lujan,32,CX - Specialist,Specialist,Active,,Promoted,5,Exceeds expectations,0.125,4.3,Developing,0.1,2.67,Needs intervention,0.35,4,Meets expectations,0.8,5,Exceeds expectations,1.75,3.125,,Intervention Required,,,
+Nicolas Garcia,32,CX - Specialist,Specialist,Active,,Promoted,5,Exceeds expectations,0.125,4.1,Developing,0.1,4.00,Meets expectations,1.4,5,Exceeds expectations,1,3.6,Developing,1.05,3.675,,Coaching Required,,,
+Nicole Adriana Rojas Rojas,32,CX - Specialist,Specialist,Active,,,5,Exceeds expectations,0.125,4.5,Meets expectations,0.125,2.67,Needs intervention,0.35,2.75,Needs intervention,0.2,3.6,Developing,1.05,1.85,,Reevaluation Required,,,
+Nidia Peña Sanchez,32,CX - Specialist,Specialist,Active,,,5,Exceeds expectations,0.125,4.7,Meets expectations,0.125,2.33,Needs intervention,0.35,3.5,Developing,0.6,3.2,Developing,0.7,1.9,,Reevaluation Required,,,
+Osvaldo Martín Leclere,32,CX - Specialist,Specialist,Active,,,5,Exceeds expectations,0.125,4.3,Developing,0.1,3.00,Developing,0.7,5,Exceeds expectations,1,4.6,Exceeds expectations,1.75,3.675,,Coaching Required,,,
+Pedro Galindo,32,CX - Specialist,Specialist,Active,,,4,Developing,0.1,4.5,Developing,0.1,3.00,Developing,0.7,3.5,Developing,0.6,3.2,Developing,0.7,2.2,,Reevaluation Required,,,
+Piero Benjamín Porras Miguel,32,CX - Specialist,Specialist,Active,,,5,Exceeds expectations,0.125,4.0,Developing,0.1,3.00,Developing,0.7,3,Developing,0.4,2.4,Needs intervention,0.35,1.675,,Reevaluation Required,,,
+Raffael Anttonio Garcia Perez Vargas,32,CX - Specialist,Specialist,Active,,Promoted,5,Exceeds expectations,0.125,3.6,Needs intervention,0.075,3.67,Developing,1.05,3.5,Developing,0.6,3.8,Developing,1.05,2.9,,Intervention Required,,,
+Rosa Loayza Uzategui,32,CX - Specialist,Specialist,Active,,,4.3,Developing,0.1,4.5,Meets expectations,0.125,3.33,Developing,0.7,4.25,Meets expectations,0.8,3,Developing,0.7,2.425,,Reevaluation Required,,,
+Sheyla Alvarado Santillán,32,CX - Specialist,Specialist,Inactive,,,5,Exceeds expectations,0.5,#N/A,#N/A,#N/A,,,0.3,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Sofia Chunga Zavaleta,32,CX - Specialist,Specialist,Inactive,,,2.9,Needs intervention,0.1,2.6,Needs intervention,0.1,,,0.3,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,
+Vanessa Lie Del Rosario Acero,32,CX - Specialist,Specialist,Active,,,5,Exceeds expectations,0.125,4.5,Developing,0.1,3.00,Developing,0.7,4.75,Exceeds expectations,1,5,Exceeds expectations,1.75,3.675,,Coaching Required,,,
+Ximena Prado Moscoso,32,CX - Specialist,Specialist,Active,,Promoted,5,Exceeds expectations,0.125,4.9,Exceeds expectations,0.125,4.00,Meets expectations,1.4,4.75,Exceeds expectations,1,5,Exceeds expectations,1.75,4.4,,Ready with Coaching,,,
+Nicole Mujica Wiener,33,CX - Specialist,Specialist,Active,,,5,Exceeds expectations,0.125,4.0,Developing,0.1,3.33,Developing,0.7,4.25,Meets expectations,0.8,4.6,Exceeds expectations,1.75,3.475,,Intervention Required,,,
+Fabiana Vega,33,CX - Specialist,Specialist,Active,,,4.4,Developing,0.1,3.5,Needs intervention,0.075,2.67,Needs intervention,0.35,4.25,Meets expectations,0.8,3.8,Developing,1.05,2.375,,Reevaluation Required,,,
+Macla Rivas,33,CX - Specialist,Specialist,Active,,,5,Exceeds expectations,0.125,4.5,Meets expectations,0.125,3.00,Developing,0.7,4.25,Meets expectations,0.8,3,Developing,0.7,2.45,,Reevaluation Required,,,
+Matías Larriviere,33,CX - Specialist,Specialist,Active,,,5,Exceeds expectations,0.125,4.5,Developing,0.1,3.67,Developing,1.05,2.5,Needs intervention,0.2,4,Meets expectations,1.4,2.875,,Intervention Required,,,
+Stefania Garay Angarita,33,CX - Specialist,Specialist,Active,,,5,Exceeds expectations,0.125,4.6,Meets expectations,0.125,3.67,Developing,1.05,4.25,Meets expectations,0.8,5,Exceeds expectations,1.75,3.85,,Coaching Required,,,
+Renzo Silva,33,CX - Specialist,Specialist,Active,,,5,Exceeds expectations,0.125,4.2,Developing,0.1,3.33,Developing,0.7,3.75,Developing,0.6,3,Developing,0.7,2.225,,Reevaluation Required,,,
+Maria Cortez,33,CX - Specialist,Specialist,Active,,,5,Exceeds expectations,0.125,3.5,Needs intervention,0.075,3.33,Developing,0.7,3,Developing,0.4,3,Developing,0.7,2,,Reevaluation Required,,,
+Oscar Diaz,33,CX - Specialist,Specialist,Active,,,4.3,Developing,0.1,4.6,Meets expectations,0.125,3.33,Developing,0.7,4.25,Meets expectations,0.8,3.8,Developing,1.05,2.775,,Intervention Required,,,
+Guillo Camacho Galvez,33,CX - Specialist,Specialist,Active,,,4.4,Developing,0.1,4.1,Developing,0.1,4.00,Meets expectations,1.4,2.75,Needs intervention,0.2,4.8,Exceeds expectations,1.75,3.55,,Coaching Required,,,
+Danilo Tipismana,33,CX - Specialist,Specialist,Active,,,5,Exceeds expectations,0.125,4.8,Meets expectations,0.125,4.00,Meets expectations,1.4,3.75,Developing,0.6,4,Meets expectations,1.4,3.65,,Coaching Required,,,
+Sara Parreño,33,CX - Specialist,Specialist,Inactive,,,4.9,Exceeds expectations,0.125,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,#N/A,,,
+Cielo Godoy,33,CX - Specialist,Specialist,Active,,,4.3,Developing,0.1,3.9,Needs intervention,0.075,2.33,Needs intervention,0.35,3.75,Developing,0.6,3.4,Developing,0.7,1.825,,Reevaluation Required,,,
+Luisa Muñinco,33,CX - Specialist,Specialist,Inactive,,,5,Exceeds expectations,0.125,4.1,Developing,0.1,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,#N/A,,,
+Edmar Rodrigo,33,CX - Specialist,Specialist,Active,,,5,Exceeds expectations,0.125,4.1,Developing,0.1,3.33,Developing,0.7,3.5,Developing,0.6,2.8,Needs intervention,0.35,1.875,,Reevaluation Required,,,
+Silvana Hidalgo Moreira,33,CX - Specialist,Specialist,Active,,,5,Exceeds expectations,0.125,4.5,Meets expectations,0.125,3.67,Developing,1.05,4.5,Exceeds expectations,1,3.6,Developing,1.05,3.35,,Intervention Required,,,
+Alonso Patron,33,CX - Leadership,Supervisor,Active,,,5,Exceeds expectations,0.125,4.8,Meets expectations,0.125,4.33,Meets expectations,1.4,4.5,Exceeds expectations,1,4.8,Exceeds expectations,1.75,4.4,,Ready with Coaching,,,
+Alejandro Rodriguez,33,CX - Leadership,Supervisor,Active,,,4.3,Developing,0.1,3.2,Needs intervention,0.05,2.33,Needs intervention,0.35,3.25,Developing,0.4,2.6,Needs intervention,0.35,1.25,,Reevaluation Required,,,
+Grey Cruzado,33,CX - Leadership,Supervisor,Active,,,5,Exceeds expectations,0.125,4.8,Meets expectations,0.125,3.00,Developing,0.7,3.75,Developing,0.6,4.2,Meets expectations,1.4,2.95,,Intervention Required,,,
+Ernesto Nunez,33,CX - QA,Analyst,Active,,,5,Exceeds expectations,0.125,4.3,Developing,0.1,3.00,Developing,0.7,4.5,Exceeds expectations,1,4,Meets expectations,1.4,3.325,,Intervention Required,,,
+Bruno Bances Monard,33,CX - QA,Analyst,Inactive,,,5,Exceeds expectations,0.125,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,#N/A,,,
+Lucia Ponce,33,CX - QA,Analyst,Inactive,,,4.3,Developing,0.1,4.3,Developing,0.1,3.00,Developing,0.7,4.25,Meets expectations,0.8,3.6,Developing,1.05,2.75,,Intervention Required,,,
+Fernando Alfredo Merino Suarez,33,CX - Specialist,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,#N/A,,,
+Alejandra Geldres,34,CX - Specialist,Specialist,Active,Jose Patron,,5,Exceeds expectations,0.125,4.6,Meets expectations,0.125,3.33,Developing,0.7,4.75,Exceeds expectations,1,4.2,Meets expectations,1.6,3.55,,Coaching Required,"## Supervisor Quick View
 - **Readiness:** 🟢 Ready for Operations.
 - **Tier recommendation:** **Expert 2**.
 - **Final performance:** 4.2 TPH, 90% IQS, and 73.7% CSAT.
@@ -359,7 +359,7 @@ Alejandra Geldres,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0
 - **Execution focus:** Complete validations before responding and maintain composure under pressure.
 - **Recommended support:** Weekly KPI review, early QA calibration, and one reverse-shadowing session.
 - **Overall assessment:** Ready to manage Expert 2 case complexity, with continued coaching focused on productivity and CSAT consistency.",Expert 2,https://app.notion.com/p/cookunity/Alejandra-Geldres-Yika-Ale-3676c6b786ba813ca782d03573f04890?source=copy_link
-Alejandro Benel,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,4.6,Meets expectations,0.125,3.67,Developing,1.05,3.75,Developing,0.6,3.8,Developing,1.2,3.1,,Intervention Required,"## Supervisor Quick View
+Alejandro Benel,34,CX - Specialist,Specialist,Active,Jose Patron,,5,Exceeds expectations,0.125,4.6,Meets expectations,0.125,3.67,Developing,1.05,3.75,Developing,0.6,3.8,Developing,1.2,3.1,,Intervention Required,"## Supervisor Quick View
 * **Readiness:** 🟡 **Ready with Coaching**.
 * **Tier recommendation:** **Expert 2**.
 * **Final performance:** **3.3 TPH, 95% IQS, 66.7% CSAT**.
@@ -369,7 +369,7 @@ Alejandro Benel,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.1
 * **Behavioral focus:** Reinforce punctuality and proactive communication when unexpected issues arise.
 * **Recommended support:** Weekly TPH reviews, early QA calibrations, and coaching on complex investigations and customer communication.
 * **Overall assessment:** Alejandro enters Operations with a strong quality foundation and excellent analytical skills. Continued coaching should focus on increasing productivity while maintaining his high QA standards and customer experience.",Expert 2,https://app.notion.com/p/cookunity/Alejandro-Benel-Alejandro-3676c6b786ba81b29964c21ccf055bab?source=copy_link
-Alejandro Sandoval,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,5.0,Exceeds expectations,0.125,3.33,Developing,0.7,3.75,Developing,0.6,4.6,Exceeds expectations,2,3.55,,Coaching Required,"## Supervisor Quick View
+Alejandro Sandoval,34,CX - Specialist,Specialist,Active,Fiorella Marquez,,5,Exceeds expectations,0.125,5.0,Exceeds expectations,0.125,3.33,Developing,0.7,3.75,Developing,0.6,4.6,Exceeds expectations,2,3.55,,Coaching Required,"## Supervisor Quick View
 - **Readiness:** 🟡 Ready for Operations with Coaching.
 - **Tier recommendation:** **Expert 2**.
 - **Final performance:** **2.9 TPH, 100% IQS, and 57.1% CSAT.**
@@ -379,7 +379,7 @@ Alejandro Sandoval,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,
 - **Execution focus:** Maintain excellent validation habits while balancing speed with a consistent customer experience.
 - **Recommended support:** Weekly KPI reviews, early QA calibration, reverse shadowing during the first month, and targeted coaching on customer interactions with low CSAT.
 - **Overall assessment:** Ready to manage **Expert 2** case complexity, with continued coaching focused on customer experience consistency while building productivity toward Operations expectations.",Expert 2,https://app.notion.com/p/cookunity/Alejandro-Sandoval-Ojeda-Ale-3676c6b786ba815b8c96d4be00e930d8?source=copy_link
-Alexander Llaxa,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,5.0,Exceeds expectations,0.125,4.33,Meets expectations,1.4,3.75,Developing,0.6,4.4,Meets expectations,1.6,3.85,,Coaching Required,"## Supervisor Quick View
+Alexander Llaxa,34,CX - Specialist,Specialist,Active,Jose Angel Diaz,,5,Exceeds expectations,0.125,5.0,Exceeds expectations,0.125,4.33,Meets expectations,1.4,3.75,Developing,0.6,4.4,Meets expectations,1.6,3.85,,Coaching Required,"## Supervisor Quick View
 - **Readiness:** 🟢 Ready for Operations.
 - **Tier recommendation:** **Expert 2**.
 - **Final performance:** **4.2 TPH, 87.5% IQS, and 91.7% CSAT.**
@@ -389,7 +389,7 @@ Alexander Llaxa,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.1
 - **Execution focus:** Preserve excellent validation habits while improving operational speed and efficiency.
 - **Recommended support:** Weekly KPI reviews, early QA calibration, and coaching focused on productivity optimization rather than quality improvement.
 - **Overall assessment:** Alexander is ready to manage **Expert 2** case complexity. His quality, customer experience, and analytical skills are already at an operational level, with productivity expected to naturally reach target through continued production exposure.",Expert 2,https://app.notion.com/p/cookunity/Alexander-Llaxa-Alex-3676c6b786ba81f2a214dd09632463c8?source=copy_link
-Andrea Sandoval Ojeda,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,5.0,Exceeds expectations,0.125,3.33,Developing,0.7,4.75,Exceeds expectations,1,4,Meets expectations,1.6,3.55,,Coaching Required,"## Supervisor Quick View
+Andrea Sandoval Ojeda,34,CX - Specialist,Specialist,Active,Alejandro Rodriguez,,5,Exceeds expectations,0.125,5.0,Exceeds expectations,0.125,3.33,Developing,0.7,4.75,Exceeds expectations,1,4,Meets expectations,1.6,3.55,,Coaching Required,"## Supervisor Quick View
 - **Readiness:** 🟡 Ready for Operations with coaching.
 - **Tier recommendation:** **Expert 2**.
 - **Final performance:** **2.3 TPH, 100% IQS, and 100% CSAT**.
@@ -401,7 +401,7 @@ Andrea Sandoval Ojeda,34,CX - Specialist,Specialist,Active,,5,Exceeds expectatio
 - **Behavioral focus:** Maintain proactive participation while reinforcing schedule adherence and early communication about exceptions.
 - **Recommended support:** Weekly KPI reviews, early QA calibration, Wabi-quality reviews, and one reverse-shadowing session.
 - **Overall assessment:** Andrea is ready to manage Expert 2 case complexity. Her final quality and customer-satisfaction results are strong, while productivity and investigation efficiency should remain the main coaching priorities during her first month in Operations.",Expert 2,https://app.notion.com/p/cookunity/Andrea-Sandoval-Ojeda-Andrea-3676c6b786ba81f98481df9088b04187?source=copy_link
-Anthony Balcazar,34,CX - Specialist,Specialist,Active,,4.9,Exceeds expectations,0.125,4.6,Meets expectations,0.125,3.00,Developing,0.7,4.25,Meets expectations,0.8,3,Developing,0.8,2.55,,Intervention Required,"## Supervisor Quick View
+Anthony Balcazar,34,CX - Specialist,Specialist,Active,Gabriel Badilla,,4.9,Exceeds expectations,0.125,4.6,Meets expectations,0.125,3.00,Developing,0.7,4.25,Meets expectations,0.8,3,Developing,0.8,2.55,,Intervention Required,"## Supervisor Quick View
 - **Readiness:** 🟡 Ready for Operations with coaching.
 - **Tier recommendation:** **Expert 1.5**.
 - **Final performance:** **3.8 TPH, 86% IQS, and 86.7% CSAT**.
@@ -412,7 +412,7 @@ Anthony Balcazar,34,CX - Specialist,Specialist,Active,,4.9,Exceeds expectations,
 - **Behavioral focus:** Maintain punctuality following the July 10 formal attendance warning.
 - **Recommended support:** Weekly KPI review, early QA calibration, ticket-level coaching, and one reverse-shadowing session.
 - **Overall assessment:** Anthony is ready to transition at an Expert 1.5 level, with structured coaching recommended to improve productivity and establish more consistent execution.",Expert 1.5,https://app.notion.com/p/cookunity/Anthony-Balcazar-Nito-3676c6b786ba8125a82be7d7c2083ec4?source=copy_link
-Bessy Valles,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,4.9,Exceeds expectations,0.125,4.00,Meets expectations,1.4,3.75,Developing,0.6,4,Meets expectations,1.6,3.85,,Coaching Required,"## Supervisor Quick View
+Bessy Valles,34,CX - Specialist,Specialist,Active,Ximena Anticona,,5,Exceeds expectations,0.125,4.9,Exceeds expectations,0.125,4.00,Meets expectations,1.4,3.75,Developing,0.6,4,Meets expectations,1.6,3.85,,Coaching Required,"## Supervisor Quick View
  - **Readiness:** 🟢 Ready for Operations.
 - **Tier recommendation:** **Expert 2**.
 - **Final performance:** **3.2 TPH, 77.5% IQS, and 81.8% CSAT.**
@@ -422,7 +422,7 @@ Bessy Valles,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,
 - **Execution focus:** Improve SOP navigation speed and maintain consistent documentation quality.
 - **Recommended support:** Weekly KPI review, early QA calibration, monitoring of warm meal cases, and continued reinforcement through live coaching.
 - **Overall assessment:** Ready to transition into **Expert 2** case complexity, with coaching focused primarily on productivity growth and maintaining consistent IQS while preserving her strong customer experience performance.",Expert 2,https://app.notion.com/p/cookunity/Bessy-Valles-Torrejon-Bessy-3676c6b786ba818b9e58c61a78d7cf71?source=copy_link
-Brayson Rey,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,4.5,Meets expectations,0.125,3.67,Developing,1.05,5,Exceeds expectations,1,4,Meets expectations,1.6,3.9,,Coaching Required,"## Supervisor Quick View
+Brayson Rey,34,CX - Specialist,Specialist,Active,Alejandro Rodriguez,,5,Exceeds expectations,0.125,4.5,Meets expectations,0.125,3.67,Developing,1.05,5,Exceeds expectations,1,4,Meets expectations,1.6,3.9,,Coaching Required,"## Supervisor Quick View
 - **Readiness:** 🟢 Ready for Operations.
 - **Tier recommendation:** **Expert 2**.
 - **Final performance:** **3.7 TPH, 92.5% IQS, and 91.7% CSAT**.
@@ -434,7 +434,7 @@ Brayson Rey,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,4
 - **Behavioral focus:** Encourage greater participation, punctuality, sustained attention, and proactive clarification.
 - **Recommended support:** Weekly KPI reviews, early QA calibration, and targeted review of complex or escalated cases.
 - **Overall assessment:** Brayson is ready to transition into Operations and manage Expert 2 case complexity, with continued coaching focused on productivity, validation consistency, and operational independence.",Expert 2,https://app.notion.com/p/cookunity/Brayson-Rey-Delgado-Brayson-3676c6b786ba8179904df26556f298a5?source=copy_link
-Brunella Abad,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,4.4,Developing,0.1,3.00,Developing,0.7,5,Exceeds expectations,1,3,Developing,0.8,2.725,,Intervention Required,"# # Supervisor Quick View
+Brunella Abad,34,CX - Specialist,Specialist,Active,Daniela Castañeda,,5,Exceeds expectations,0.125,4.4,Developing,0.1,3.00,Developing,0.7,5,Exceeds expectations,1,3,Developing,0.8,2.725,,Intervention Required,"# # Supervisor Quick View
 - **Readiness:** 🟢 Ready for Operations.
 - **Tier recommendation:** **Expert 2**.
 - **Final performance:** **3.1 TPH, 71.67% IQS, and 85.7% CSAT.**
@@ -444,7 +444,7 @@ Brunella Abad,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125
 - **Execution focus:** Read the complete customer context before responding, improve escalation accuracy, and maintain efficient workflows.
 - **Recommended support:** Weekly KPI reviews, early QA calibration, reinforcement of promotion validation, and continued coaching on productivity and workflow efficiency.
 - **Overall assessment:** Brunella is ready to transition as an **Expert 2** specialist. She has demonstrated a strong quality foundation, excellent coachability, and meaningful growth throughout onboarding. Continued coaching should prioritize productivity, attentiveness, and maintaining consistent quality as workload increases.",Expert 2,https://app.notion.com/p/cookunity/Brunella-Abad-Reyes-Francesca-3676c6b786ba8105b3abef1634ded277?source=copy_link
-Daiana Kuster,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,5.0,Exceeds expectations,0.125,3.67,Developing,1.05,5,Exceeds expectations,1,4,Meets expectations,1.6,3.9,,Coaching Required,"## Supervisor Quick View
+Daiana Kuster,34,CX - Specialist,Specialist,Active,Paola Pirela,,5,Exceeds expectations,0.125,5.0,Exceeds expectations,0.125,3.67,Developing,1.05,5,Exceeds expectations,1,4,Meets expectations,1.6,3.9,,Coaching Required,"## Supervisor Quick View
 - **Readiness:** 🟡 Ready with Coaching.
 - **Tier recommendation:** **Expert 2**.
 - **Final performance:** **3.0 TPH, 98% IQS, and 63.6% CSAT.**
@@ -454,7 +454,7 @@ Daiana Kuster,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125
 - **Execution focus:** Improve Live chat efficiency, prioritize investigations, and confidently escalate ambiguous cases when appropriate.
 - **Recommended support:** Weekly productivity reviews, one reverse/inverse shadowing session, early QA calibrations focused on workflow efficiency, and coaching on Live chat organization and time management.
 - **Overall assessment:** Daiana is well prepared to transition into Operations as an **Expert 2** specialist. Her quality, critical thinking, and customer experience consistently exceeded expectations during onboarding. Continued coaching should focus on increasing efficiency and helping her adapt to the pace of Live Operations while preserving the high standards that distinguish her performance.",Expert 2,https://app.notion.com/p/cookunity/Daiana-Ayelen-Kuster-Dai-3676c6b786ba815e93bed246c8941f4f?source=copy_link
-Milushka Borda,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,4.4,Developing,0.1,3.67,Developing,1.05,4.5,Exceeds expectations,1,3,Developing,0.8,3.075,,Intervention Required,"## Supervisor Quick View
+Milushka Borda,34,CX - Specialist,Specialist,Active,Gabriela Tapia,,5,Exceeds expectations,0.125,4.4,Developing,0.1,3.67,Developing,1.05,4.5,Exceeds expectations,1,3,Developing,0.8,3.075,,Intervention Required,"## Supervisor Quick View
 - **Readiness:** 🟡 Ready with Coaching.
 - **Tier recommendation:** **Expert 2**.
 - **Final performance:** **3.0 TPH, 100% IQS, and 84.6% CSAT.**
@@ -464,7 +464,7 @@ Milushka Borda,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.12
 - **Execution focus:** Reduce over-verification, reinforce Slack/CX News monitoring, and continue building confidence during complex investigations.
 - **Recommended support:** Weekly KPI reviews, early QA calibration, monitor Slack responsiveness, and provide gradual exposure to Expert 2 complexity.
 - **Overall assessment:** Ready to transition into Operations with a strong quality foundation, consistent upward productivity trend, and excellent potential to perform successfully at the Expert 2 level.",Expert 2,https://app.notion.com/p/cookunity/Evelin-Milushka-Borda-Aucca-35e6c6b786ba80dca009e24f9c35a149?source=copy_link
-Fabrizio Palacios,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,4.5,Meets expectations,0.125,3.67,Developing,1.05,4.5,Exceeds expectations,1,5,Exceeds expectations,2,4.3,,Ready with Coaching,"## Supervisor Quick View
+Fabrizio Palacios,34,CX - Specialist,Specialist,Active,Grey Cruzado,,5,Exceeds expectations,0.125,4.5,Meets expectations,0.125,3.67,Developing,1.05,4.5,Exceeds expectations,1,5,Exceeds expectations,2,4.3,,Ready with Coaching,"## Supervisor Quick View
 - **Readiness:** 🟢 Ready for Operations.
 - **Tier recommendation:** **Expert 2**.
 - **Final performance:** 3.4 TPH, 87.5% IQS, and 50% CSAT.
@@ -475,7 +475,7 @@ Fabrizio Palacios,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0
 - **Behavioral focus:** Reinforce punctuality and correct login procedures.
 - **Recommended support:** Weekly KPI reviews, early QA calibration, detractor-case reviews, and one live observation or reverse-shadowing session.
 - **Overall assessment:** Fabrizio has the analytical and operational foundation to transition successfully, but requires close coaching during his first month to improve productivity consistency and customer-experience outcomes.",Expert 2,https://app.notion.com/p/cookunity/Fabrizio-Aron-Palacios-Fab-Fabro-3676c6b786ba816c873be59dd5f4fd47?source=copy_link
-Francesca Coppo,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,4.8,Meets expectations,0.125,4.00,Meets expectations,1.4,4.75,Exceeds expectations,1,4.2,Meets expectations,1.6,4.25,,Ready with Coaching,"## Supervisor Quick View
+Francesca Coppo,34,CX - Specialist,Specialist,Active,Esteban Mujica,,5,Exceeds expectations,0.125,4.8,Meets expectations,0.125,4.00,Meets expectations,1.4,4.75,Exceeds expectations,1,4.2,Meets expectations,1.6,4.25,,Ready with Coaching,"## Supervisor Quick View
 - **Readiness:** 🟢 Ready for Operations.
 - **Tier recommendation:** **Expert 2**.
 - **Final performance:** **2.7 TPH, 85% IQS, and 80% CSAT** *(Overall training averages: 2.2 TPH, 91.75% IQS, and 87% CSAT).*
@@ -485,7 +485,7 @@ Francesca Coppo,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.1
 - **Execution focus:** Reinforce workflow completeness, promotion validation, Wabi-Sabi accuracy, and operational efficiency.
 - **Recommended support:** Weekly KPI reviews, early QA calibration, reinforcement of workflow validation habits, and continued productivity coaching.
 - **Overall assessment:** Ready to manage **Expert 2** case complexity with exceptional quality standards. Continued coaching should focus primarily on increasing productivity while preserving the strong analytical approach and validation quality demonstrated throughout onboarding.",Expert 2,https://app.notion.com/p/cookunity/Francesca-Coppo-Burgos-Fran-3676c6b786ba816a9f75fd1bc05ec706?source=copy_link
-Francisco Bravo,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,4.6,Meets expectations,0.125,4.00,Meets expectations,1.4,4.5,Exceeds expectations,1,4.6,Exceeds expectations,2,4.65,,Production Ready,"## Supervisor Quick View
+Francisco Bravo,34,CX - Specialist,Specialist,Active,Esteban Mujica,,5,Exceeds expectations,0.125,4.6,Meets expectations,0.125,4.00,Meets expectations,1.4,4.5,Exceeds expectations,1,4.6,Exceeds expectations,2,4.65,,Production Ready,"## Supervisor Quick View
 - **Readiness:** 🟢 Ready for Operations.
 - **Tier recommendation:** **Expert 2**.
 - **Final performance:** **3.5 TPH | 92.5% IQS | 84.6% CSAT**
@@ -496,7 +496,7 @@ Francisco Bravo,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.1
 - **Execution focus:** Preserve exceptional quality while increasing efficiency.
 - **Recommended support:** Weekly KPI reviews, QA calibration during the first month, and continued coaching on workflow optimization.
 - **Overall assessment:** Francisco demonstrated one of the strongest quality trajectories in onboarding. He enters Operations with above-target IQS and CSAT, steadily improving productivity, and the analytical skills expected of a successful **Expert 2** specialist.",Expert 2,https://app.notion.com/p/cookunity/Francisco-Anibal-Bravo-Aza-ero-Fran-3676c6b786ba81899b79e901fe557e73?source=copy_link
-Georgireth Arias,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,4.9,Exceeds expectations,0.125,3.33,Developing,0.7,5,Exceeds expectations,1,5,Exceeds expectations,2,3.95,,Coaching Required,"## Supervisor Quick View
+Georgireth Arias,34,CX - Specialist,Specialist,Active,Grey Cruzado,,5,Exceeds expectations,0.125,4.9,Exceeds expectations,0.125,3.33,Developing,0.7,5,Exceeds expectations,1,5,Exceeds expectations,2,3.95,,Coaching Required,"## Supervisor Quick View
 - **Readiness:** 🟡 Ready for Operations with Coaching.
 - **Tier recommendation:** **Expert 2**.
 - **Final performance:** **3.1 TPH, 100% IQS, and 62.5% CSAT**.
@@ -507,7 +507,7 @@ Georgireth Arias,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.
 - **Behavioral consideration:** One isolated late arrival occurred; no recurring behavioral concerns were identified.
 - **Recommended support:** Weekly KPI review, early QA/CSAT calibration, targeted high-handle-time reviews, and coaching on sensitive exception scenarios.
 - **Overall assessment:** Operationally strong and capable of handling Expert 2 case complexity, with continued coaching needed to align productivity and customer satisfaction with Operations expectations.",Expert 2,https://app.notion.com/p/cookunity/Georgireth-Arias-Geo-3676c6b786ba818aa3ededdb8dcd73ce?source=copy_link
-Arian Alegria,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,4.6,Meets expectations,0.125,4.00,Meets expectations,1.4,3.75,Developing,0.6,5,Exceeds expectations,2,4.25,,Ready with Coaching,"## Supervisor Quick View
+Arian Alegria,34,CX - Specialist,Specialist,Active,Rocio Vargas,,5,Exceeds expectations,0.125,4.6,Meets expectations,0.125,4.00,Meets expectations,1.4,3.75,Developing,0.6,5,Exceeds expectations,2,4.25,,Ready with Coaching,"## Supervisor Quick View
 - **Readiness:** 🟢 Ready for Operations
 - **Tier Recommendation:** **Expert 2**
 - **Final Performance:** **4.2 TPH | 87.5% IQS | 66.7% CSAT**
@@ -517,7 +517,7 @@ Arian Alegria,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125
 - **Execution Focus:** Continue strengthening fraud investigations and confidence with unfamiliar high-complexity cases.
 - **Recommended Support:** Weekly KPI reviews, QA calibration focused on customer experience, reverse shadowing for advanced cases, and reinforcement of proactive participation during team discussions.
 - **Overall Assessment:** Ready to independently manage Expert 2 case complexity, with coaching centered on customer experience consistency and continued productivity growth.",Expert 2,https://app.notion.com/p/cookunity/Gianfrancis-Arian-Alegr-a-Davila-Arian-3676c6b786ba815eaae7dec91ab8b82b?source=copy_link
-Ana Lucia Aguilar Hornes,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,4.7,Meets expectations,0.125,4.00,Meets expectations,1.4,5,Exceeds expectations,1,4,Meets expectations,1.6,4.25,,Ready with Coaching,"## Supervisor Quick View
+Ana Lucia Aguilar Hornes,34,CX - Specialist,Specialist,Active,Ximena Anticona,,5,Exceeds expectations,0.125,4.7,Meets expectations,0.125,4.00,Meets expectations,1.4,5,Exceeds expectations,1,4,Meets expectations,1.6,4.25,,Ready with Coaching,"## Supervisor Quick View
 - **Readiness:** 🟡 Ready for Operations with Coaching.
 - **Tier recommendation:** Expert 2
 - **Final performance:** **3.4 TPH, 75% IQS, and 73.3% CSAT**.
@@ -528,7 +528,7 @@ Ana Lucia Aguilar Hornes,34,CX - Specialist,Specialist,Active,,5,Exceeds expecta
 - **Execution focus:** Review full case history, validate backend evidence, and select the correct contact reason before responding.
 - **Recommended support:** Weekly KPI reviews, early QA calibration, complex-case reviews, and one reverse-shadowing session.
 - **Overall assessment:** Ana Lucia has the mindset and foundational knowledge required for Operations. Her transition should be supported by structured coaching focused on KPI consistency, independent decisions, and complete end-to-end resolutions.",Expert 2,https://app.notion.com/p/cookunity/Hilda-Ana-Lucia-Aguilar-Hornes-Analu-3676c6b786ba816b9c30ff693778f123?source=copy_link
-Jean Carlo Gastelo,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,4.5,Developing,0.1,3.67,Developing,1.05,4.25,Meets expectations,0.8,4.6,Exceeds expectations,2,4.075,,Ready with Coaching,"## Supervisor Quick View
+Jean Carlo Gastelo,34,CX - Specialist,Specialist,Active,Gabriel Badilla,,5,Exceeds expectations,0.125,4.5,Developing,0.1,3.67,Developing,1.05,4.25,Meets expectations,0.8,4.6,Exceeds expectations,2,4.075,,Ready with Coaching,"## Supervisor Quick View
 - **Readiness:** 🟢 **Ready for Operations**
 - **Tier recommendation:** **Expert 2**
 - **Final performance:** **4.2 TPH | 100% IQS | 90% CSAT**
@@ -538,7 +538,7 @@ Jean Carlo Gastelo,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,
 - **Execution focus:** Maintain complete validations, accurate documentation, and high-quality escalation practices.
 - **Recommended support:** Weekly KPI reviews, early QA calibrations, documentation audits, and continued coaching focused on productivity and customer de-escalation.
 - **Overall assessment:** Jean Carlo demonstrated consistent growth throughout onboarding and is ready to manage **Expert 2** case complexity. His combination of strong critical thinking, excellent quality performance, and exceptional coachability provides a solid foundation for success in Operations, with productivity remaining the primary focus during his first 30 days.",Expert 2,https://app.notion.com/p/cookunity/Jose-Jean-Carlo-Gastelo-Ramirez-Jean-Carlo-3676c6b786ba8184bfebc71784de0de5?source=copy_link
-JoseMa Reyes,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,5.0,Exceeds expectations,0.125,3.33,Developing,0.7,5,Exceeds expectations,1,5,Exceeds expectations,2,3.95,,Coaching Required,"## Supervisor Quick View
+JoseMa Reyes,34,CX - Specialist,Specialist,Active,Alejandro Rodriguez,,5,Exceeds expectations,0.125,5.0,Exceeds expectations,0.125,3.33,Developing,0.7,5,Exceeds expectations,1,5,Exceeds expectations,2,3.95,,Coaching Required,"## Supervisor Quick View
 - **Readiness:** 🟢 Ready for Operations.
 - **Tier recommendation:** **Expert 2**.
 - **Final performance:** **3.7 TPH, 100% IQS, and 81.8% CSAT.**
@@ -548,7 +548,7 @@ JoseMa Reyes,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,
 - **Execution focus:** Increase decision speed without sacrificing validation quality or documentation standards.
 - **Recommended support:** Weekly KPI reviews, early QA calibration, workflow-efficiency coaching, and confidence-building through live observations.
 - **Overall assessment:** Ready to manage Expert 2 case complexity with a strong quality-first mindset. Continued coaching should primarily focus on productivity gains while preserving the excellent quality and customer experience standards established during onboarding.",Expert 2,https://app.notion.com/p/cookunity/Jose-Manuel-Reyes-Flores-JoseMa-3676c6b786ba8132b85ce065e18dd853?source=copy_link
-Jose Tica Tarazona,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,4.6,Meets expectations,0.125,4.00,Meets expectations,1.4,4,Meets expectations,0.8,3,Developing,0.8,3.25,,Intervention Required,"## Supervisor Quick View
+Jose Tica Tarazona,34,CX - Specialist,Specialist,Active,Rocio Vargas,,5,Exceeds expectations,0.125,4.6,Meets expectations,0.125,4.00,Meets expectations,1.4,4,Meets expectations,0.8,3,Developing,0.8,3.25,,Intervention Required,"## Supervisor Quick View
 - **Readiness:** 🟡 Ready for Operations with Coaching.
 - **Tier recommendation:** **Expert 1**.
 - **Final performance:** **2.2 TPH, 90% IQS, and 100% CSAT**.
@@ -559,7 +559,7 @@ Jose Tica Tarazona,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,
 - **Behavioral focus:** Improve punctuality and communicate delays proactively.
 - **Recommended support:** Weekly KPI reviews, early QA calibration, targeted complex-case reviews, and one reverse-shadowing session.
 - **Overall assessment:** Prepared to transition into Operations at Expert 1 complexity with continued coaching focused on productivity, escalation structure, behavioral consistency, and independent handling of complex cases.",Expert 2,https://app.notion.com/p/cookunity/Jose-Raul-Tica-Tarazona-Jose-3676c6b786ba81ffba81e7673581158c?source=copy_link
-Eduardo Almeyda,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,4.2,Developing,0.1,3.67,Developing,1.05,4.25,Meets expectations,0.8,3,Developing,0.8,2.875,,Intervention Required,"## Supervisor Quick View
+Eduardo Almeyda,34,CX - Specialist,Specialist,Active,Jose Angel Diaz,,5,Exceeds expectations,0.125,4.2,Developing,0.1,3.67,Developing,1.05,4.25,Meets expectations,0.8,3,Developing,0.8,2.875,,Intervention Required,"## Supervisor Quick View
 - **Readiness:** 🟡 Ready for Operations with Coaching.
 - **Tier recommendation:** **Expert 1**.
 - **Final performance:** **3.3 TPH, 92% IQS, and 93.3% CSAT**.
@@ -571,7 +571,7 @@ Eduardo Almeyda,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.1
 - **Behavioral focus:** Maintain punctuality, proactive communication, correct login procedures, and active participation.
 - **Recommended support:** Weekly KPI reviews, early QA and CSAT calibration, and one reverse-shadowing session.
 - **Overall assessment:** Ready to transition into Operations at an Expert 1 level, with structured coaching required to improve productivity, independence, and consistency in complex scenarios.",Expert 1,https://app.notion.com/p/cookunity/Juan-Eduardo-Manuel-Apolaya-Almeyda-Edu-3676c6b786ba81c283dcc08d231c4d64?source=copy_link
-Julio Chiri,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,4.4,Developing,0.1,3.00,Developing,0.7,4.25,Meets expectations,0.8,2.4,Needs intervention,0.4,2.125,,Reevaluation Required,"## Supervisor Quick View
+Julio Chiri,34,CX - Specialist,Specialist,Active,Gabriela Tapia,,5,Exceeds expectations,0.125,4.4,Developing,0.1,3.00,Developing,0.7,4.25,Meets expectations,0.8,2.4,Needs intervention,0.4,2.125,,Reevaluation Required,"## Supervisor Quick View
 - **Readiness:** 🔴 **Not Ready for Operations.**
 - **Tier recommendation:** **Expert 1.**
 - **Final performance:** **3.6 TPH, 100% IQS, and 30.8% CSAT.**
@@ -581,7 +581,7 @@ Julio Chiri,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,4
 - **Execution focus:** Validate before acting, review complete case history, consistently apply SOPs, and carefully review AI-assisted responses before sending.
 - **Recommended support:** Weekly KPI reviews, frequent QA calibrations, reverse-shadowing sessions, targeted coaching on validation and execution quality, and close day-to-day supervision during continued development.
 - **Overall assessment:** Julio has demonstrated the mindset and willingness to succeed but has not yet achieved the consistency required for an independent operational transition. An **Expert 1** assignment, combined with structured coaching and close supervision from Gabriela Tapia, is the appropriate next step to help him stabilize performance and build confidence before assuming a standard Operations workload.",Expert 1 ,https://app.notion.com/p/cookunity/Julio-Alberto-Chiri-Ramirez-JC-3676c6b786ba81c6a6a5f18290aa607e?source=copy_link
-Junior Tello,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,4.7,Meets expectations,0.125,2.00,Needs intervention,0.35,3.75,Developing,0.6,2,Needs intervention,0.4,1.6,,Reevaluation Required,"## Supervisor Quick View
+Junior Tello,34,CX - Specialist,Specialist,Active,Paola Pirela,,5,Exceeds expectations,0.125,4.7,Meets expectations,0.125,2.00,Needs intervention,0.35,3.75,Developing,0.6,2,Needs intervention,0.4,1.6,,Reevaluation Required,"## Supervisor Quick View
 - **Readiness:** 🔴 **Not Ready for Operations**
 - **Tier recommendation:** **Expert 1**
 - **Final performance:** **1.8 TPH • 60.0% IQS • 42.9% CSAT**
@@ -591,7 +591,7 @@ Junior Tello,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,
 - **Execution focus:** Improve SOP mastery, responsiveness, case analysis, and independent decision-making.
 - **Recommended support:** Weekly KPI reviews, frequent QA calibration, reverse shadowing, and close monitoring of attendance, communication, and accountability.
 - **Overall assessment:** Junior demonstrated encouraging growth throughout onboarding but was unable to sustain KPI performance during the final stages of training. Additional coaching is recommended before transitioning to Operations as an **Expert 1** specialist.",Expert 1,https://app.notion.com/p/cookunity/Junior-Jose-Alexander-Tello-Alvinez-A-3676c6b786ba81d38a61dc126ebc09fa?source=copy_link
-Michelle Diaz,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,4.6,Meets expectations,0.125,3.33,Developing,0.7,3.5,Developing,0.6,3.8,Developing,1.2,2.75,,Intervention Required,"## Supervisor Quick View
+Michelle Diaz,34,CX - Specialist,Specialist,Active,Fiorella Marquez,,5,Exceeds expectations,0.125,4.6,Meets expectations,0.125,3.33,Developing,0.7,3.5,Developing,0.6,3.8,Developing,1.2,2.75,,Intervention Required,"## Supervisor Quick View
 - **Readiness:** 🟡 Ready for Operations with Coaching.
 - **Tier recommendation:** **Expert 2**
 - **Final performance:** **5.0 TPH, 94.0% IQS, and 66.7% CSAT**
@@ -601,7 +601,7 @@ Michelle Diaz,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125
 - **Execution focus:** Strengthen GovX/login validations, billing investigations, communication responsiveness, and adherence to operational expectations.
 - **Recommended support:** Weekly KPI review, QA calibration focused on customer experience, structured behavioral follow-up, and targeted coaching on communication, punctuality, and professional engagement.
 - **Overall assessment:** Technically prepared to manage Expert 2 case complexity with consistently strong quality and productivity, but requires ongoing behavioral coaching and customer experience development to ensure long-term operational success.",Expert 2,https://app.notion.com/p/cookunity/Michelle-Nayelli-Diaz-Castro-Mich-3676c6b786ba81c6ba77dc5ed42871c1?source=copy_link
-Monica Muñoz Cruz,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,4.5,Developing,0.1,3.00,Developing,0.7,4.25,Meets expectations,0.8,4,Meets expectations,1.6,3.325,,Intervention Required,"## Supervisor Quick View
+Monica Muñoz Cruz,34,CX - Specialist,Specialist,Active,Fiorella Marquez,,5,Exceeds expectations,0.125,4.5,Developing,0.1,3.00,Developing,0.7,4.25,Meets expectations,0.8,4,Meets expectations,1.6,3.325,,Intervention Required,"## Supervisor Quick View
 - **Readiness:** 🟡 Ready with Coaching.
 - **Tier recommendation:** **Expert 1**.
 - **Final performance:** **2.8 TPH, 86% IQS, and 80% CSAT.**
@@ -611,7 +611,7 @@ Monica Muñoz Cruz,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,
 - **Execution focus:** Improve workflow efficiency, leverage all available investigation tools, and reinforce accountability in operational processes.
 - **Recommended support:** Weekly KPI reviews, QA calibration, reverse shadowing, validation coaching, and regular follow-up on accountability expectations.
 - **Overall assessment:** Monica has demonstrated strong quality and critical thinking throughout onboarding. With continued coaching on productivity and operational discipline, she is well positioned to succeed as an **Expert 1** specialist in Operations.",Expert 2,https://app.notion.com/p/cookunity/Monica-Mu-oz-3676c6b786ba81989c2fc7cc574c39f5?source=copy_link
-Pamela Mananí,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,4.8,Meets expectations,0.125,4.00,Meets expectations,1.4,4.5,Exceeds expectations,1,4,Meets expectations,1.6,4.25,,Ready with Coaching,"## Supervisor Quick View
+Pamela Mananí,34,CX - Specialist,Specialist,Active,Grey Cruzado,,5,Exceeds expectations,0.125,4.8,Meets expectations,0.125,4.00,Meets expectations,1.4,4.5,Exceeds expectations,1,4,Meets expectations,1.6,4.25,,Ready with Coaching,"## Supervisor Quick View
 - **Readiness:** 🟢 Ready for Operations.
 - **Tier recommendation:** **Expert 2**.
 - **Final performance:** **3.0 TPH, 98.0% IQS, and 83.3% CSAT.**
@@ -621,7 +621,7 @@ Pamela Mananí,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.12
 - **Execution focus:** Improve workflow efficiency while maintaining current quality standards and continue building independence from AI for routine validations.
 - **Recommended support:** Weekly TPH reviews, early reverse shadowing session, QA calibration during the first month, and reinforcement of proactive communication regarding attendance and technical issues.
 - **Overall assessment:** Pamela is ready to transition into **Expert 2** Operations work. She has demonstrated outstanding quality and consistent critical thinking throughout onboarding. Productivity remains the only meaningful development area, and based on her steady upward trajectory, she is well positioned to close that gap with targeted coaching during her first month in Operations.",Expert 2,https://app.notion.com/p/cookunity/Pamela-Ingrid-Manani-Pam-3676c6b786ba811780b3c0309e4ed7cd?source=copy_link
-Piero Alvarado,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,4.9,Exceeds expectations,0.125,3.33,Developing,0.7,4.5,Exceeds expectations,1,3.8,Developing,1.2,3.15,,Intervention Required,"## Supervisor Quick View
+Piero Alvarado,34,CX - Specialist,Specialist,Active,Ximena Anticona,,5,Exceeds expectations,0.125,4.9,Exceeds expectations,0.125,3.33,Developing,0.7,4.5,Exceeds expectations,1,3.8,Developing,1.2,3.15,,Intervention Required,"## Supervisor Quick View
 - **Readiness:** 🟡 **Ready with Coaching (Expert 2 – Provisional)**
 - **Tier recommendation:** **Expert 2 – Provisional**
 - **Final performance:** *3.3 TPH | 77.5% IQS | 100% CSAT*   
@@ -632,7 +632,7 @@ Piero Alvarado,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.12
 - **Execution focus:** Strengthen Processes & Escalations quality, validate AI-generated content before submission, and reinforce operational discipline during concurrent case handling.
 - **Recommended support:** Weekly KPI reviews, early QA calibrations, live chat monitoring, billing case follow-up, and structured coaching on WABI quality during the first month.
 - **Overall assessment:** Piero demonstrated steady growth throughout onboarding and established a strong quality foundation supported by solid critical thinking and engagement. He is recommended to transition as an **Expert 2 – Provisional**, with continued coaching focused on productivity, live operational execution, and process consistency before confirming permanent Expert 2 placement.",Expert 2,https://app.notion.com/p/cookunity/Piero-Alvarado-3676c6b786ba81dc8902e502a1126d43?source=copy_link
-Ricardo Andrade,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,5.0,Exceeds expectations,0.125,3.00,Developing,0.7,4,Meets expectations,0.8,5,Exceeds expectations,2,3.75,,Coaching Required,"## Supervisor Quick View
+Ricardo Andrade,34,CX - Specialist,Specialist,Active,Francisco Romano,,5,Exceeds expectations,0.125,5.0,Exceeds expectations,0.125,3.00,Developing,0.7,4,Meets expectations,0.8,5,Exceeds expectations,2,3.75,,Coaching Required,"## Supervisor Quick View
 - **Readiness:** 🟢 Ready for Operations
 - **Tier recommendation:** **Expert 2**
 - **Final performance:** **5.0 TPH, 72.5% IQS, and 95.7% CSAT**
@@ -642,7 +642,7 @@ Ricardo Andrade,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.1
 - **Execution focus:** Maintain thorough validations and structured troubleshooting before determining resolutions.
 - **Recommended support:** Weekly QA calibration, KPI reviews, reinforcement of quality standards, and coaching on complex case analysis.
 - **Overall assessment:** Ricardo demonstrated consistent growth throughout onboarding and is ready to manage **Expert 2** case complexity. Continued coaching should focus primarily on maintaining quality consistency while preserving the productivity and customer experience improvements achieved during training.",Expert 2,https://app.notion.com/p/cookunity/Ricardo-Andrade-Ricardo-3676c6b786ba815f9076feefc55d80ee?source=copy_link
-Rodrigo Cornejo,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,4.5,Developing,0.1,2.00,Needs intervention,0.35,4.25,Meets expectations,0.8,3,Developing,0.8,2.175,,Reevaluation Required,"## Supervisor Quick View
+Rodrigo Cornejo,34,CX - Specialist,Specialist,Active,Francisco Romano,,5,Exceeds expectations,0.125,4.5,Developing,0.1,2.00,Needs intervention,0.35,4.25,Meets expectations,0.8,3,Developing,0.8,2.175,,Reevaluation Required,"## Supervisor Quick View
 - **Readiness:** 🔴 Not Ready for Expert 2 (Transitions as **Expert 1 – Needs Intervention**).
 - **Tier recommendation:** **Expert 1**.
 - **Final performance:** **2.8 TPH, 76% IQS, and 71.4% CSAT.**
@@ -652,7 +652,7 @@ Rodrigo Cornejo,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.1
 - **Execution focus:** Build consistent validation habits, proofread every response, complete mandatory account merges, and improve ticket triage before resolving cases.
 - **Recommended support:** Weekly KPI reviews, QA calibration, validation-focused coaching, and close monitoring of recurring IQS deductions during the first month.
 - **Overall assessment:** Rodrigo has demonstrated the potential to succeed in Operations, but he requires continued coaching to convert his strong knowledge base into consistent operational execution before becoming eligible for Expert 2 progression.",Expert 1 ,https://app.notion.com/p/cookunity/Rodrigo-Josue-Cornejo-Chacon-Rodrigo-Josue-3676c6b786ba81719901fbda4d0cf7c9?source=copy_link
-Willy Ganoza Luyo,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0.125,4.5,Meets expectations,0.125,3.00,Developing,0.7,4.25,Meets expectations,0.8,4,Meets expectations,1.6,3.35,,Intervention Required,"## Supervisor Quick View
+Willy Ganoza Luyo,34,CX - Specialist,Specialist,Active,Jose Patron,,5,Exceeds expectations,0.125,4.5,Meets expectations,0.125,3.00,Developing,0.7,4.25,Meets expectations,0.8,4,Meets expectations,1.6,3.35,,Intervention Required,"## Supervisor Quick View
 - **Readiness:** 🟡 Ready for Operations with Coaching.
 - **Tier recommendation:** **Expert 2**.
 - **Incoming supervisor:** **José Patrón**.
@@ -665,4 +665,4 @@ Willy Ganoza Luyo,34,CX - Specialist,Specialist,Active,,5,Exceeds expectations,0
 - **Complexity focus:** Improve issue classification, contact reason selection, escalation, and reassignment decisions.
 - **Recommended support:** Weekly KPI reviews, early QA calibration, guided complex-case reviews, and reverse shadowing.
 - **Overall assessment:** Ready to manage Expert 2 case complexity with continued coaching focused on productivity, quality consistency, and complex-case decision-making.",Expert 2,https://app.notion.com/p/cookunity/Willy-Daniel-Ganoza-Luyo-Daniel-3676c6b786ba8199be21c676c865fcc4?source=copy_link
-Jose David De La Cruz Canchán,34,CX - Ops,Specialist,Active,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,#N/A,,,
+Jose David De La Cruz Canchán,34,CX - Ops,Specialist,Active,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,#N/A,,,
