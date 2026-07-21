@@ -1,478 +1,692 @@
-Total Items: ,,,,,,,,,,,,,,,,,,
-5,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-Last Update,,,,,,,,,,,,,,,,,,
-7/12/2026,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-Employee,Group,Squad,Role,Job Status,Supervisor,Understanding & Framing the Problem Avg,Understanding the Problem Equivalent,Logical & Structured Reasoning Avg,Logical Approach Equivalent,Knowledge Application & Judgment Avg,Knowledge Application Equivalent,Problem Anticipation & Impact Awareness Avg,Problem Anticipation & Resolution Equivalent,Independence & Confidence in Decision-Making Avg,Independence Equivalent,Critical Thinking Grade,Critical Thinking Status,Comments
-Patrice Camille Halili,1,CX - Leadership,Supervisor,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,0,Not ready,
-Ghel Punzalan,1,CX - OPS,Lead,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Diego Enriquez,2,CX - Training,Lead,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Pablo Coronel,2,CX - Specialist,Supervisor,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Jenny Hardy,2,CX - Specialist,Supervisor,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Guillermo Reyes,2,CX - OPS,,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Ludmila Biagi,3,CX - Specialist,,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Emilse Itati,4,CX - Specialist,,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Gabriel Gonzalez,4,CX - Assistant,Supervisor,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-M.Elisa Cordoba,5,CX - Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Hernan Coronel,5,CX - Training,Lead,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Trinidad Cejas,6,CX - Specialist,,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Magali Silva,6,CX - Specialist,,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Jodith Estabillo,7,CX - Ops,Ops Coordinator,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Luis Lacruz,8,CX - OPS,,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Johans Breidenbach,10,CX - QA,Analyst,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Florencia Centrone,10,CX - Training,Analyst,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Zoe Quiroga,10,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Joan Torres,11,CX - OPS,,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Sofia Seivane,12,CX - Specialist,,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Ricardo Guzman,12,CX - Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Mateo Diaz,12,CX - Leadership,Lead,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Yessica Nagib,13,CX - QA,Analyst,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Darwin Noriega,14,CX - QA,Lead,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Francia Colmenarez,15,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Maria Regules,15,CX - Leadership,Lead,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Gabriela Baron,16,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Lucas Gerez,16,CX - Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Camila Sanchez,17,CX - Specialist,Lead,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Maria Fernanda Lara,17,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Mariana Rodriguez,17,CX - Specialist,,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Jorge Parra,18,CX - Specialist,,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Serafin Sanchez,18,CX - Leadership,Manager,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Gisella Ribachi,19,CX - Specialist,,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Esequiel Starostiuk,19,CX - Specialist,,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Fausto Rossi,19,CX - Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Milena Franco,19,CX - Leadership,Lead,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Pedro Cornet,20,CX - Specialist,,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Ludmila Cirelli,20,CX - Specialist,,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Alejandro Acosta,21,CX - Specialist,,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Adolfo Benjamin Kunjuk,21,CX - Specialist,,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Alonso Saravia,22,CX - QA,,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Nicolas Rojas,22,CX - Specialist,,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Paola Pirela,22,CX - Leadership,Supervisor,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Serena Gerbi,22,CX - Training,Analyst,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Luis Siso,23,CX - Leadership,Supervisor,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Fiorella Marquez,23,CX - Leadership,Supervisor,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Braian Restrepo,23,CX - QA,Lead,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Eglys Garcia,23,CX - Specialist,,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Manuel Torres,23,CX - Specialist,,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Nicolas Appezzato,23,CX - Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Ariana Ehrhardt,23,CX - Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Yeirmer Méndez,23,CX - Leadership,Lead,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Martina Notti,23,CX - Specialist,,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Daniela Castañeda,23,CX - Leadership,Lead,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Pablo Ovejero,23,CX - OPS,,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-José Luis Amorone,23,CX - OPS,,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Cleiver Guzman,24,CX - Specialist,,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Rocio Vargas,24,CX - Leadership,Supervisor,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Jose Angel Diaz,24,CX - Leadership,Lead,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Luca Espindola,24,CX - Leadership,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Malena Rosas,24,CX - Specialist,,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Mara Mendez,24,CX - Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Carolina Coscia,24,CX - Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Girolamo Yapo,24,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Brian Muro,24,CX - Specialist,,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Martin Diaz,24,CX - Specialist,,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Ana Navarro,24,CX - Ops,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Carlos Eduardo Barbosa Barros,25,CX - Specialist,,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Micaela Delpiano,25,CX - Specialist,,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Gabriel Navarro,25,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Agostina Peduto,25,CX - Specialist,,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Gabriela Rivera,25,CX - Specialist,,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Gonzalo Rodriguez,25,CX - Specialist,,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Agustina Casal,25,CX Data,Analyst,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Luana Samira La Madrid Goncalves,26,CX - Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Laika Supay Deviasso,26,CX - Leadership,Lead,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Jorge Luis,26,CX - Specialist,,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Florencia Castro,26,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Cecilia Gabet,26,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Federico Ramos,26,CX - Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Lucila Aguilar Loyola,26,CX - Leadership,Lead,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Ketevan  Streletska,26,CX - Leadership,Supervisor,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Matias  Cardoso,26,CX - Ops,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Valentina Villa,26,CX - Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Ximena Angulo,27,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Esteban Mujica,27,CX - Leadership,Lead,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Magalí Fernandez,27,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Valeria Leon,27,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Emiliano Ezcurra,27,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Maria Sol Popovich,27,CX - OPS,,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Renzo Durán,27,CX - Ops,Supervisor,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Candelaria Lucena,28,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Eddington Fabrizzio,28,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Erick Perez,28,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Kamil Asaram,28,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Henry Carmona,28,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Israel Fowks,28,CX - Specialist,,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Alejandra Paredes,28,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Lucia Huarte,28,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Juan Fajardo,28,CX - Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Lucas Medina,28,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Nicolas Tkaczyk,28,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Gabriel Badilla,28,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Cinthia Medina,28,CX - Leadership,Manager,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Eduardo Giannini Vilchez Sarmiento,29,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Katherine Lino Bravo,29,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Renzo Hernan Bravo Suarez,29,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-George Derrick Serna,29,CX - Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Francisco Villar,29,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Maria Cecilia Vargas,29,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Yessenia Rojas,29,CX - Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Hans Acosta,29,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Ervin Ponce de Leon,29,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Perla Luna,29,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Candy Lucero Vargas Moreira,29,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Spencer Jahir Arenas Eulatth,29,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Natalia Fernanda Esteves Lozada,29,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Giancarlo Ruggiero,29,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Ana Laura Fernandez,29,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Luz Fiorella Salazar,29,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-María Carolina Cenoz,29,CX - Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Nicholas Meintjes,29,CX - Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Emiliano Barboza Chira,29,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Carlos Chagua,29,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Mauricio Cardenas,29,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-D'jana Leandro Jara,30,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Franko Svarcic,30,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Francisco Romano Ruiz,30,CX - Leadership,Supervisor,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Sergio Medina Macedo,30,CX - Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Sofia Chunga,30,CX - Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Bosco Ancho,30,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Miguel Acosta,30,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Maria Jose Perilla,30,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Yamely Elescano,30,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Alessandro Olivo,30,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Walter Yllescas,30,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Juan Carlos La Fuente Verano,30,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Bethsabet Chalco Coronel,30,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Sofia Chunga,30,CX - Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Julian Acotto,30,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Rodrigo Benavides,30,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Aaron Perea,31,CX - Leadership,Supervisor,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Abraham Luis Ramirez Garcia Blasquez,31,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Daniel Alejandro Virguez Chauta,31,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Alexandra Garcia Iman,31,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Alex Chavez,31,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Ana Lucia Melendez,31,CX - Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Arturo Rojas,31,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Bruno Vasquez,31,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Bryan Arana Romero,31,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Daniel Carlos Moran Rivera,31,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Daniella Giraldo,31,CX - Assistant,Manager Assistant ,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Diego Quiroz,31,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Eduardo Leon,31,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Franco Dongo Chacón,31,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Gerald Torres Zamora,31,CX - Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Gustavo Rodriguez,31,CX - Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Hugo Montoya Merino,31,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Ignacio Agustin Nuñez,31,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Israel Toro,31,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Joaquin Mole,31,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Karen Duran,31,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Kevin Enrique Torres Díaz,31,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Luis Jesus Diaz Yauri,31,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Mariana Marquina,31,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Mariana Rojas,31,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Martina Schinca,31,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Martin Carhuamaca,31,CX - Leadership,Lead,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Mónica Mileih Garcia Pelaez,31,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Natalia Reinosa,31,CX - Leadership,Supervisor,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Olga Acosta,31,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Renzo Berzabat Neyra de la Cruz,31,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Rodolfo Hernandez,31,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Rodolfo Pineda Lora,31,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Salomon Mattos Ruiz,31,CX - Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Ximena Farrilie Anticona Herrera,31,CX - Leadership,Supervisor,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Ericka Cardenas,1,CX - BPO Leadership,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Carlos Lluen,1,CX - BPO Training,Lead,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Marco Toribio,1,CX - BPO Leadership,Supervisor,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Adriana Quiroz,1,CX - BPO Training,Lead,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Alex Cutire,1,CX - BPO Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Alisson Vasquez,1,CX - BPO Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Ashlly Valdiviezo,1,CX - BPO Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Daniel Villar,1,CX - BPO Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-David Abad,1,CX - BPO Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Fariza Yunis,1,CX - BPO Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Gabriela Tapia,1,CX - BPO Leadership,Lead,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Hector Uscamayta,1,CX - BPO Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Karla Medina,1,CX - BPO Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Jose D De la Cruz,1,CX - BPO Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Jose L Franco,1,CX - BPO Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Marcos Anyosa,1,CX - BPO Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Marco Huapalla,1,CX - BPO Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Mathias Fernandez,1,CX - BPO Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Micaela Bravo,1,CX - BPO Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Moises Laynes,1,CX - BPO Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Narayan Martino,1,CX - BPO Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Sylvana Pilco,1,CX - BPO Leadership,Lead,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Victor Salazar,1,CX - BPO Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Viktor Valdivia,1,CX - BPO Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Viviana Jurado,1,CX - BPO Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Gretshen Zevallos,2,CX - BPO Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Vanessa Ortiz,2,CX - BPO Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Eduardo Santana,2,CX - BPO Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Oscar Chacon,2,CX - BPO Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Kiara Gutierrez,2,CX - BPO Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Madeleynne Castillo,2,CX - BPO Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Sandra Felix Consulta,2,CX - BPO Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Renato Benigno,2,CX - BPO Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Jorge Peregrino,2,CX - BPO Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Julio Segura,2,CX - BPO Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Jenny Huaman,2,CX - BPO Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Valeria Tupa,2,CX - BPO Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Mariana Ferreyros,2,CX - BPO Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Luis Peralta,2,CX - BPO Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Mary Flores,2,CX - BPO Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Carlos Herbozo,2,CX - BPO Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Damaris Cordova,2,CX - BPO Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Alejandra Vera,2,CX - BPO Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Madeleynne Castillo-Paredes,3,CX - BPO Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Liuben Ogando-Castro,3,CX - BPO Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Ricardo-Alejandro Acuna-Mendoza,3,CX - BPO Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Sheyla Lopez-Salvador,3,CX - BPO Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Daniel-Emilio Morales-Vizcardo,3,CX - BPO Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Allison-Priscilla Mendoza-Flores,3,CX - BPO Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Anny-Beatriz Reyna-Gamboa,3,CX - BPO Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Luis-Jose Salazar-Alarcon,3,CX - BPO Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Abigail-Briggette Chauca-Tinco,3,CX - BPO Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Erick-Alfredo GardinGamero,3,CX - BPO Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Marlon-Sebastian Ramirez-Munico,3,CX - BPO Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Mario Flores-Gonzalez,3,CX - BPO Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Maura-Cecilia Valle-Alvarado,3,CX - BPO Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Diego Francisco Hurtado Paz,3,CX - BPO Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Enrique-Josias Huayanay-Vasquez,3,CX - BPO Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Rosario Sanchez,3,CX - BPO Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Sandra Félix,3,CX - BPO Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Alejandro Arenas,3,CX - BPO Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Kaori Nakashima,4,CX - BPO Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Crizy Chavely Depaz,4,CX - BPO Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Alejandra Maria Grande Tavara,4,CX - BPO Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Luis Enrique Inga La Serna,4,CX - BPO Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Fabio Leandro Gastiaburu Porras,4,CX - BPO Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Gianfrancis Arian Alegria Davila,4,CX - BPO Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Emiliano Molina Barbaran,4,CX - BPO Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Roxana Isabel  Salas Zarate,4,CX - BPO Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Angela  Santos Vasquez,4,CX - BPO Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Sebastian Alejandro Delgado Pomacondor,4,CX - BPO Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Yocelyn Rita  Fernández Salas ,4,CX - BPO Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Damaris Cordova Luzon,4,CX - BPO Specialist,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Daphne Francesca Chavez Bielich,4,CX - BPO Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Jeffrin Luis  Tarifeño Rojas,4,CX - BPO Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Jeeimy Rojas Hidalgo,5,CX - BPO Training,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Ivan Oriundo Prado,5,CX - BPO Specialist ,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Anatoly Montero Mercado,5,CX - BPO Training,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Gonzalo Gutierrez Römer,5,CX - BPO Training,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Sandra Segura Gropuzzo,5,CX - BPO Training,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Sheyla Noriega Bernal,5,CX - BPO Training,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Tatiana Gutierrez Mabama,5,CX - BPO Specialist ,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Yoselyn Campos Cueva,5,CX - BPO Training,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Karla Galiano Gaspar,5,CX - BPO Specialist ,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Samantha Carranza Sanchez,5,CX - BPO Training,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Cesar De la Cruz Gomez,5,CX - BPO Training,Specialist,Active,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Ayeska Auza Villanueva,5,CX - BPO Specialist ,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Ruth Quispe Diaz,5,CX - BPO Specialist ,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Michael Gomez ,5,CX - BPO Specialist ,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Alberto Herrera ,5,CX - BPO Specialist ,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Enrique Pando Castro,5,CX - BPO Specialist ,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Christian Fernandez Jara,5,CX - BPO Specialist ,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Mayra Aguirre Romero,5,CX - BPO Specialist ,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Jennifer Paz Temoche,5,CX - BPO Specialist ,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Sofía Meza Chumpitaz,5,CX - BPO Specialist ,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Ximena Macalupu Ventocilla,5,CX - BPO Specialist ,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Sandra Benites ,5,CX - BPO Specialist ,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Sephora Diaz Altamirano,5,CX - BPO Specialist ,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Kathy Bustamante Valverde,5,CX - BPO Specialist ,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Jhon Crespo Damiano,5,CX - BPO Specialist ,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Jampiero Chora Suarez,5,CX - BPO Specialist ,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Cristel Candela Mendoza,5,CX - BPO Specialist ,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Jorge Sipan Barraza,5,CX - BPO Specialist ,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Abrahan Mariñas Calderon,32,CX - Specialist,Specialist,Active,,4.3,0.8,4.0,0.8,4.5,1,4.0,0.8,4.0,0.8,4.2,Meets expectations,
-Andre Gaston Valdivia Vasquez,32,CX - Specialist,Specialist,Active,,4.8,1,4.4,0.8,4.4,0.8,4.5,1,4.6,1,4.6,Exceeds expectations,
-Angello Omaet Niño De Guzmán Zevallos,32,CX - Specialist,Specialist,Active,,4.8,1,4.6,1,4.8,1,4.7,1,4.7,1,5,Exceeds expectations,
-Angelo Stefano Paricela Principe,32,CX - Specialist,Specialist,Active,,4.5,1,4.6,1,4.7,1,4.7,1,4.8,1,5,Exceeds expectations,
-Anyela Andreina Dachille Nava,32,CX - Specialist,Specialist,Active,,4.9,1,4.5,0.8,4.5,1,4.5,1,4.5,1,4.8,Exceeds expectations,
-Brenda Chavez,32,CX - Specialist,Specialist,Inactive,,4.2,0.8,3.8,0.6,4.3,0.8,4.1,0.8,4.0,0.8,3.8,Developing,
-Camila Alexandra Buiza Cabrera,32,CX - Specialist,Specialist,Active,,4.8,1,4.6,1,4.5,1,4.5,0.8,4.5,1,4.8,Exceeds expectations,
-Cesar Adrian Arraiz Chavez,32,CX - Specialist,Specialist,Active,,4.6,1,4.6,1,4.7,1,4.5,1,4.9,1,5,Exceeds expectations,
-Cesar Rivera Magno,32,CX - Specialist,Specialist,Active,,4.7,1,4.6,1,4.4,0.8,4.1,0.8,4.6,1,4.6,Exceeds expectations,
-Cristina Torres Bustillos,32,CX - Specialist,Specialist,Active,,4.7,1,4.6,1,4.6,1,4.7,1,4.7,1,5,Exceeds expectations,
-Diego Alfonso La Torre Flores,32,CX - Specialist,Specialist,Inactive,,2.4,0.4,2.3,0.4,2.4,0.4,2.6,0.4,2.7,0.4,2,Needs intervention,
-Eduardo Benjamin Yep Ishisaka,32,CX - Specialist,Specialist,Active,,4.2,0.8,4.3,0.8,4.3,0.8,4.2,0.8,4.3,0.8,4,Meets expectations,
-Eduardo Felipe Rodriguez Proscopio,32,CX - Specialist,Specialist,Active,,4.2,0.8,3.9,0.6,3.7,0.6,3.9,0.6,4.1,0.8,3.4,Developing,
-Eliana Del Carmen Vega Cipriano,32,CX - Specialist,Specialist,Active,,4.8,1,4.7,1,4.7,1,4.7,1,4.8,1,5,Exceeds expectations,
-Henry Amaranto,32,CX - Specialist,Specialist,Active,,3.5,0.6,3.2,0.6,3.4,0.6,3.3,0.6,3.8,0.6,3,Developing,
-Jackelyn Rocio Mattos Regalado,32,CX - Specialist,Specialist,Active,,4.7,1,4.7,1,4.7,1,4.8,1,4.7,1,5,Exceeds expectations,
-Janssel Ivair Flores Tello,32,CX - Specialist,Specialist,Inactive,,3.4,0.6,3.1,0.6,2.9,0.4,3.0,0.6,3.3,0.6,2.8,Needs intervention,
-Joaquin Manuel Caballero Flores,32,CX - Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Jose Mauricio Reyes Tasayco,32,CX - Specialist,Specialist,Inactive,,2.6,0.4,2.0,0.4,2.3,0.4,2.1,0.4,2.3,0.4,2,Needs intervention,
-Josue Castrosqui Brush,32,CX - Specialist,Specialist,Active,,4.9,1,4.9,1,4.8,1,4.8,1,5.0,1,5,Exceeds expectations,
-Juan Diego Gomez Aiyon,32,CX - Specialist,Specialist,Active,,4.7,1,4.8,1,4.8,1,4.7,1,4.8,1,5,Exceeds expectations,
-Julio Mateo Arakaki Vera,32,CX - Specialist,Specialist,Active,,3.7,0.6,3.5,0.6,3.0,0.6,3.3,0.6,3.3,0.6,3,Developing,
-Kaori Nakashima Tarazona,32,CX - Specialist,Specialist,Active,,4.9,1,4.9,1,4.7,1,4.4,0.8,4.7,1,4.8,Exceeds expectations,
-Kevin Palomino,32,CX - Specialist,Specialist,Inactive,,4.6,1,4.4,0.8,4.4,0.8,4.3,0.8,4.2,0.8,4.2,Meets expectations,
-Lisangel Carolina Gallardo Hernandez,32,CX - Specialist,Specialist,Active,,4.5,1,4.2,0.8,3.8,0.6,3.8,0.6,4.0,0.8,3.8,Developing,
-Madeleynne Castillo Paredes,32,CX - Specialist,Specialist,Active,,4.0,0.8,4.1,0.8,4.0,0.8,4.1,0.8,4.0,0.8,4,Meets expectations,
-Marco Antonio Ato Mejia,32,CX - Specialist,Specialist,Inactive,,3.6,0.6,3.8,0.6,3.4,0.6,3.6,0.6,3.6,0.6,3,Developing,
-María Fernanda Torres Vasquez,32,CX - Specialist,Specialist,Active,,4.8,1,4.6,1,4.7,1,4.4,0.8,4.7,1,4.8,Exceeds expectations,
-Matias Alonso Tamariz Briceño,32,CX - Specialist,Specialist,Active,,4.0,0.8,4.0,0.8,4.3,0.8,4.0,0.8,4.0,0.8,4,Meets expectations,
-Matias Cruz Rodriguez,32,CX - Specialist,Specialist,Active,,4.1,0.8,3.9,0.6,3.9,0.6,3.9,0.6,3.6,0.6,3.2,Developing,
-Mauricio José Vargas Morón,32,CX - Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Michael Matzumura Gonzáles,32,CX - Specialist,Specialist,Active,,4.9,1,4.8,1,4.9,1,4.8,1,4.7,1,5,Exceeds expectations,
-Miguel Ángel Márquez Jader,32,CX - Specialist,Specialist,Active,,4.3,0.8,3.7,0.6,4.0,0.8,4.0,0.8,4.0,0.8,3.8,Developing,
-Milagros Hurtado Salazar,32,CX - Specialist,Specialist,Active,,4.9,1,4.9,1,5.0,1,4.5,1,4.8,1,5,Exceeds expectations,
-Milagros Suarez Lujan,32,CX - Specialist,Specialist,Active,,5.0,1,5.0,1,4.8,1,4.7,1,4.7,1,5,Exceeds expectations,
-Nicolas Garcia,32,CX - Specialist,Specialist,Active,,4.0,0.8,3.9,0.6,4.1,0.8,4.0,0.8,3.8,0.6,3.6,Developing,
-Nicole Adriana Rojas Rojas,32,CX - Specialist,Specialist,Active,,4.2,0.8,4.1,0.8,3.9,0.6,3.6,0.6,4.1,0.8,3.6,Developing,
-Nidia Peña Sanchez,32,CX - Specialist,Specialist,Active,,3.8,0.6,3.5,0.6,3.3,0.6,3.0,0.6,4.0,0.8,3.2,Developing,
-Osvaldo Martín Leclere,32,CX - Specialist,Specialist,Active,,4.8,1,4.8,1,4.8,1,4.0,0.8,4.0,0.8,4.6,Exceeds expectations,
-Pedro Galindo,32,CX - Specialist,Specialist,Active,,3.7,0.6,3.7,0.6,3.7,0.6,3.6,0.6,4.1,0.8,3.2,Developing,
-Piero Benjamín Porras Miguel,32,CX - Specialist,Specialist,Active,,3.0,0.6,3.0,0.6,2.8,0.4,2.8,0.4,2.8,0.4,2.4,Needs intervention,
-Raffael Anttonio Garcia Perez Vargas,32,CX - Specialist,Specialist,Active,,4.3,0.8,4.0,0.8,4.0,0.8,3.7,0.6,4.0,0.8,3.8,Developing,
-Rosa Loayza Uzategui,32,CX - Specialist,Specialist,Active,,3.5,0.6,3.4,0.6,3.5,0.6,3.5,0.6,3.8,0.6,3,Developing,
-Sheyla Alvarado Santillán,32,CX - Specialist,Specialist,Inactive,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
-Sofia Chunga Zavaleta,32,CX - Specialist,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,
-Vanessa Lie Del Rosario Acero,32,CX - Specialist,Specialist,Active,,4.8,1,4.8,1,4.7,1,4.8,1,4.8,1,5,Exceeds expectations,
-Ximena Prado Moscoso,32,CX - Specialist,Specialist,Active,,5.0,1,5.0,1,4.7,1,4.9,1,4.9,1,5,Exceeds expectations,
-Nicole Mujica Wiener,33,CX - Specialist,Specialist,Active,,4.9,1,4.8,1,4.6,1,4.3,0.8,4.3,0.8,4.6,Exceeds expectations,
-Fabiana Vega,33,CX - Specialist,Specialist,Active,,4.1,0.8,4.3,0.8,4.0,0.8,4.1,0.8,3.9,0.6,3.8,Developing,
-Macla Rivas,33,CX - Specialist,Specialist,Active,,3.9,0.6,3.7,0.6,3.7,0.6,3.7,0.6,3.7,0.6,3,Developing,
-Matías Larriviere,33,CX - Specialist,Specialist,Active,,4.1,0.8,4.3,0.8,4.2,0.8,4.2,0.8,4.4,0.8,4,Meets expectations,
-Stefania Garay Angarita,33,CX - Specialist,Specialist,Active,,4.9,1,4.9,1,4.8,1,4.8,1,4.7,1,5,Exceeds expectations,
-Renzo Silva,33,CX - Specialist,Specialist,Active,,3.7,0.6,3.8,0.6,3.5,0.6,3.5,0.6,3.4,0.6,3,Developing,
-Maria Cortez,33,CX - Specialist,Specialist,Active,,3.9,0.6,3.9,0.6,3.8,0.6,3.3,0.6,3.7,0.6,3,Developing,
-Oscar Diaz,33,CX - Specialist,Specialist,Active,,4.1,0.8,4.2,0.8,3.9,0.6,4.2,0.8,4.1,0.8,3.8,Developing,
-Guillo Camacho Galvez,33,CX - Specialist,Specialist,Active,,4.8,1,4.8,1,4.6,1,4.7,1,4.4,0.8,4.8,Exceeds expectations,
-Danilo Tipismana,33,CX - Specialist,Specialist,Active,,4.2,0.8,4.4,0.8,4.1,0.8,4.2,0.8,4.4,0.8,4,Meets expectations,
-Sara Parreño,33,CX - Specialist,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,
-Cielo Godoy,33,CX - Specialist,Specialist,Active,,4.0,0.8,4.0,0.8,3.9,0.6,3.7,0.6,3.7,0.6,3.4,Developing,
-Luisa Muñinco,33,CX - Specialist,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,
-Edmar Rodrigo,33,CX - Specialist,Specialist,Active,,3.6,0.6,3.1,0.6,3.1,0.6,3.0,0.6,2.7,0.4,2.8,Needs intervention,
-Silvana Hidalgo Moreira,33,CX - Specialist,Specialist,Active,,3.9,0.6,4.1,0.8,4.1,0.8,4.0,0.8,3.9,0.6,3.6,Developing,
-Alonso Patron,33,CX - Leadership,Supervisor,Active,,4.6,1,4.6,1,4.5,1,4.6,1,4.4,0.8,4.8,Exceeds expectations,
-Alejandro Rodriguez,33,CX - Leadership,Supervisor,Active,,3.3,0.6,3.2,0.6,2.9,0.4,2.8,0.4,3.1,0.6,2.6,Needs intervention,
-Grey Cruzado,33,CX - Leadership,Supervisor,Active,,4.5,1,4.4,0.8,4.4,0.8,4.3,0.8,4.4,0.8,4.2,Meets expectations,
-Ernesto Nunez,33,CX - QA,Analyst,Active,,4.2,0.8,4.3,0.8,4.1,0.8,4.2,0.8,4.0,0.8,4,Meets expectations,
-Bruno Bances Monard,33,CX - QA,Analyst,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,
-Lucia Ponce,33,CX - QA,Analyst,Inactive,,4.0,0.8,4.2,0.8,3.9,0.6,4.0,0.8,3.7,0.6,3.6,Developing,
-Fernando Alfredo Merino Suarez,33,CX - Specialist,Specialist,Inactive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,
-Alejandra Geldres,34,CX - Specialist,Specialist,Active,Jose Patron,4.5,1,4.3,0.8,4.2,0.8,4.2,0.8,4.3,0.8,4.2,Meets expectations,"Alejandra Geldres demonstrated consistently strong critical thinking across the five tickets reviewed, earning an overall average of 4.4 out of 5 across all evaluation criteria.
-She performed particularly well on complex discount abuse cases (2476124 and 2483478), independently investigating multi-account issues, applying company policy correctly, and executing appropriate next steps with minimal oversight.
-Her main area for growth appeared in the Cancel After Cutoff case (2425967), where impatience and anxiety led to missed validations and required supervisor intervention.
-Overall, her core knowledge and judgment are solid, but she would benefit from a more deliberate, methodical pace when handling time-sensitive tickets."
-Alejandro Benel,34,CX - Specialist,Specialist,Active,Jose Patron,4.0,0.8,4.2,0.8,4.0,0.8,3.7,0.6,4.0,0.8,3.8,Developing,"Alejandro Benel showed solid critical thinking across the five tickets reviewed, earning an overall average of approximately 4.0 out of 5 across all evaluation criteria.
-He excelled on the Bags Not Collected and CAC/Skip Issues cases, demonstrating clear logical thinking, efficient issue identification, and strong platform validation skills across Mixpanel, Braze, Admin, Stripe, and Universal Service.
-His main areas for growth surfaced in ticket 2407404, where he missed checking a key date and failed to identify the core issue, and in ticket 2440178, where he needed guidance to catch a secondary issue the customer had mentioned.
-Overall, his core knowledge and platform skills are strong, but he would benefit from more thoroughly reviewing the full scope of a customer's message before finalizing a resolution."
-Alejandro Sandoval,34,CX - Specialist,Specialist,Active,Fiorella Marquez,4.5,1,4.3,0.8,4.5,1,4.2,0.8,4.5,1,4.6,Exceeds expectations,"Alejandro Sandoval delivered an outstanding performance across all three tickets reviewed, earning a perfect overall average of 5.0 out of 5 across every evaluation criterion.
-He consistently demonstrated full understanding of each issue, followed correct procedures, and showed sharp attention to detail during validations.
-On the more complex billing case, he proactively identified the root cause (a multi-week promotion structure), correctly explained the charges to the customer, and went further by educating them on account management, the taste profiler, and autopilot to prevent future confusion.
-Overall, he required no supervisor assistance on any case and consistently anticipated next steps, reflecting excellent independent critical thinking."
-Alexander Llaxa,34,CX - Specialist,Specialist,Active,Jose Angel Diaz,4.3,0.8,4.5,1,4.5,1,4.5,1,4.5,1,4.8,Exceeds expectations,"Alexander Llaxa performed well overall across the five tickets reviewed, earning an overall average of approximately 4.36 out of 5 across all evaluation criteria.
-He excelled on the broken/warm meal cases (2440375 and 2487285), showing thorough platform validation, SOP-aligned logic, and strong root-cause identification, including recognizing food safety concerns from melted ice packs and a broken zipper.
-His weaker case (2410941) involved being unable to locate the customer's information despite attempting validation in Braze and Universal Service, which prevented resolution of the issue; he also needed minor support identifying the correct escalation reason on the soup case (2505087).
-Overall, his knowledge and validation skills are solid, but he would benefit from more persistence and precision in locating customer information and correctly categorizing escalation reasons."
-Andrea Sandoval Ojeda,34,CX - Specialist,Specialist,Active,Alejandro Rodriguez,4.6,1,4.5,1,4.5,1,4.3,0.8,4.3,0.8,4.6,Exceeds expectations,"Andrea Sandoval Ojeda showed solid overall performance across the six tickets reviewed, earning an overall average of approximately 4.2 out of 5 across all evaluation criteria.
-She excelled on the Incorrect Order case (2426012) and the missing item case (2483052), both scoring a perfect 5/5, demonstrating thorough validations, strong product knowledge, sound logic, and confident, well-structured resolutions with no corrective feedback needed.
-Her recurring development area was reaching the correct final resolution independently: on several cases (2402492, 2397669, and the delivery-day case 2476441) she identified the issue well but needed guidance to land on the appropriate resolution, most notably in the delivery-day case where she initially offered an inaccurate solution before being coached to reconsider the food safety risks and provide the correct answer.
-Overall, her validation skills and issue comprehension are strong, but building more independence and confidence in finalizing resolutions — particularly on nuanced or judgment-based cases — is the key growth opportunity."
-Anthony Balcazar,34,CX - Specialist,Specialist,Active,Gabriel Badilla,3.6,0.6,3.7,0.6,3.7,0.6,3.1,0.6,3.9,0.6,3,Developing,"Anthony Balcazar showed mixed performance across the seven tickets reviewed, earning an overall average of approximately 3.6 out of 5 across all evaluation criteria, reflecting solid fundamentals with some notable gaps in independent judgment.
-He performed strongly on straightforward validation and resolution cases (2412379 and the Cancel After Cutoff ticket 2425994), showing good issue identification, logical thinking, and confidence, with only minor support needed.
-His most significant struggles appeared on more complex, multi-layered cases: the duplicate-meals recommendation ticket (2476583) required extensive guidance on customer education, promotion timing, and discount logic, while the pause/cancellation ticket (2484339) showed he missed the customer's underlying intent to cancel, only addressing the surface-level pause request.
-Overall, Anthony has good foundational validation skills, but would benefit from slowing down to fully read and process customer communications (as seen in ticket 2505785), reading between the lines for underlying customer intent, and building more independence on complex, multi-step cases rather than requiring step-by-step guidance."
-Bessy Valles,34,CX - Specialist,Specialist,Active,Ximena Anticona,4.3,0.8,4.4,0.8,4.3,0.8,4.4,0.8,4.3,0.8,4,Meets expectations,"Bessy Valles performed strongly overall across the six tickets reviewed, earning an overall average of approximately 4.4 out of 5 across all evaluation criteria.
-She excelled on several cases (2425270, the broken seal meals case 2438398, and the pause account case 2487366), each scoring a perfect 5/5, demonstrating strong platform validation, SOP-aligned logic, and confident, well-reasoned resolutions with minimal to no intervention needed.
-Her clear area for improvement surfaced on the warm meal case (2505371), where she initially struggled to identify the root cause and needed significant guidance to reread the customer's email, ask the right questions, and consider scenarios beyond a simple warm meal issue — flagged as a sub-contact reason needing reinforcement.
-Overall, Bessy demonstrates strong tool usage and validation habits on most cases, but would benefit from more consistent root-cause analysis on less straightforward or ambiguous customer complaints."
-Brayson Rey,34,CX - Specialist,Specialist,Active,Alejandro Rodriguez,3.9,0.6,4.1,0.8,4.1,0.8,4.0,0.8,4.0,0.8,3.8,Developing,"Brayson Rey performed well overall across the five tickets reviewed, earning an overall average of approximately 4.0 out of 5 across all evaluation criteria.
-He showed strong issue identification and workflow understanding on several cases, including the Veho delay escalation (2473307) and an early ticket (2407207) where he needed only minor support on a newer Wabi escalation process.
-His key development area emerged on ticket 2489242, where he correctly identified the issue and resolution path but initially overlooked a required security verification step before acting on behalf of a third-party caller (the account owner's son) — a gap that was corrected after reinforcement, after which he also appropriately recognized a courtesy refund for the elderly account owner.
-Overall, Brayson demonstrates solid critical thinking and escalation knowledge, but should focus on consistently completing required identity/security verification steps before taking action, along with continued reinforcement on newer escalation reasons and contact-reason classification."
-Brunella Abad,34,CX - Specialist,Specialist,Active,Daniela Castañeda,3.3,0.6,3.4,0.6,3.3,0.6,3.6,0.6,3.4,0.6,3,Developing,"Brunella Abad's performance was mixed and below average across the five tickets reviewed, earning an overall average of approximately 3.0 out of 5 across all evaluation criteria, indicating a clear need for reinforcement.
-Her most significant struggle was the missing cookie promo case (2478932), where she showed multiple gaps: weak account validation reasoning, not checking the Promotions section despite the customer referencing a specific promotion, no proactive next-step thinking (e.g., checking Slack), and an inclination to offer compensation without clear justification, all requiring substantial guidance to work through.
-She also had difficulty with escalation reason accuracy (ticket 2401931, initially mislabeled and never fully corrected) and with grasping the full scope of the Taste Profile case (2421518), where anticipation of next steps was missing.
-On the positive side, she handled ticket 2489255 reasonably well, quickly correcting a minor discount percentage error and regaining confidence and independence after a brief clarification, suggesting she can course-correct effectively once pointed in the right direction — but she needs focused coaching on promotion/discount validation processes and proactively identifying next steps before acting."
-Daiana Kuster,34,CX - Specialist,Specialist,Active,Paola Pirela,4.4,0.8,4.4,0.8,4.4,0.8,4.3,0.8,4.1,0.8,4,Meets expectations,"Daiana Kuster performed well overall across the five tickets reviewed, earning an overall average of approximately 4.3 out of 5 across all evaluation criteria.
-She excelled on the Missing Sauce case (2483668) and the broken seal case (2505446), both scoring a perfect 5/5, showing strong SOP adherence, confident validations, and correctly following escalation and customer contact flows without issues.
-On earlier cases, she showed solid validation skills and clear issue understanding but had smaller areas to develop, including expanding customer education (2395608), strengthening anticipation and product knowledge for full independence (Reschedule Order, 2425737), and being more proactive in confirming orders and educating customers ahead of cutoff deadlines (2440911).
-Overall, Daiana demonstrates consistently solid-to-excellent handling, with her main growth path being deepening product knowledge and anticipation skills to build toward full independence on more nuanced cases."
-Milushka Borda,34,CX - Specialist,Specialist,Active,Gabriela Tapia,3.9,0.6,3.6,0.6,3.8,0.6,3.8,0.6,4.0,0.8,3.2,Developing,"Milushka Borda showed solid but inconsistent performance across the seven tickets reviewed, earning an overall average of approximately 3.8 out of 5 across all evaluation criteria.
-She performed excellently on several cases, including the damaged meals case (2429150) with a perfect 5/5, and strong showings on the Undelivered ticket (2421827) and the missing bag case (2505300), demonstrating clear issue identification, solid validations, and good anticipation with minimal to no intervention.
-Her weaker cases centered on correctly identifying the customer's true underlying concern: on the menu navigation ticket (2402356), she initially proposed an incorrect solution (Autopilot configuration) instead of explaining the meal-selection experience, and on the ACO ticket (2487257), she focused on the wrong order (an already-skipped order) and needed guidance to recognize the customer was actually asking about canceling an order already in preparation.
-Overall, Milushka has strong execution skills once the problem is correctly framed, but should focus on more carefully identifying the customer's actual question or concern before proceeding, along with reinforcing use of internal communication channels (Slack updates) and accurate escalation-reason selection."
-Fabrizio Palacios,34,CX - Specialist,Specialist,Active,Grey Cruzado,4.9,1,4.9,1,4.9,1,4.9,1,4.9,1,5,Exceeds expectations,"Fabrizio Palacios delivered outstanding performance across the seven tickets reviewed, earning an overall average of approximately 4.9 out of 5 across all evaluation criteria, with six of the seven cases scoring a perfect 5/5.
-He consistently demonstrated excellent issue identification, thorough validation, and confident independent resolution on complex cases, including a billing case involving stacked promotions (2488107) and multiple GovX/Unity Pass account cases (2479398 and 2505229), where he anticipated multiple scenarios and explained clear next steps without needing intervention.
-His only area with room to grow was a tech issue ticket (2421917), where he understood the issue but needed to incorporate validations more consistently into his process, though he appropriately asked for help when needed.
-Overall, Fabrizio shows exceptionally strong, near-independent critical thinking and workflow mastery, with only a minor consistency point around validation habits on more routine tech tickets."
-Francesca Coppo,34,CX - Specialist,Specialist,Active,Esteban Mujica,4.3,0.8,4.6,1,4.4,0.8,4.1,0.8,4.3,0.8,4.2,Meets expectations,"Francesca Coppo performed well overall across the six tickets reviewed, earning an overall average of approximately 4.3 out of 5 across all evaluation criteria.
-She excelled on several cases, including a well-handled ticket (2421493) and a tricky delivery day update case (2487278) where she showed strong attention to detail in Mixpanel and thoroughly addressed all customer questions despite added complexity.
-Her recurring development areas centered on thoroughness before finalizing a resolution: she needed more consistent validation depth on the Wrong Products case (2426096), missed that a promotion required order reprocessing on ticket 2476126, and on ticket 2505574 submitted a Wabi-Sabi request prematurely without gathering all necessary customer information — reportedly influenced by a focus on speed (TPH) over completeness.
-Overall, Francesca shows solid critical thinking and good instincts, but should prioritize complete validation and gathering all required information before submitting requests, rather than prioritizing speed, to build toward more consistent independence."
-Francisco Bravo,34,CX - Specialist,Specialist,Active,Esteban Mujica,4.7,1,4.8,1,4.7,1,4.5,1,4.7,1,5,Exceeds expectations,"Francisco Bravo delivered strong performance across the five tickets reviewed, earning an overall average of approximately 4.6 out of 5 across all evaluation criteria.
-He excelled on several cases, including the Delay ticket (2400954), the Cancel Order FW case (2425996), and a billing inquiry (2505687), all scoring a perfect 5/5, demonstrating full independence, thorough validations across tools like Stripe and Universal Service, and confident, complete resolutions from start to finish.
-His only minor gap appeared on the missing promotion case (2488313), where he initially overlooked validating the promotion's expiration date, though he quickly self-corrected once it was pointed out, and on ticket 2421747, which was handled just adequately without major issues.
-Overall, Francisco shows strong, consistent independence and analytical skill, with only a small reminder needed around always validating promotion expiration dates as part of his standard process."
-Georgireth Arias,34,CX - Specialist,Specialist,Active,Grey Cruzado,4.9,1,4.9,1,4.9,1,4.9,1,5.0,1,5,Exceeds expectations,"Georgireth Arias delivered outstanding performance across the six tickets reviewed, earning an overall average of approximately 4.9 out of 5 across all evaluation criteria, with five of the six cases scoring a perfect 5/5.
-She consistently demonstrated thorough validations, strong customer education, and full independence on a range of case types, including menu navigation (2432797), an account deletion request (2479503), and a stolen order case (2505183) where she correctly recognized the need to reapply a first-order discount.
-Her only case that fell slightly short of a perfect score (2488249) still reflected sound judgment — she proactively asked for clarification on the workflow to confirm the correct next step before proceeding, which was noted as a sign of diligence rather than a misunderstanding.
-Overall, Georgireth shows exceptionally strong, independent critical thinking with confident, accurate resolutions across nearly every case reviewed, making her one of the stronger performers in this batch."
-Arian Alegria,34,CX - Specialist,Specialist,Active,Rocio Vargas,4.6,1,4.6,1,4.6,1,4.8,1,4.4,0.8,4.8,Exceeds expectations,"Arian Alegria performed well overall across the four tickets reviewed, earning an overall average of approximately 4.5 out of 5 across all evaluation criteria.
-He excelled on the Change Order case (2425843) and the Packaging Issue case (2483269), both scoring a perfect 5/5, demonstrating solid logic, thorough validations, strong attention to detail, and full confidence throughout.
-He also handled a meal experience case (2440478) well despite it being an uncovered contact reason, correctly identifying the issue and contact reason, though he could have proactively offered a small discount given the customer's high LTR and repeat complaint.
-His main development area emerged on a complex fraud-related ticket (2408230), where he identified some issues but needed guidance to continue, indicating fraud-handling is an area that would benefit from additional training and reinforcement."
-Ana Lucia Aguilar Hornes,34,CX - Specialist,Specialist,Active,Ximena Anticona,4.2,0.8,4.2,0.8,4.2,0.8,4.2,0.8,4.5,1,4.2,Meets expectations,"Ana Lucia Aguilar Hornes performed well overall across the six tickets reviewed, earning an overall average of approximately 4.2 out of 5 across all evaluation criteria.
-She excelled on several cases, including ticket 2406529 and a missing item case (2484531), both scoring a perfect 5/5, showing solid validation processes and correctly identifying appropriate resolutions even when a case had to be reassigned before completion.
-Her main recurring development area was contact reason selection, needing reinforcement on this specific point in ticket 2476434 despite otherwise strong critical thinking and Onfleet validation.
-Her lowest-scoring case (2505608, all 3s) revealed a gap in reviewing prior correspondence — she completed accurate validations but missed that another specialist had already handled and resolved the case via email, resulting in duplicated effort, so she would benefit from consistently checking previous interactions before taking action."
-Jean Carlo Gastelo,34,CX - Specialist,Specialist,Active,Gabriel Badilla,4.4,0.8,4.6,1,4.4,0.8,4.3,0.8,4.4,0.8,4.2,Meets expectations,"Jean Carlo Gastelo performed well overall across the six tickets reviewed, earning an overall average of approximately 4.3 out of 5 across all evaluation criteria.
-He excelled on several cases, including ticket 2437089, an uncaptured payment case (2484811), and a Value Plan vs. referral promo conflict (2504043), all scoring a perfect 5/5, showing strong understanding, confident resolutions, and effective use of available tools including AI resources.
-On the login/skip case (2484355), he showed good proactive critical thinking by identifying both parts of the customer's concern and suggesting a skip, though he missed validating Auth0 as part of the login investigation.
-His main development area appeared on ticket 2422885, where he identified the issue but was unable to de-escalate the customer without assistance, suggesting that building more independence and confidence in customer de-escalation is a key growth opportunity."
-JoseMa Reyes,34,CX - Specialist,Specialist,Active,Alejandro Rodriguez,4.5,1,4.5,1,4.5,1,4.5,1,4.5,1,5,Exceeds expectations,"JoseMa Reyes performed well overall across the four tickets reviewed, earning an overall average of approximately 4.25 out of 5 across all evaluation criteria.
-He stood out on the delivery issue case (2482982), scoring a perfect 5/5 by correctly identifying a wrong-address delivery, validating POD against Google Maps, escalating appropriately through Wabi Sabi, and proactively accounting for the customer's active promotion when planning the resolution.
-On earlier tickets, he showed good validation habits and sound criteria for when to escalate, including on the Reschedule Issue case (2436460), where his understanding and process were solid but his confidence in trusting his own judgment was flagged as the key growth area.
-Overall, JoseMa has a strong knowledge foundation and good critical thinking instincts; his main development path is building more self-assurance to act independently rather than needing reassurance on decisions he's already reasoning through correctly."
-Jose Tica Tarazona,34,CX - Specialist,Specialist,Active,Rocio Vargas,3.6,0.6,3.5,0.6,3.6,0.6,3.3,0.6,3.3,0.6,3,Developing,"Jose Tica Tarazona showed inconsistent performance across the seven tickets reviewed, earning an overall average of approximately 3.2 out of 5 across all evaluation criteria, indicating several areas needing reinforcement.
-His stronger cases included ticket 2411801 (solid execution throughout) and the broken seal case (2487306), where he demonstrated good SOP knowledge, correct next-step identification, and only needed minor clarification on a Premium Meals invoice detail.
-His weakest cases revealed recurring gaps in escalation judgment and workflow structure: the duplicate account case (2425295, all 2s) required significant guidance after he continued handling a case that should have been reassigned, the logistics case (2476203) showed he didn't know to check CX News for delivery delays and lacked a structured approach, and the multi-issue ticket (2504794) showed he proceeded without first reviewing the full scope to determine if reassignment was needed.
-Overall, Jose has decent foundational validation skills on more straightforward cases, but needs focused reinforcement on recognizing when to reassign tickets, following structured escalation workflows, and reviewing the full scope of complex, multi-issue cases before responding."
-Eduardo Almeyda,34,CX - Specialist,Specialist,Active,Jose Angel Diaz,3.7,0.6,3.7,0.6,3.8,0.6,3.5,0.6,3.3,0.6,3,Developing,"Eduardo Almeyda showed generally solid performance across the four tickets reviewed, earning an overall average of approximately 3.85 out of 5 across all evaluation criteria.
-He performed excellently on ticket 2424903, scoring a perfect 5/5, while on the broken meals case (2436778) he validated the account well and followed the SOP correctly, though he under-credited the customer (2 meals instead of 4) due to relying only on photo evidence rather than clarifying all affected meals with the customer.
-On the Unity Pass case (2483261), he showed good SOP understanding and quick issue identification but needed guidance on the adjustment step, reflecting a pattern of solid foundational knowledge with some gaps in execution.
-His weakest case (2404249) revealed confusion around creating a Wabi-Sabi request, though he was able to explain his validation reasoning correctly, suggesting his main development area is building more independence in executing the full resolution process, particularly around Wabi-Sabi creation and ensuring complete customer validation before finalizing compensation."
-Julio Chiri,34,CX - Specialist,Specialist,Active,Gabriela Tapia,3.3,0.6,3.1,0.6,2.9,0.4,3.1,0.6,2.9,0.4,2.6,Needs intervention,"Julio Chiri showed inconsistent and below-average performance across the five tickets reviewed, earning an overall average of approximately 3.0 out of 5 across all evaluation criteria, indicating a clear need for reinforcement.
-His most concerning case (2424959, all 1s) involved a poorly handled broken seal ticket where he applied an incorrect 30% discount for three weeks and selected the wrong contact reason.
-He also struggled with proactive resolution on ticket 2421997, where despite the customer clearly requesting a skip, he planned to send a confirmation email rather than acting directly, requiring guidance on being more proactive per the SOP.
-On the positive side, he handled the Delay ticket (2402517) well with only a minor moment of doubt, and though he took longer than expected on a recommendation timeline case (2480055) and showed some disorganization on a menu navigation case (2487995), he was ultimately able to reach correct conclusions — suggesting his core understanding is present but needs significant reinforcement in resolution accuracy, proactivity, and structured case handling."
-Junior Tello,34,CX - Specialist,Specialist,Active,Paola Pirela,2.7,0.4,2.3,0.4,2.5,0.4,2.5,0.4,2.2,0.4,2,Needs intervention,"Junior Tello's performance across the four tickets reviewed was below average, earning an overall average of approximately 2.7 out of 5 across all evaluation criteria, indicating significant need for development.
-His weakest case (2402910, Account Management: Cancel/pause) showed he struggled to understand the issue with insufficient validations, and on a simple skip case (2422632) he initially took an incorrect approach by asking Notion AI which SOP to follow rather than validating directly, though he corrected course once guided.
-He showed more promise on later cases: the Cancel After Cutoff ticket (2438461) had SOP-aligned validations and correct procedure for a first attempt, though nervousness under pressure affected his confidence, and on a billing case (2464061) outside his usual expertise, he correctly validated promotions and account status but needed help finalizing the promotion identification and customer email.
-Overall, Junior shows the right instincts and is capable of following procedure when guided, but needs substantial reinforcement in product knowledge, case-reading skills, and building composure and self-confidence to work more independently under pressure."
-Michelle Diaz,34,CX - Specialist,Specialist,Active,Fiorella Marquez,4.3,0.8,4.2,0.8,4.0,0.8,3.8,0.6,4.2,0.8,3.8,Developing,"Michelle Diaz performed well overall across the four tickets reviewed, earning an overall average of approximately 4.0 out of 5 across all evaluation criteria.
-She excelled on the Broken Seals case (2436752), scoring a perfect 5/5, and also handled ticket 2411980 very well, along with correctly working through a promotion honor case (2484355) that required validating a prior promise, confirming Leadership approval, and properly escalating via Wabi Sabi.
-Her clear gap surfaced on ticket 2424935, a login-related GovX case, where she was unsure how to validate, pointing to a specific knowledge area needing reinforcement.
-Overall, Michelle demonstrates solid critical thinking and thorough validation habits on most case types, with GovX/login validation being the primary area to target for further training."
-Monica Muñoz Cruz,34,CX - Specialist,Specialist,Active,Fiorella Marquez,4.3,0.8,4.5,1,4.5,1,4.5,1,4.5,1,4.8,Exceeds expectations,"Monica Muñoz Cruz delivered strong performance across the five tickets reviewed, earning an overall average of approximately 4.6 out of 5 across all evaluation criteria, with three of the five cases scoring a perfect 5/5.
-She excelled on the Cancel After Cutoff: Flex Window case (2425754), a pause account case (2441853), and a damaged tray escalation (2484616), consistently showing strong product knowledge, confident validations, and well-structured, education-focused customer responses.
-Her only case needing minor support was the Referrals ticket (2483510), where she initially was unsure about the referral root cause but oriented quickly and continued independently, though she could incorporate customer education more proactively going forward.
-Overall, Monica shows consistently strong, confident critical thinking with only small areas for continued growth around new escalation reason familiarity and proactive customer education."
-Pamela Mananí,34,CX - Specialist,Specialist,Active,Grey Cruzado,4.0,0.8,4.2,0.8,4.0,0.8,4.0,0.8,4.3,0.8,4,Meets expectations,"Pamela Mananí performed well overall across the five tickets reviewed, earning an overall average of approximately 4.2 out of 5 across all evaluation criteria.
-She excelled on several cases, including ticket 2434122, a payment failure case (2476292) where she correctly identified an incorrect CVC as the root cause in Stripe, and a reschedule follow-up case (2505967) scoring a perfect 5/5 for accurately clarifying an already-resolved situation to the customer.
-Her weakest case (2421714, Skip Order) showed insufficient account review and an incomplete root-cause identification, indicating a need for a more proactive, thorough approach before acting.
-Overall, Pamela shows strong validation skills and solid critical thinking, with two specific growth areas: digging deeper into account details before resolving skip/order-type cases, and adding a warmer, more empathetic tone to customer interactions."
-Piero Alvarado,34,CX - Specialist,Specialist,Active,Ximena Anticona,4.3,0.8,4.3,0.8,4.3,0.8,4.1,0.8,4.4,0.8,4,Meets expectations,"Piero Alvarado performed well overall across the five tickets reviewed, earning an overall average of approximately 4.2 out of 5 across all evaluation criteria.
-He excelled on the Bags Not Collected case (2408162) and a referral case (2506104), both scoring a perfect 5/5, showing clear understanding, thorough validations, and confident, well-explained resolutions.
-He also handled a delivery experience case (2487664) well, proactively thinking through multiple scenarios (account merging, POD, Slack/Onfleet checks) with minimal intervention, and performed solidly on ticket 2422493 needing only minor support on a new Wabi escalation process.
-His one lower-scoring case (2432629) revealed a process misstep — asking the customer to provide a tracking number he was capable of finding himself — which was corrected through coaching, suggesting his main growth area is relying on his own validation skills rather than deferring simple lookups to the customer."
-Ricardo Andrade,34,CX - Specialist,Specialist,Active,Francisco Romano,4.3,0.8,4.5,1,4.5,1,4.5,1,4.3,0.8,4.6,Exceeds expectations,"Ricardo Andrade performed well overall across the five tickets reviewed, earning an overall average of approximately 4.3 out of 5 across all evaluation criteria.
-He excelled on several cases, including the Stolen Order ticket (2403177), ticket 2434250, and a cancellation validation case (2483556), all showing strong attention to detail, confident tool usage across platforms like Stripe and Universal Service, and largely independent, accurate resolutions.
-His significant struggle was the warm meal case (2483500), where he initially misidentified the root cause (defaulting to ""warm meals"" rather than recognizing a possible delivery instructions issue), needed extensive step-by-step guidance to reach the correct validation path, and was unsure how to proceed with next steps like applying the correct macro or handling a sensitive customer tone.
-Overall, Ricardo shows strong tool proficiency and solid performance on more straightforward cases, but needs focused reinforcement on root-cause analysis and independent step-by-step reasoning for warm meal and similarly nuanced complaint types."
-Rodrigo Cornejo,34,CX - Specialist,Specialist,Active,Francisco Romano,3.7,0.6,3.5,0.6,3.5,0.6,3.3,0.6,3.8,0.6,3,Developing,"Rodrigo Cornejo showed moderate performance across the four tickets reviewed, earning an overall average of approximately 3.6 out of 5 across all evaluation criteria.
-He performed strongly on the Login Issue case (2407876) and ticket 2433851, showing good understanding, solid validations, and confident handling with no concerns noted.
-His development areas emerged on two cases: he needed guidance locating an order in Onfleet on ticket 2422664, and on a cancellation case (2480131) he initially misclassified the ticket as a Meal Experience issue requiring reassignment, when the correct action was simply to educate the customer about an already-completed cancellation.
-Overall, Rodrigo shows solid fundamentals on straightforward cases but would benefit from reinforcement on ticket triage and correctly identifying customer intent, particularly distinguishing a stated reason for cancellation from an actionable request requiring escalation."
-Willy Ganoza Luyo,34,CX - Specialist,Specialist,Active,Jose Patron,4.0,0.8,4.0,0.8,3.9,0.6,4.0,0.8,3.9,0.6,3.6,Developing,"Willy Ganoza Luyo showed mixed performance across the six tickets reviewed, earning an overall average of approximately 3.8 out of 5 across all evaluation criteria.
-He performed strongly on several cases, including a packaging issue (2505470) and an Update Delivery Instructions ticket (2483100), both showing thorough validations, good tone, and largely independent, confident handling.
-His most concerning case (2484715, mostly 2s and a 1) revealed significant issues: he misidentified a missing sauce cup as a missing add-on, prepared to escalate unnecessarily, searched for escalation reasons using an imprecise keyword approach rather than identifying the correct category, and needed intervention to recognize the ticket required reassignment.
-Overall, Willy shows decent foundational skills and independence on more routine cases, but needs meaningful reinforcement in accurate issue identification, correct contact/escalation reason selection, and recognizing when a case falls outside his scope and should be reassigned, along with strengthening his understanding of standard resolution procedures (e.g., avoiding defaulting to a Wabi credit) on cases like 2424287."
-Jose David De La Cruz Canchán,34,CX - Ops,Specialist,Active,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,
+Total Items: ,,,,,,,,,,,,,,,,,,,
+5,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+Last Update,,,,,,,,,,,,,,,,,,,
+7/12/2026,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+Employee,Group,Squad,Role,Supervisor,Expert,Job Status,Understanding & Framing the Problem Avg,Understanding the Problem Equivalent,Logical & Structured Reasoning Avg,Logical Approach Equivalent,Knowledge Application & Judgment Avg,Knowledge Application Equivalent,Problem Anticipation & Impact Awareness Avg,Problem Anticipation & Resolution Equivalent,Independence & Confidence in Decision-Making Avg,Independence Equivalent,Critical Thinking Grade,Critical Thinking Status,Comments
+Patrice Camille Halili,1,CX - Leadership,Supervisor,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,0,Not ready,
+Ghel Punzalan,1,CX - OPS,Lead,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Diego Enriquez,2,CX - Training,Lead,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Pablo Coronel,2,CX - Specialist,Supervisor,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Jenny Hardy,2,CX - Specialist,Supervisor,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Guillermo Reyes,2,CX - OPS,,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Ludmila Biagi,3,CX - Specialist,,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Emilse Itati,4,CX - Specialist,,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Gabriel Gonzalez,4,CX - Assistant,Supervisor,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+M.Elisa Cordoba,5,CX - Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Hernan Coronel,5,CX - Training,Lead,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Trinidad Cejas,6,CX - Specialist,,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Magali Silva,6,CX - Specialist,,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Jodith Estabillo,7,CX - Ops,Ops Coordinator,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Luis Lacruz,8,CX - OPS,,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Johans Breidenbach,10,CX - QA,Analyst,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Florencia Centrone,10,CX - Training,Analyst,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Zoe Quiroga,10,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Joan Torres,11,CX - OPS,,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Sofia Seivane,12,CX - Specialist,,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Ricardo Guzman,12,CX - Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Mateo Diaz,12,CX - Leadership,Lead,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Yessica Nagib,13,CX - QA,Analyst,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Darwin Noriega,14,CX - QA,Lead,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Francia Colmenarez,15,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Maria Regules,15,CX - Leadership,Lead,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Gabriela Baron,16,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Lucas Gerez,16,CX - Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Camila Sanchez,17,CX - Specialist,Lead,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Maria Fernanda Lara,17,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Mariana Rodriguez,17,CX - Specialist,,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Jorge Parra,18,CX - Specialist,,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Serafin Sanchez,18,CX - Leadership,Manager,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Gisella Ribachi,19,CX - Specialist,,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Esequiel Starostiuk,19,CX - Specialist,,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Fausto Rossi,19,CX - Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Milena Franco,19,CX - Leadership,Lead,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Pedro Cornet,20,CX - Specialist,,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Ludmila Cirelli,20,CX - Specialist,,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Alejandro Acosta,21,CX - Specialist,,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Adolfo Benjamin Kunjuk,21,CX - Specialist,,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Alonso Saravia,22,CX - QA,,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Nicolas Rojas,22,CX - Specialist,,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Paola Pirela,22,CX - Leadership,Supervisor,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Serena Gerbi,22,CX - Training,Analyst,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Luis Siso,23,CX - Leadership,Supervisor,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Fiorella Marquez,23,CX - Leadership,Supervisor,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Braian Restrepo,23,CX - QA,Lead,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Eglys Garcia,23,CX - Specialist,,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Manuel Torres,23,CX - Specialist,,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Nicolas Appezzato,23,CX - Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Ariana Ehrhardt,23,CX - Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Yeirmer Méndez,23,CX - Leadership,Lead,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Martina Notti,23,CX - Specialist,,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Daniela Castañeda,23,CX - Leadership,Lead,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Pablo Ovejero,23,CX - OPS,,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+José Luis Amorone,23,CX - OPS,,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Cleiver Guzman,24,CX - Specialist,,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Rocio Vargas,24,CX - Leadership,Supervisor,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Jose Angel Diaz,24,CX - Leadership,Lead,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Luca Espindola,24,CX - Leadership,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Malena Rosas,24,CX - Specialist,,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Mara Mendez,24,CX - Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Carolina Coscia,24,CX - Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Girolamo Yapo,24,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Brian Muro,24,CX - Specialist,,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Martin Diaz,24,CX - Specialist,,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Ana Navarro,24,CX - Ops,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Carlos Eduardo Barbosa Barros,25,CX - Specialist,,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Micaela Delpiano,25,CX - Specialist,,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Gabriel Navarro,25,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Agostina Peduto,25,CX - Specialist,,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Gabriela Rivera,25,CX - Specialist,,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Gonzalo Rodriguez,25,CX - Specialist,,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Agustina Casal,25,CX Data,Analyst,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Luana Samira La Madrid Goncalves,26,CX - Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Laika Supay Deviasso,26,CX - Leadership,Lead,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Jorge Luis,26,CX - Specialist,,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Florencia Castro,26,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Cecilia Gabet,26,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Federico Ramos,26,CX - Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Lucila Aguilar Loyola,26,CX - Leadership,Lead,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Ketevan  Streletska,26,CX - Leadership,Supervisor,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Matias  Cardoso,26,CX - Ops,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Valentina Villa,26,CX - Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Ximena Angulo,27,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Esteban Mujica,27,CX - Leadership,Lead,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Magalí Fernandez,27,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Valeria Leon,27,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Emiliano Ezcurra,27,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Maria Sol Popovich,27,CX - OPS,,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Renzo Durán,27,CX - Ops,Supervisor,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Candelaria Lucena,28,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Eddington Fabrizzio,28,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Erick Perez,28,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Kamil Asaram,28,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Henry Carmona,28,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Israel Fowks,28,CX - Specialist,,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Alejandra Paredes,28,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Lucia Huarte,28,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Juan Fajardo,28,CX - Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Lucas Medina,28,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Nicolas Tkaczyk,28,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Gabriel Badilla,28,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Cinthia Medina,28,CX - Leadership,Manager,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Eduardo Giannini Vilchez Sarmiento,29,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Katherine Lino Bravo,29,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Renzo Hernan Bravo Suarez,29,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+George Derrick Serna,29,CX - Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Francisco Villar,29,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Maria Cecilia Vargas,29,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Yessenia Rojas,29,CX - Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Hans Acosta,29,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Ervin Ponce de Leon,29,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Perla Luna,29,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Candy Lucero Vargas Moreira,29,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Spencer Jahir Arenas Eulatth,29,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Natalia Fernanda Esteves Lozada,29,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Giancarlo Ruggiero,29,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Ana Laura Fernandez,29,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Luz Fiorella Salazar,29,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+María Carolina Cenoz,29,CX - Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Nicholas Meintjes,29,CX - Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Emiliano Barboza Chira,29,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Carlos Chagua,29,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Mauricio Cardenas,29,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+D'jana Leandro Jara,30,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Franko Svarcic,30,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Francisco Romano Ruiz,30,CX - Leadership,Supervisor,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Sergio Medina Macedo,30,CX - Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Sofia Chunga,30,CX - Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Bosco Ancho,30,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Miguel Acosta,30,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Maria Jose Perilla,30,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Yamely Elescano,30,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Alessandro Olivo,30,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Walter Yllescas,30,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Juan Carlos La Fuente Verano,30,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Bethsabet Chalco Coronel,30,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Sofia Chunga,30,CX - Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Julian Acotto,30,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Rodrigo Benavides,30,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Aaron Perea,31,CX - Leadership,Supervisor,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Abraham Luis Ramirez Garcia Blasquez,31,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Daniel Alejandro Virguez Chauta,31,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Alexandra Garcia Iman,31,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Alex Chavez,31,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Ana Lucia Melendez,31,CX - Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Arturo Rojas,31,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Bruno Vasquez,31,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Bryan Arana Romero,31,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Daniel Carlos Moran Rivera,31,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Daniella Giraldo,31,CX - Assistant,Manager Assistant ,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Diego Quiroz,31,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Eduardo Leon,31,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Franco Dongo Chacón,31,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Gerald Torres Zamora,31,CX - Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Gustavo Rodriguez,31,CX - Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Hugo Montoya Merino,31,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Ignacio Agustin Nuñez,31,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Israel Toro,31,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Joaquin Mole,31,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Karen Duran,31,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Kevin Enrique Torres Díaz,31,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Luis Jesus Diaz Yauri,31,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Mariana Marquina,31,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Mariana Rojas,31,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Martina Schinca,31,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Martin Carhuamaca,31,CX - Leadership,Lead,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Mónica Mileih Garcia Pelaez,31,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Natalia Reinosa,31,CX - Leadership,Supervisor,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Olga Acosta,31,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Renzo Berzabat Neyra de la Cruz,31,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Rodolfo Hernandez,31,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Rodolfo Pineda Lora,31,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Salomon Mattos Ruiz,31,CX - Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Ximena Farrilie Anticona Herrera,31,CX - Leadership,Supervisor,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Ericka Cardenas,1,CX - BPO Leadership,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Carlos Lluen,1,CX - BPO Training,Lead,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Marco Toribio,1,CX - BPO Leadership,Supervisor,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Adriana Quiroz,1,CX - BPO Training,Lead,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Alex Cutire,1,CX - BPO Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Alisson Vasquez,1,CX - BPO Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Ashlly Valdiviezo,1,CX - BPO Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Daniel Villar,1,CX - BPO Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+David Abad,1,CX - BPO Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Fariza Yunis,1,CX - BPO Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Gabriela Tapia,1,CX - BPO Leadership,Lead,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Hector Uscamayta,1,CX - BPO Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Karla Medina,1,CX - BPO Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Jose D De la Cruz,1,CX - BPO Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Jose L Franco,1,CX - BPO Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Marcos Anyosa,1,CX - BPO Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Marco Huapalla,1,CX - BPO Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Mathias Fernandez,1,CX - BPO Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Micaela Bravo,1,CX - BPO Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Moises Laynes,1,CX - BPO Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Narayan Martino,1,CX - BPO Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Sylvana Pilco,1,CX - BPO Leadership,Lead,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Victor Salazar,1,CX - BPO Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Viktor Valdivia,1,CX - BPO Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Viviana Jurado,1,CX - BPO Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Gretshen Zevallos,2,CX - BPO Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Vanessa Ortiz,2,CX - BPO Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Eduardo Santana,2,CX - BPO Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Oscar Chacon,2,CX - BPO Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Kiara Gutierrez,2,CX - BPO Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Madeleynne Castillo,2,CX - BPO Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Sandra Felix Consulta,2,CX - BPO Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Renato Benigno,2,CX - BPO Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Jorge Peregrino,2,CX - BPO Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Julio Segura,2,CX - BPO Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Jenny Huaman,2,CX - BPO Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Valeria Tupa,2,CX - BPO Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Mariana Ferreyros,2,CX - BPO Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Luis Peralta,2,CX - BPO Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Mary Flores,2,CX - BPO Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Carlos Herbozo,2,CX - BPO Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Damaris Cordova,2,CX - BPO Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Alejandra Vera,2,CX - BPO Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Madeleynne Castillo-Paredes,3,CX - BPO Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Liuben Ogando-Castro,3,CX - BPO Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Ricardo-Alejandro Acuna-Mendoza,3,CX - BPO Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Sheyla Lopez-Salvador,3,CX - BPO Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Daniel-Emilio Morales-Vizcardo,3,CX - BPO Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Allison-Priscilla Mendoza-Flores,3,CX - BPO Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Anny-Beatriz Reyna-Gamboa,3,CX - BPO Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Luis-Jose Salazar-Alarcon,3,CX - BPO Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Abigail-Briggette Chauca-Tinco,3,CX - BPO Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Erick-Alfredo GardinGamero,3,CX - BPO Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Marlon-Sebastian Ramirez-Munico,3,CX - BPO Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Mario Flores-Gonzalez,3,CX - BPO Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Maura-Cecilia Valle-Alvarado,3,CX - BPO Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Diego Francisco Hurtado Paz,3,CX - BPO Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Enrique-Josias Huayanay-Vasquez,3,CX - BPO Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Rosario Sanchez,3,CX - BPO Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Sandra Félix,3,CX - BPO Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Alejandro Arenas,3,CX - BPO Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Kaori Nakashima,4,CX - BPO Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Crizy Chavely Depaz,4,CX - BPO Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Alejandra Maria Grande Tavara,4,CX - BPO Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Luis Enrique Inga La Serna,4,CX - BPO Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Fabio Leandro Gastiaburu Porras,4,CX - BPO Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Gianfrancis Arian Alegria Davila,4,CX - BPO Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Emiliano Molina Barbaran,4,CX - BPO Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Roxana Isabel  Salas Zarate,4,CX - BPO Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Angela  Santos Vasquez,4,CX - BPO Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Sebastian Alejandro Delgado Pomacondor,4,CX - BPO Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Yocelyn Rita  Fernández Salas ,4,CX - BPO Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Damaris Cordova Luzon,4,CX - BPO Specialist,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Daphne Francesca Chavez Bielich,4,CX - BPO Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Jeffrin Luis  Tarifeño Rojas,4,CX - BPO Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Jeeimy Rojas Hidalgo,5,CX - BPO Training,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Ivan Oriundo Prado,5,CX - BPO Specialist ,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Anatoly Montero Mercado,5,CX - BPO Training,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Gonzalo Gutierrez Römer,5,CX - BPO Training,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Sandra Segura Gropuzzo,5,CX - BPO Training,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Sheyla Noriega Bernal,5,CX - BPO Training,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Tatiana Gutierrez Mabama,5,CX - BPO Specialist ,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Yoselyn Campos Cueva,5,CX - BPO Training,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Karla Galiano Gaspar,5,CX - BPO Specialist ,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Samantha Carranza Sanchez,5,CX - BPO Training,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Cesar De la Cruz Gomez,5,CX - BPO Training,Specialist,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Ayeska Auza Villanueva,5,CX - BPO Specialist ,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Ruth Quispe Diaz,5,CX - BPO Specialist ,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Michael Gomez ,5,CX - BPO Specialist ,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Alberto Herrera ,5,CX - BPO Specialist ,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Enrique Pando Castro,5,CX - BPO Specialist ,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Christian Fernandez Jara,5,CX - BPO Specialist ,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Mayra Aguirre Romero,5,CX - BPO Specialist ,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Jennifer Paz Temoche,5,CX - BPO Specialist ,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Sofía Meza Chumpitaz,5,CX - BPO Specialist ,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Ximena Macalupu Ventocilla,5,CX - BPO Specialist ,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Sandra Benites ,5,CX - BPO Specialist ,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Sephora Diaz Altamirano,5,CX - BPO Specialist ,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Kathy Bustamante Valverde,5,CX - BPO Specialist ,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Jhon Crespo Damiano,5,CX - BPO Specialist ,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Jampiero Chora Suarez,5,CX - BPO Specialist ,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Cristel Candela Mendoza,5,CX - BPO Specialist ,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Jorge Sipan Barraza,5,CX - BPO Specialist ,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Abrahan Mariñas Calderon,32,CX - Specialist,Specialist,,,Active,4.3,0.8,4.0,0.8,4.5,1,4.0,0.8,4.0,0.8,4.2,Meets expectations,
+Andre Gaston Valdivia Vasquez,32,CX - Specialist,Specialist,,,Active,4.8,1,4.4,0.8,4.4,0.8,4.5,1,4.6,1,4.6,Exceeds expectations,
+Angello Omaet Niño De Guzmán Zevallos,32,CX - Specialist,Specialist,,,Active,4.8,1,4.6,1,4.8,1,4.7,1,4.7,1,5,Exceeds expectations,
+Angelo Stefano Paricela Principe,32,CX - Specialist,Specialist,,,Active,4.5,1,4.6,1,4.7,1,4.7,1,4.8,1,5,Exceeds expectations,
+Anyela Andreina Dachille Nava,32,CX - Specialist,Specialist,,,Active,4.9,1,4.5,0.8,4.5,1,4.5,1,4.5,1,4.8,Exceeds expectations,
+Brenda Chavez,32,CX - Specialist,Specialist,,,Inactive,4.2,0.8,3.8,0.6,4.3,0.8,4.1,0.8,4.0,0.8,3.8,Developing,
+Camila Alexandra Buiza Cabrera,32,CX - Specialist,Specialist,,,Active,4.8,1,4.6,1,4.5,1,4.5,0.8,4.5,1,4.8,Exceeds expectations,
+Cesar Adrian Arraiz Chavez,32,CX - Specialist,Specialist,,,Active,4.6,1,4.6,1,4.7,1,4.5,1,4.9,1,5,Exceeds expectations,
+Cesar Rivera Magno,32,CX - Specialist,Specialist,,,Active,4.7,1,4.6,1,4.4,0.8,4.1,0.8,4.6,1,4.6,Exceeds expectations,
+Cristina Torres Bustillos,32,CX - Specialist,Specialist,,,Active,4.7,1,4.6,1,4.6,1,4.7,1,4.7,1,5,Exceeds expectations,
+Diego Alfonso La Torre Flores,32,CX - Specialist,Specialist,,,Inactive,2.4,0.4,2.3,0.4,2.4,0.4,2.6,0.4,2.7,0.4,2,Needs intervention,
+Eduardo Benjamin Yep Ishisaka,32,CX - Specialist,Specialist,,,Active,4.2,0.8,4.3,0.8,4.3,0.8,4.2,0.8,4.3,0.8,4,Meets expectations,
+Eduardo Felipe Rodriguez Proscopio,32,CX - Specialist,Specialist,,,Active,4.2,0.8,3.9,0.6,3.7,0.6,3.9,0.6,4.1,0.8,3.4,Developing,
+Eliana Del Carmen Vega Cipriano,32,CX - Specialist,Specialist,,,Active,4.8,1,4.7,1,4.7,1,4.7,1,4.8,1,5,Exceeds expectations,
+Henry Amaranto,32,CX - Specialist,Specialist,,,Active,3.5,0.6,3.2,0.6,3.4,0.6,3.3,0.6,3.8,0.6,3,Developing,
+Jackelyn Rocio Mattos Regalado,32,CX - Specialist,Specialist,,,Active,4.7,1,4.7,1,4.7,1,4.8,1,4.7,1,5,Exceeds expectations,
+Janssel Ivair Flores Tello,32,CX - Specialist,Specialist,,,Inactive,3.4,0.6,3.1,0.6,2.9,0.4,3.0,0.6,3.3,0.6,2.8,Needs intervention,
+Joaquin Manuel Caballero Flores,32,CX - Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Jose Mauricio Reyes Tasayco,32,CX - Specialist,Specialist,,,Inactive,2.6,0.4,2.0,0.4,2.3,0.4,2.1,0.4,2.3,0.4,2,Needs intervention,
+Josue Castrosqui Brush,32,CX - Specialist,Specialist,,,Active,4.9,1,4.9,1,4.8,1,4.8,1,5.0,1,5,Exceeds expectations,
+Juan Diego Gomez Aiyon,32,CX - Specialist,Specialist,,,Active,4.7,1,4.8,1,4.8,1,4.7,1,4.8,1,5,Exceeds expectations,
+Julio Mateo Arakaki Vera,32,CX - Specialist,Specialist,,,Active,3.7,0.6,3.5,0.6,3.0,0.6,3.3,0.6,3.3,0.6,3,Developing,
+Kaori Nakashima Tarazona,32,CX - Specialist,Specialist,,,Active,4.9,1,4.9,1,4.7,1,4.4,0.8,4.7,1,4.8,Exceeds expectations,
+Kevin Palomino,32,CX - Specialist,Specialist,,,Inactive,4.6,1,4.4,0.8,4.4,0.8,4.3,0.8,4.2,0.8,4.2,Meets expectations,
+Lisangel Carolina Gallardo Hernandez,32,CX - Specialist,Specialist,,,Active,4.5,1,4.2,0.8,3.8,0.6,3.8,0.6,4.0,0.8,3.8,Developing,
+Madeleynne Castillo Paredes,32,CX - Specialist,Specialist,,,Active,4.0,0.8,4.1,0.8,4.0,0.8,4.1,0.8,4.0,0.8,4,Meets expectations,
+Marco Antonio Ato Mejia,32,CX - Specialist,Specialist,,,Inactive,3.6,0.6,3.8,0.6,3.4,0.6,3.6,0.6,3.6,0.6,3,Developing,
+María Fernanda Torres Vasquez,32,CX - Specialist,Specialist,,,Active,4.8,1,4.6,1,4.7,1,4.4,0.8,4.7,1,4.8,Exceeds expectations,
+Matias Alonso Tamariz Briceño,32,CX - Specialist,Specialist,,,Active,4.0,0.8,4.0,0.8,4.3,0.8,4.0,0.8,4.0,0.8,4,Meets expectations,
+Matias Cruz Rodriguez,32,CX - Specialist,Specialist,,,Active,4.1,0.8,3.9,0.6,3.9,0.6,3.9,0.6,3.6,0.6,3.2,Developing,
+Mauricio José Vargas Morón,32,CX - Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Michael Matzumura Gonzáles,32,CX - Specialist,Specialist,,,Active,4.9,1,4.8,1,4.9,1,4.8,1,4.7,1,5,Exceeds expectations,
+Miguel Ángel Márquez Jader,32,CX - Specialist,Specialist,,,Active,4.3,0.8,3.7,0.6,4.0,0.8,4.0,0.8,4.0,0.8,3.8,Developing,
+Milagros Hurtado Salazar,32,CX - Specialist,Specialist,,,Active,4.9,1,4.9,1,5.0,1,4.5,1,4.8,1,5,Exceeds expectations,
+Milagros Suarez Lujan,32,CX - Specialist,Specialist,,,Active,5.0,1,5.0,1,4.8,1,4.7,1,4.7,1,5,Exceeds expectations,
+Nicolas Garcia,32,CX - Specialist,Specialist,,,Active,4.0,0.8,3.9,0.6,4.1,0.8,4.0,0.8,3.8,0.6,3.6,Developing,
+Nicole Adriana Rojas Rojas,32,CX - Specialist,Specialist,,,Active,4.2,0.8,4.1,0.8,3.9,0.6,3.6,0.6,4.1,0.8,3.6,Developing,
+Nidia Peña Sanchez,32,CX - Specialist,Specialist,,,Active,3.8,0.6,3.5,0.6,3.3,0.6,3.0,0.6,4.0,0.8,3.2,Developing,
+Osvaldo Martín Leclere,32,CX - Specialist,Specialist,,,Active,4.8,1,4.8,1,4.8,1,4.0,0.8,4.0,0.8,4.6,Exceeds expectations,
+Pedro Galindo,32,CX - Specialist,Specialist,,,Active,3.7,0.6,3.7,0.6,3.7,0.6,3.6,0.6,4.1,0.8,3.2,Developing,
+Piero Benjamín Porras Miguel,32,CX - Specialist,Specialist,,,Active,3.0,0.6,3.0,0.6,2.8,0.4,2.8,0.4,2.8,0.4,2.4,Needs intervention,
+Raffael Anttonio Garcia Perez Vargas,32,CX - Specialist,Specialist,,,Active,4.3,0.8,4.0,0.8,4.0,0.8,3.7,0.6,4.0,0.8,3.8,Developing,
+Rosa Loayza Uzategui,32,CX - Specialist,Specialist,,,Active,3.5,0.6,3.4,0.6,3.5,0.6,3.5,0.6,3.8,0.6,3,Developing,
+Sheyla Alvarado Santillán,32,CX - Specialist,Specialist,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
+Sofia Chunga Zavaleta,32,CX - Specialist,Specialist,,,Inactive,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,
+Vanessa Lie Del Rosario Acero,32,CX - Specialist,Specialist,,,Active,4.8,1,4.8,1,4.7,1,4.8,1,4.8,1,5,Exceeds expectations,
+Ximena Prado Moscoso,32,CX - Specialist,Specialist,,,Active,5.0,1,5.0,1,4.7,1,4.9,1,4.9,1,5,Exceeds expectations,
+Nicole Mujica Wiener,33,CX - Specialist,Specialist,,,Active,4.9,1,4.8,1,4.6,1,4.3,0.8,4.3,0.8,4.6,Exceeds expectations,
+Fabiana Vega,33,CX - Specialist,Specialist,,,Active,4.1,0.8,4.3,0.8,4.0,0.8,4.1,0.8,3.9,0.6,3.8,Developing,
+Macla Rivas,33,CX - Specialist,Specialist,,,Active,3.9,0.6,3.7,0.6,3.7,0.6,3.7,0.6,3.7,0.6,3,Developing,
+Matías Larriviere,33,CX - Specialist,Specialist,,,Active,4.1,0.8,4.3,0.8,4.2,0.8,4.2,0.8,4.4,0.8,4,Meets expectations,
+Stefania Garay Angarita,33,CX - Specialist,Specialist,,,Active,4.9,1,4.9,1,4.8,1,4.8,1,4.7,1,5,Exceeds expectations,
+Renzo Silva,33,CX - Specialist,Specialist,,,Active,3.7,0.6,3.8,0.6,3.5,0.6,3.5,0.6,3.4,0.6,3,Developing,
+Maria Cortez,33,CX - Specialist,Specialist,,,Active,3.9,0.6,3.9,0.6,3.8,0.6,3.3,0.6,3.7,0.6,3,Developing,
+Oscar Diaz,33,CX - Specialist,Specialist,,,Active,4.1,0.8,4.2,0.8,3.9,0.6,4.2,0.8,4.1,0.8,3.8,Developing,
+Guillo Camacho Galvez,33,CX - Specialist,Specialist,,,Active,4.8,1,4.8,1,4.6,1,4.7,1,4.4,0.8,4.8,Exceeds expectations,
+Danilo Tipismana,33,CX - Specialist,Specialist,,,Active,4.2,0.8,4.4,0.8,4.1,0.8,4.2,0.8,4.4,0.8,4,Meets expectations,
+Sara Parreño,33,CX - Specialist,Specialist,,,Inactive,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,
+Cielo Godoy,33,CX - Specialist,Specialist,,,Active,4.0,0.8,4.0,0.8,3.9,0.6,3.7,0.6,3.7,0.6,3.4,Developing,
+Luisa Muñinco,33,CX - Specialist,Specialist,,,Inactive,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,
+Edmar Rodrigo,33,CX - Specialist,Specialist,,,Active,3.6,0.6,3.1,0.6,3.1,0.6,3.0,0.6,2.7,0.4,2.8,Needs intervention,
+Silvana Hidalgo Moreira,33,CX - Specialist,Specialist,,,Active,3.9,0.6,4.1,0.8,4.1,0.8,4.0,0.8,3.9,0.6,3.6,Developing,
+Alonso Patron,33,CX - Leadership,Supervisor,,,Active,4.6,1,4.6,1,4.5,1,4.6,1,4.4,0.8,4.8,Exceeds expectations,
+Alejandro Rodriguez,33,CX - Leadership,Supervisor,,,Active,3.3,0.6,3.2,0.6,2.9,0.4,2.8,0.4,3.1,0.6,2.6,Needs intervention,
+Grey Cruzado,33,CX - Leadership,Supervisor,,,Active,4.5,1,4.4,0.8,4.4,0.8,4.3,0.8,4.4,0.8,4.2,Meets expectations,
+Ernesto Nunez,33,CX - QA,Analyst,,,Active,4.2,0.8,4.3,0.8,4.1,0.8,4.2,0.8,4.0,0.8,4,Meets expectations,
+Bruno Bances Monard,33,CX - QA,Analyst,,,Inactive,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,
+Lucia Ponce,33,CX - QA,Analyst,,,Inactive,4.0,0.8,4.2,0.8,3.9,0.6,4.0,0.8,3.7,0.6,3.6,Developing,
+Fernando Alfredo Merino Suarez,33,CX - Specialist,Specialist,,,Inactive,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,
+Alejandra Geldres,34,CX - Specialist,Specialist,Jose Patron,Expert 2,Active,4.5,1,4.4,0.8,4.3,0.8,4.3,0.8,4.4,0.8,4.2,Meets expectations,"Strengths
+- Strong analytical skills and structured reasoning.
+- Excellent handling of complex investigations, especially discount abuse cases.
+- Confident using internal tools and applying CookUnity policies.
+- Requires minimal guidance in most scenarios.
+Development Areas
+- Slow down and complete all validations before responding.
+- Follow SOPs consistently, even when concerned about CSAT.
+- Confirm all required criteria before classifying a case (e.g., stolen orders).
+Overall
+- Demonstrates strong critical thinking and good decision-making. Main opportunity is improving consistency by validating first, then acting, while continuing to rely on established processes."
+Alejandro Benel,34,CX - Specialist,Specialist,Jose Patron,Expert 2,Active,4.1,0.8,4.3,0.8,4.1,0.8,3.8,0.6,4.0,0.8,3.8,Developing,"Strengths
+- Strong platform validation skills across Mixpanel, Braze, Admin, Stripe, and Universal Service.
+- Applies SOPs well and follows structured reasoning in most cases.
+- Handles standard and operational cases confidently with good customer education.
+- Demonstrates solid problem-solving and logical decision-making.
+Development Areas
+- Review the full customer context before deciding on a resolution.
+- Strengthen anticipation by considering all available options proactively.
+- Avoid missing secondary issues or key validations during case analysis.
+Overall
+- Demonstrates solid critical thinking and strong platform knowledge. Main opportunity is improving attention to detail and considering the complete customer scenario before finalizing a resolution."
+Alejandro Sandoval,34,CX - Specialist,Specialist,Fiorella Marquez,Expert 2,Active,4.5,1,4.4,0.8,4.5,1,4.3,0.8,4.5,1,4.6,Exceeds expectations,"Strengths
+- Strong analytical skills and consistent use of internal tools and SOPs.
+- Thorough investigations with accurate root cause identification.
+- Proactive in educating customers and anticipating next steps.
+- Handles cases independently with minimal or no guidance.
+Development Areas
+- Improve attention to detail by reviewing previous interactions and validating all available information.
+- Strengthen problem framing before selecting a resolution.
+- Continue reinforcing proactive customer education when additional opportunities exist.
+Overall
+- Demonstrates excellent critical thinking and strong independent decision-making. Main opportunity is refining attention to detail to ensure every case is fully investigated before reaching a resolution."
+Alexander Llaxa,34,CX - Specialist,Specialist,Jose Angel Diaz,Expert 2,Active,4.3,0.8,4.5,1,4.4,0.8,4.4,0.8,4.6,1,4.4,Meets expectations,"Strengths
+- Strong validation skills and consistent use of internal tools and SOPs.
+- Accurately identifies root causes, especially in packaging and warm meal cases.
+- Demonstrates solid product knowledge and good independent decision-making.
+- Handles complex investigations with confidence and thoroughness.
+Development Areas
+- Be more persistent when customer information is not immediately available.
+- Ensure every part of the customer's request is addressed before closing a case.
+- Improve escalation reason selection and customer communication for greater clarity.
+Overall
+- Demonstrates strong critical thinking and solid investigative skills. Main opportunities are improving attention to complete customer requests, refining escalation categorization, and increasing persistence during investigations."
+Andrea Sandoval Ojeda,34,CX - Specialist,Specialist,Alejandro Rodriguez,Expert 2,Active,4.4,0.8,4.3,0.8,4.3,0.8,4.1,0.8,4.1,0.8,4,Meets expectations,"Strengths
+- Strong validation skills and solid understanding of customer issues.
+- Performs well on complex investigations and follows SOPs consistently.
+- Demonstrates good product knowledge and structured reasoning.
+- Handles straightforward cases confidently with accurate resolutions.
+Development Areas
+- Build confidence in reaching the correct resolution independently.
+- Prioritize key validations before exploring additional context.
+- Improve efficiency by balancing investigation depth with case complexity.
+Overall
+- Demonstrates strong critical thinking and investigative skills. Main opportunity is increasing independence and confidence when selecting the final resolution while maintaining an efficient validation process."
+Anthony Balcazar,34,CX - Specialist,Specialist,Gabriel Badilla,Expert 1.5,Active,3.4,0.6,3.6,0.6,3.6,0.6,3.1,0.6,3.7,0.6,3,Developing,"Strengths
+- Solid validation skills and good understanding of standard processes.
+- Identifies issues correctly and follows SOPs in straightforward cases.
+- Uses internal tools effectively and demonstrates good foundational knowledge.
+Development Areas
+- Read the full customer context before deciding on a resolution.
+- Improve identification of the customer's underlying intent, not just the stated request.
+- Build confidence and independence when handling complex, multi-step cases.
+- Provide more proactive customer education based on account status and available options.
+Overall
+- Demonstrates good foundational critical thinking. Main opportunities are improving attention to detail, identifying the full customer need, and becoming more independent when resolving complex cases."
+Bessy Valles,34,CX - Specialist,Specialist,Ximena Anticona,Expert 2,Active,4.3,0.8,4.4,0.8,4.3,0.8,4.4,0.8,4.3,0.8,4,Meets expectations,"Strengths
+- Strong validation skills and effective use of internal tools.
+- Follows SOPs consistently and identifies issues accurately in most cases.
+ -Demonstrates good logical reasoning and confidence in standard case handling.
+- Performs particularly well in packaging, broken seal, and account management cases.
+Development Areas
+- Strengthen root-cause analysis in ambiguous or complex cases.
+- Improve confidence when identifying warm meal and packaging-related scenarios.
+- Continue reinforcing product knowledge to select the correct resolution independently.
+Overall
+- Demonstrates strong critical thinking and solid investigative skills. Main opportunity is improving root-cause analysis and confidence when handling less straightforward customer issues."
+Brayson Rey,34,CX - Specialist,Specialist,Alejandro Rodriguez,Expert 2,Active,4.0,0.8,4.2,0.8,4.2,0.8,4.1,0.8,4.1,0.8,4,Meets expectations,"Strengths
+- Strong issue identification and good understanding of workflows and escalations.
+- Performs thorough validations and follows SOPs effectively in most cases.
+- Demonstrates solid product knowledge and good continuity when reviewing previous cases.
+- Handles standard and escalation cases confidently with minimal guidance.
+Development Areas
+- Always complete required identity and security validations before taking action.
+- Continue reinforcing knowledge of newer escalation reasons and SOPs.
+- Improve familiarity with contact reason selection and knowledge base navigation.
+Overall
+- Demonstrates strong critical thinking and good decision-making. Main opportunity is consistently completing security validations and strengthening knowledge of newer processes to increase independence."
+Brunella Abad,34,CX - Specialist,Specialist,Daniela Castañeda,Expert 2,Active,3.6,0.6,3.6,0.6,3.6,0.6,3.8,0.6,3.6,0.6,3,Developing,"Strengths
+- Demonstrates good validation skills and uses internal tools effectively.
+- Handles standard operational cases well and adapts quickly after feedback.
+- Shows improvement once guidance is provided and can apply corrections confidently.
+Development Areas
+- Strengthen promotion and discount validation processes before deciding on a resolution.
+- Improve root-cause analysis and proactively identify the next steps.
+- Increase accuracy when selecting escalation reasons and avoid offering compensation without clear justification.
+- Read the full customer context before taking action.
+Overall
+- Demonstrates developing critical thinking with solid foundational skills. Main opportunities are improving investigative reasoning, escalation accuracy, and independent decision-making on more complex cases."
+Daiana Kuster,34,CX - Specialist,Specialist,Paola Pirela,Expert 2,Active,4.3,0.8,4.3,0.8,4.3,0.8,4.2,0.8,4.1,0.8,4,Meets expectations,"Strengths
+- Strong validation skills and consistent adherence to SOPs.
+- Demonstrates good product knowledge and confident case handling.
+- Performs well in packaging, billing, and order management cases.
+- Provides clear resolutions and customer education in most scenarios.
+Development Areas
+- Strengthen anticipation and proactive customer education.
+- Improve prioritization when handling cases with multiple issues.
+- Continue building confidence and product knowledge to increase independence.
+Overall
+- Demonstrates strong critical thinking and consistent decision-making. Main opportunity is improving prioritization and anticipation in more complex, multi-cause cases while continuing to build confidence and independence."
+Milushka Borda,34,CX - Specialist,Specialist,Gabriela Tapia,Expert 2,Active,3.8,0.6,3.6,0.6,3.6,0.6,3.7,0.6,3.9,0.6,3,Developing,"Strengths
+- Strong validation skills and good execution once the issue is identified.
+- Performs well in packaging, delivery, and operational cases.
+- Demonstrates solid use of internal tools and follows SOPs in most scenarios.
+- Handles standard cases confidently with minimal guidance.
+Development Areas
+- Focus on identifying the customer's primary concern before selecting a resolution.
+- Strengthen escalation reason selection and use of internal resources (Slack/CX News).
+- Continue building confidence with complex billing and multi-step investigations.
+Overall
+- Demonstrates solid critical thinking and investigative skills. Main opportunity is improving problem framing and ensuring the customer's true need is identified before determining the appropriate resolution."
+Fabrizio Palacios,34,CX - Specialist,Specialist,Grey Cruzado,Expert 2,Active,4.8,1,4.8,1,4.8,1,4.8,1,4.8,1,5,Exceeds expectations,"Strengths
+- Exceptional issue identification, validation, and independent decision-making.
+- Consistently applies SOPs and uses internal tools effectively.
+- Anticipates multiple scenarios and provides clear, proactive resolutions.
+- Handles complex billing, promotions, and account management cases with confidence.
+Development Areas
+- Reinforce consistent completion of all standard validations, even in routine cases.
+- Continue strengthening validation habits on technical support scenarios.
+Overall
+- Demonstrates excellent critical thinking and near-independent case handling. Consistently delivers high-quality resolutions, with only minor opportunities to improve validation consistency on routine cases."
+Francesca Coppo,34,CX - Specialist,Specialist,Esteban Mujica,Expert 2,Active,4.3,0.8,4.6,1,4.4,0.8,4.1,0.8,4.3,0.8,4.2,Meets expectations,"Strengths
+- Strong analytical skills and thorough investigations on complex cases.
+- Uses internal tools effectively and identifies root causes accurately.
+- Demonstrates solid product knowledge and good decision-making.
+- Handles multi-account and delivery-related cases with confidence.
+Development Areas
+- Complete all required validations before submitting Wabi-Sabi requests.
+- Reinforce end-to-end workflows, especially for promotions that require order reprocessing.
+- Prioritize accuracy and complete information gathering over speed.
+- Strengthen promotion validation by consistently reviewing plan eligibility.
+Overall
+- Demonstrates strong critical thinking and investigative skills. Main opportunity is improving validation completeness and ensuring all required actions are identified before finalizing a resolution."
+Francisco Bravo,34,CX - Specialist,Specialist,Esteban Mujica,Expert 2,Active,4.5,1,4.6,1,4.4,0.8,4.4,0.8,4.5,1,4.6,Exceeds expectations,"Strengths
+- Strong analytical skills and consistent independent decision-making.
+- Thorough validations using internal tools and SOPs.
+- Handles billing, order management, and escalation cases confidently.
+- Provides complete resolutions and proactive customer education.
+Development Areas
+- Always validate promotion expiration dates as part of the standard workflow.
+- Review previous interactions to ensure complete context before resolving a case.
+- Continue reinforcing plan-specific promotion and discount validations.
+Overall
+- Demonstrates excellent critical thinking and strong independence. Main opportunity is improving validation consistency by ensuring all promotion details and previous case history are reviewed before finalizing a resolution."
+Georgireth Arias,34,CX - Specialist,Specialist,Grey Cruzado,Expert 2,Active,4.9,1,4.9,1,4.9,1,4.8,1,5.0,1,5,Exceeds expectations,"Strengths
+- Exceptional validation skills and independent decision-making.
+- Consistently follows SOPs and uses internal tools effectively.
+- Provides thorough customer education and identifies appropriate next steps.
+- Handles complex account, billing, and order management cases with confidence.
+Development Areas
+- Continue reinforcing proactive validations to provide the most complete customer response.
+- Maintain the habit of confirming workflows when needed to ensure accuracy.
+Overall
+- Demonstrates excellent critical thinking and highly independent case handling. Consistently delivers accurate, well-validated resolutions with strong customer education and only minor opportunities to enhance proactive communication."
+Arian Alegria,34,CX - Specialist,Specialist,Rocio Vargas,Expert 2,Active,4.7,1,4.7,1,4.7,1,4.9,1,4.6,1,5,Exceeds expectations,"Strengths
+- Strong validation skills and confident decision-making.
+- Follows SOPs consistently and demonstrates solid investigative reasoning.
+- Handles order management, delivery, packaging, and billing cases effectively.
+- Shows good attention to detail and accurate use of internal tools.
+Development Areas
+- Strengthen fraud investigation knowledge and confidence in complex scenarios.
+- Continue improving proactive customer education and retention opportunities.
+- Build more independence when handling unfamiliar or high-complexity cases.
+Overall
+- Demonstrates strong critical thinking and solid investigative skills. Main opportunity is strengthening fraud-related knowledge while continuing to provide more proactive customer education in appropriate situations."
+Ana Lucia Aguilar Hornes,34,CX - Specialist,Specialist,Ximena Anticona,Expert 2,Active,4.1,0.8,4.1,0.8,4.1,0.8,4.1,0.8,4.4,0.8,4,Meets expectations,"Strengths
+- Strong validation skills and good understanding of customer issues.
+- Follows SOPs consistently and identifies appropriate resolutions.
+- Handles delivery, account management, and missing item cases confidently.
+- Provides clear customer education and demonstrates solid investigative skills.
+Development Areas
+- Reinforce accurate contact reason selection.
+- Review previous interactions before taking action to avoid duplicate work.
+- Be more proactive with validations and continue building confidence in decision-making.
+Overall
+- Demonstrates strong critical thinking and solid investigative skills. Main opportunities are improving contact reason accuracy, reviewing case history consistently, and increasing confidence when making independent decisions."
+Jean Carlo Gastelo,34,CX - Specialist,Specialist,Gabriel Badilla,Expert 2,Active,4.6,1,4.7,1,4.6,1,4.4,0.8,4.4,0.8,4.6,Exceeds expectations,"Strengths
+- Strong analytical skills and confident decision-making.
+- Effectively uses internal tools and AI resources to support investigations.
+- Handles billing, order management, and promotion-related cases with confidence.
+- Provides clear customer education and follows SOPs consistently.
+Development Areas
+- Strengthen customer de-escalation skills to handle challenging interactions more independently.
+- Reinforce login investigations by consistently validating Auth0.
+- Continue ensuring contact reasons are updated and documented accurately.
+Overall
+- Demonstrates strong critical thinking and solid investigative skills. Main opportunities are improving customer de-escalation and maintaining consistent validation and documentation across all case types."
+JoseMa Reyes,34,CX - Specialist,Specialist,Alejandro Rodriguez,Expert 2,Active,4.5,1,4.5,1,4.5,1,4.5,1,4.5,1,5,Exceeds expectations,"Strengths
+- Strong validation skills and solid understanding of SOPs.
+- Handles delivery, billing, and order management cases confidently.
+- Demonstrates good investigative reasoning and proactive problem-solving.
+- Provides clear customer education and appropriate escalations.
+Development Areas
+- Build confidence to trust his own judgment and make independent decisions.
+- Continue reinforcing how internal policies should be communicated to customers.
+- Maintain proactive validation habits across all case types.
+Overall
+- Demonstrates strong critical thinking and solid investigative skills. Main opportunity is building greater confidence in independent decision-making while continuing to deliver thorough, well-validated resolutions."
+Jose Tica Tarazona,34,CX - Specialist,Specialist,Rocio Vargas,Expert 2,Active,3.6,0.6,3.5,0.6,3.6,0.6,3.4,0.6,3.4,0.6,3,Developing,"Strengths
+- Good validation skills and solid understanding of SOPs in straightforward cases.
+- Handles packaging and standard delivery cases with confidence.
+- Demonstrates good use of internal tools when following established workflows.
+Development Areas
+- Improve recognition of when a case should be reassigned.
+- Follow a more structured escalation workflow, including reviewing CX News and previous case context.
+- Review the full scope of complex, multi-issue cases before taking action.
+- Reinforce proactive validations to ensure all customer concerns are addressed.
+Overall
+- Demonstrates developing critical thinking with a solid foundation. Main opportunities are strengthening escalation workflows, improving case prioritization, and increasing confidence when handling complex or multi-topic cases independently."
+Eduardo Almeyda,34,CX - Specialist,Specialist,Jose Angel Diaz,Expert 1,Active,3.5,0.6,3.5,0.6,3.5,0.6,3.4,0.6,3.3,0.6,3,Developing,"Strengths
+- Good validation skills and solid understanding of standard SOPs.
+- Handles straightforward operational cases with good reasoning.
+- Demonstrates sound judgment when identifying issues and appropriate resolutions.
+- Continues to build confidence and independence across different case types.
+Development Areas
+- Strengthen Wabi-Sabi workflows and referral case knowledge.
+- Validate the full customer context before determining a resolution.
+- Ensure all affected items are confirmed before applying compensation.
+- Reinforce proactive habits such as updating contact reasons, leaving internal notes, and offering alternative solutions when appropriate.
+Overall
+- Demonstrates developing critical thinking with a solid foundation. Main opportunities are increasing independence, strengthening knowledge of specialized workflows, and ensuring complete validations before finalizing resolutions."
+Julio Chiri,34,CX - Specialist,Specialist,Gabriela Tapia,Expert 1 ,Active,3.2,0.6,3.1,0.6,2.9,0.4,2.9,0.4,2.7,0.4,2.4,Needs intervention,"Strengths
+- Demonstrates a basic understanding of SOPs and customer issues.
+- Can identify the correct resolution with guidance and continued analysis.
+- Shows resourcefulness by using available documentation and tools.
+Development Areas
+- Improve resolution accuracy and apply the correct SOP consistently.
+- Be more proactive when the customer request is clear instead of seeking unnecessary confirmation.
+- Strengthen structured case handling by reviewing the full case history before responding.
+- Reinforce product knowledge, escalation workflows, and timeline understanding.
+- Build confidence and organization to handle complex cases more independently.
+Overall
+- Demonstrates developing critical thinking with significant opportunities for growth. Main priorities are improving resolution accuracy, following structured workflows, and increasing independence when handling complex or multi-step cases."
+Junior Tello,34,CX - Specialist,Specialist,Paola Pirela,Expert 1,Active,2.9,0.4,2.6,0.4,2.6,0.4,2.8,0.4,2.4,0.4,2,Needs intervention,"Strengths
+- Shows good learning potential and follows procedures well with guidance.
+- Demonstrates improving validation skills and sound reasoning on standard cases.
+- Willing to work through unfamiliar scenarios and seek clarification when needed.
+Development Areas
+- Strengthen product knowledge and SOP familiarity.
+- Improve case reading to identify the customer's primary concern before acting.
+- Reinforce Wabi-Sabi workflows, troubleshooting, and account deprecation processes.
+- Build confidence and composure to work more independently under pressure.
+Overall
+- Demonstrates developing critical thinking with clear growth potential. Main priorities are strengthening product knowledge, improving case analysis, and building confidence to execute complete resolutions independently."
+Michelle Diaz,34,CX - Specialist,Specialist,Fiorella Marquez,Expert 2,Active,4.3,0.8,4.1,0.8,4.0,0.8,3.9,0.6,4.0,0.8,3.8,Developing,"Strengths
+- Strong validation skills and good understanding of SOPs.
+- Handles packaging, promotions, and order management cases confidently.
+- Demonstrates good investigative reasoning and appropriate use of Wabi-Sabi workflows.
+- Performs thorough validations and identifies correct resolutions in most cases.
+Development Areas
+- Strengthen GovX and login-related validation knowledge.
+- Deepen account validations for billing and pricing investigations.
+- Reinforce promotion validation by reviewing all available campaigns before requesting a promo.
+- Continue developing empathy and adapting communication to the customer's context.
+Overall
+- Demonstrates strong critical thinking and solid investigative skills. Main opportunities are strengthening GovX/login knowledge, improving billing validations, and ensuring complete promotion reviews before determining a resolution."
+Monica Muñoz Cruz,34,CX - Specialist,Specialist,Fiorella Marquez,Expert 2,Active,4.3,0.8,4.4,0.8,4.4,0.8,4.4,0.8,4.4,0.8,4,Meets expectations,"Strengths
+- Strong validation skills and confident application of SOPs.
+- Handles account management, billing, and escalation cases independently.
+- Provides clear customer education and well-structured resolutions.
+- Demonstrates solid product knowledge and effective use of internal tools.
+Development Areas
+- Reinforce validation for specialized cases such as GovX and referral scenarios.
+- Make customer education more proactive in promotion-related cases.
+- Continue expanding the use of all available tools, including Slack, during investigations.
+Overall
+- Demonstrates strong critical thinking and confident decision-making. Main opportunities are strengthening specialized validation workflows and consistently using all available resources to deliver complete resolutions."
+Pamela Mananí,34,CX - Specialist,Specialist,Grey Cruzado,Expert 2,Active,4.1,0.8,4.3,0.8,4.1,0.8,4.1,0.8,4.4,0.8,4,Meets expectations,"Strengths
+- Strong validation skills and solid analytical reasoning.
+- Handles billing, payment, and order management cases confidently.
+- Thorough investigations and accurate identification of root causes.
+- Provides clear customer education and follows SOPs consistently.
+Development Areas
+- Perform deeper account reviews before resolving skip and order-related cases.
+- Add a warmer, more empathetic tone to customer interactions.
+- Continue strengthening knowledge of escalation paths and reduce reliance on AI for routine validations.
+Overall
+- Demonstrates strong critical thinking and solid investigative skills. Main opportunities are improving validation depth in order-related cases and enhancing customer experience through more empathetic communication."
+Piero Alvarado,34,CX - Specialist,Specialist,Ximena Anticona,Expert 2,Active,4.0,0.8,4.1,0.8,4.1,0.8,3.9,0.6,4.1,0.8,3.8,Developing,"Strengths
+- Strong validation skills and good understanding of SOPs.
+- Handles delivery, referral, and operational cases confidently.
+- Demonstrates logical reasoning and considers multiple scenarios before resolving cases.
+- Provides clear customer education and thorough investigations.
+Development Areas
+- Trust internal tools and complete validations before requesting information from customers.
+- Strengthen root-cause investigations by validating all relevant account details.
+- Reinforce Flex Window validation and retention workflows for order management cases.
+Overall
+- Demonstrates strong critical thinking and solid investigative skills. Main opportunities are strengthening validation workflows for order management cases and relying more on internal resources to deliver complete, proactive resolutions."
+Ricardo Andrade,34,CX - Specialist,Specialist,Francisco Romano,Expert 2,Active,4.5,1,4.6,1,4.6,1,4.6,1,4.5,1,5,Exceeds expectations,"Strengths
+- Strong validation skills and confident use of internal tools.
+- Handles delivery, billing, and account management cases independently.
+- Demonstrates thorough investigations and accurate SOP application.
+- Provides proactive customer education and well-structured resolutions.
+Development Areas
+- Strengthen root-cause analysis for warm meal and nuanced delivery cases.
+- Follow a more structured step-by-step approach before determining the resolution.
+- Build confidence in selecting the appropriate validation flow and customer communication for complex scenarios.
+Overall
+- Demonstrates strong critical thinking and solid investigative skills. Main opportunity is improving root-cause analysis and independent reasoning when handling more complex or ambiguous customer complaints."
+Rodrigo Cornejo,34,CX - Specialist,Specialist,Francisco Romano,Expert 1 ,Active,3.7,0.6,3.5,0.6,3.5,0.6,3.3,0.6,3.8,0.6,3,Developing,"Strengths
+- Good understanding of standard workflows and validation processes.
+- Handles login and straightforward operational cases confidently.
+- Demonstrates solid reasoning and follows SOPs in most scenarios.
+- Asks relevant discovery questions and communicates clearly.
+Development Areas
+- Strengthen ticket triage and accurately identify the customer's true intent.
+- Improve validation depth by consistently using tools such as Onfleet, Braze, and Mixpanel.
+- Be more proactive by reviewing overall account status, not only the immediate issue.
+- Build confidence handling referrals and delivery investigations independently.
+Overall
+- Demonstrates solid critical thinking with a good foundation. Main opportunities are improving ticket triage, expanding validation habits, and developing a more proactive approach to investigations before determining a resolution."
+Willy Ganoza Luyo,34,CX - Specialist,Specialist,Jose Patron,Expert 2,Active,4.2,0.8,4.2,0.8,4.1,0.8,4.2,0.8,4.1,0.8,4,Meets expectations,"Strengths
+- Strong validation skills and confident handling of standard operational cases.
+- Performs thorough investigations and provides clear customer education.
+- Demonstrates good independence in delivery, packaging, and account management cases.
+- Effectively considers multiple scenarios before determining a resolution.
+Development Areas
+- Improve issue identification and accurately distinguish similar case types.
+- Reinforce contact reason selection and escalation workflows.
+- Better recognize when a case is outside scope and requires reassignment.
+- Continue strengthening SOP knowledge to avoid unnecessary escalations or incorrect resolutions.
+Overall
+- Demonstrates solid critical thinking with a good foundation. Main opportunities are improving issue classification, escalation accuracy, and confidence in determining the correct workflow for more complex or cross-functional cases."
+Jose David De La Cruz Canchán,34,CX - Ops,Specialist,,,Active,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,
