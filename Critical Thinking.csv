@@ -5,7 +5,7 @@ Last Update,,,,,,,,,,,,,,,,,,,
 7/12/2026,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,
-Employee,Group,Squad,Role,Supervisor,Expert,Job Status,Understanding & Framing the Problem Avg,Understanding the Problem Equivalent,Logical & Structured Reasoning Avg,Logical Approach Equivalent,Knowledge Application & Judgment Avg,Knowledge Application Equivalent,Problem Anticipation & Impact Awareness Avg,Problem Anticipation & Resolution Equivalent,Independence & Confidence in Decision-Making Avg,Independence Equivalent,Critical Thinking Grade,Critical Thinking Status,Comments
+Employee,Group,Squad,Role,Supervisor,Expert,Job Status,Understanding & Framing the Problem Avg,Understanding & Framing the Problem Equivalent,Logical & Structured Reasoning Avg,Logical & Structured Reasoning Equivalent,Knowledge Application & Judgment Avg,Knowledge Application & Judgment Equivalent,Problem Anticipation & Impact Awareness Avg,Problem Anticipation & Impact Awareness  Equivalent,Independence & Confidence in Decision-Making Avg,Independence & Confidence in Decision-Making Equivalent,Critical Thinking Grade,Critical Thinking Status,Comments
 Patrice Camille Halili,1,CX - Leadership,Supervisor,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,0,Not ready,
 Ghel Punzalan,1,CX - OPS,Lead,,,Inactive,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
 Diego Enriquez,2,CX - Training,Lead,,,Active,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,#N/A,
@@ -311,7 +311,7 @@ Julio Mateo Arakaki Vera,32,CX - Specialist,Specialist,,,Active,3.7,0.6,3.5,0.6,
 Kaori Nakashima Tarazona,32,CX - Specialist,Specialist,,,Active,4.9,1,4.9,1,4.7,1,4.4,0.8,4.7,1,4.8,Exceeds expectations,
 Kevin Palomino,32,CX - Specialist,Specialist,,,Inactive,4.6,1,4.4,0.8,4.4,0.8,4.3,0.8,4.2,0.8,4.2,Meets expectations,
 Lisangel Carolina Gallardo Hernandez,32,CX - Specialist,Specialist,,,Active,4.5,1,4.2,0.8,3.8,0.6,3.8,0.6,4.0,0.8,3.8,Developing,
-Madeleynne Castillo Paredes,32,CX - Specialist,Specialist,,,Active,4.0,0.8,4.1,0.8,4.0,0.8,4.1,0.8,4.0,0.8,4,Meets expectations,
+Madeleynne Castillo Paredes,32,CX - Specialist,Specialist,"Ketevan Streletska",,Active,4.0,0.8,4.1,0.8,4.0,0.8,4.1,0.8,4.0,0.8,4,Meets expectations,
 Marco Antonio Ato Mejia,32,CX - Specialist,Specialist,,,Inactive,3.6,0.6,3.8,0.6,3.4,0.6,3.6,0.6,3.6,0.6,3,Developing,
 María Fernanda Torres Vasquez,32,CX - Specialist,Specialist,,,Active,4.8,1,4.6,1,4.7,1,4.4,0.8,4.7,1,4.8,Exceeds expectations,
 Matias Alonso Tamariz Briceño,32,CX - Specialist,Specialist,,,Active,4.0,0.8,4.0,0.8,4.3,0.8,4.0,0.8,4.0,0.8,4,Meets expectations,
@@ -366,7 +366,7 @@ Development Areas
 - Confirm all required criteria before classifying a case (e.g., stolen orders).
 Overall
 - Demonstrates strong critical thinking and good decision-making. Main opportunity is improving consistency by validating first, then acting, while continuing to rely on established processes."
-Alejandro Benel,34,CX - Specialist,Specialist,Jose Patron,Expert 2,Active,4.1,0.8,4.3,0.8,4.1,0.8,3.8,0.6,4.0,0.8,3.8,Developing,"Strengths
+Alejandro Benel,34,CX - Specialist,Specialist,"Ketevan Streletska",Expert 2,Active,4.1,0.8,4.3,0.8,4.1,0.8,3.8,0.6,4.0,0.8,3.8,Developing,"Strengths
 - Strong platform validation skills across Mixpanel, Braze, Admin, Stripe, and Universal Service.
 - Applies SOPs well and follows structured reasoning in most cases.
 - Handles standard and operational cases confidently with good customer education.
@@ -421,7 +421,7 @@ Development Areas
 - Provide more proactive customer education based on account status and available options.
 Overall
 - Demonstrates good foundational critical thinking. Main opportunities are improving attention to detail, identifying the full customer need, and becoming more independent when resolving complex cases."
-Bessy Valles,34,CX - Specialist,Specialist,Ximena Anticona,Expert 2,Active,4.3,0.8,4.4,0.8,4.3,0.8,4.4,0.8,4.3,0.8,4,Meets expectations,"Strengths
+Bessy Valles,34,CX - Specialist,Specialist,"Ketevan Streletska",Expert 2,Active,4.3,0.8,4.4,0.8,4.3,0.8,4.4,0.8,4.3,0.8,4,Meets expectations,"Strengths
 - Strong validation skills and effective use of internal tools.
 - Follows SOPs consistently and identifies issues accurately in most cases.
  -Demonstrates good logical reasoning and confidence in standard case handling.
@@ -476,7 +476,7 @@ Development Areas
 - Continue building confidence with complex billing and multi-step investigations.
 Overall
 - Demonstrates solid critical thinking and investigative skills. Main opportunity is improving problem framing and ensuring the customer's true need is identified before determining the appropriate resolution."
-Fabrizio Palacios,34,CX - Specialist,Specialist,Grey Cruzado,Expert 2,Active,4.8,1,4.8,1,4.8,1,4.8,1,4.8,1,5,Exceeds expectations,"Strengths
+Fabrizio Palacios,34,CX - Specialist,Specialist,"Ketevan Streletska",Expert 2,Active,4.8,1,4.8,1,4.8,1,4.8,1,4.8,1,5,Exceeds expectations,"Strengths
 - Exceptional issue identification, validation, and independent decision-making.
 - Consistently applies SOPs and uses internal tools effectively.
 - Anticipates multiple scenarios and provides clear, proactive resolutions.
@@ -509,7 +509,7 @@ Development Areas
 - Continue reinforcing plan-specific promotion and discount validations.
 Overall
 - Demonstrates excellent critical thinking and strong independence. Main opportunity is improving validation consistency by ensuring all promotion details and previous case history are reviewed before finalizing a resolution."
-Georgireth Arias,34,CX - Specialist,Specialist,Grey Cruzado,Expert 2,Active,4.9,1,4.9,1,4.9,1,4.8,1,5.0,1,5,Exceeds expectations,"Strengths
+Georgireth Arias,34,CX - Specialist,Specialist,"Ketevan Streletska",Expert 2,Active,4.9,1,4.9,1,4.9,1,4.8,1,5.0,1,5,Exceeds expectations,"Strengths
 - Exceptional validation skills and independent decision-making.
 - Consistently follows SOPs and uses internal tools effectively.
 - Provides thorough customer education and identifies appropriate next steps.
@@ -519,7 +519,7 @@ Development Areas
 - Maintain the habit of confirming workflows when needed to ensure accuracy.
 Overall
 - Demonstrates excellent critical thinking and highly independent case handling. Consistently delivers accurate, well-validated resolutions with strong customer education and only minor opportunities to enhance proactive communication."
-Arian Alegria,34,CX - Specialist,Specialist,Rocio Vargas,Expert 2,Active,4.7,1,4.7,1,4.7,1,4.9,1,4.6,1,5,Exceeds expectations,"Strengths
+Arian Alegria,34,CX - Specialist,Specialist,"Ketevan Streletska",Expert 2,Active,4.7,1,4.7,1,4.7,1,4.9,1,4.6,1,5,Exceeds expectations,"Strengths
 - Strong validation skills and confident decision-making.
 - Follows SOPs consistently and demonstrates solid investigative reasoning.
 - Handles order management, delivery, packaging, and billing cases effectively.
@@ -552,7 +552,7 @@ Development Areas
 - Continue ensuring contact reasons are updated and documented accurately.
 Overall
 - Demonstrates strong critical thinking and solid investigative skills. Main opportunities are improving customer de-escalation and maintaining consistent validation and documentation across all case types."
-JoseMa Reyes,34,CX - Specialist,Specialist,Alejandro Rodriguez,Expert 2,Active,4.5,1,4.5,1,4.5,1,4.5,1,4.5,1,5,Exceeds expectations,"Strengths
+JoseMa Reyes,34,CX - Specialist,Specialist,"Ketevan Streletska",Expert 2,Active,4.5,1,4.5,1,4.5,1,4.5,1,4.5,1,5,Exceeds expectations,"Strengths
 - Strong validation skills and solid understanding of SOPs.
 - Handles delivery, billing, and order management cases confidently.
 - Demonstrates good investigative reasoning and proactive problem-solving.
@@ -563,7 +563,7 @@ Development Areas
 - Maintain proactive validation habits across all case types.
 Overall
 - Demonstrates strong critical thinking and solid investigative skills. Main opportunity is building greater confidence in independent decision-making while continuing to deliver thorough, well-validated resolutions."
-Jose Tica Tarazona,34,CX - Specialist,Specialist,Rocio Vargas,Expert 2,Active,3.6,0.6,3.5,0.6,3.6,0.6,3.4,0.6,3.4,0.6,3,Developing,"Strengths
+Jose Tica Tarazona,34,CX - Specialist,Specialist,"Ketevan Streletska",Expert 2,Active,3.6,0.6,3.5,0.6,3.6,0.6,3.4,0.6,3.4,0.6,3,Developing,"Strengths
 - Good validation skills and solid understanding of SOPs in straightforward cases.
 - Handles packaging and standard delivery cases with confidence.
 - Demonstrates good use of internal tools when following established workflows.
@@ -574,7 +574,7 @@ Development Areas
 - Reinforce proactive validations to ensure all customer concerns are addressed.
 Overall
 - Demonstrates developing critical thinking with a solid foundation. Main opportunities are strengthening escalation workflows, improving case prioritization, and increasing confidence when handling complex or multi-topic cases independently."
-Eduardo Almeyda,34,CX - Specialist,Specialist,Jose Angel Diaz,Expert 1,Active,3.5,0.6,3.5,0.6,3.5,0.6,3.4,0.6,3.3,0.6,3,Developing,"Strengths
+Eduardo Almeyda,34,CX - Specialist,Specialist,Jose Angel Diaz,Expert 1,Inactive,3.5,0.6,3.5,0.6,3.5,0.6,3.4,0.6,3.3,0.6,3,Developing,"Strengths
 - Good validation skills and solid understanding of standard SOPs.
 - Handles straightforward operational cases with good reasoning.
 - Demonstrates sound judgment when identifying issues and appropriate resolutions.
@@ -689,4 +689,4 @@ Development Areas
 - Continue strengthening SOP knowledge to avoid unnecessary escalations or incorrect resolutions.
 Overall
 - Demonstrates solid critical thinking with a good foundation. Main opportunities are improving issue classification, escalation accuracy, and confidence in determining the correct workflow for more complex or cross-functional cases."
-Jose David De La Cruz Canchán,34,CX - Ops,Specialist,,,Active,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,
+Jose David De La Cruz Canchán,34,CX - Ops,Specialist,,,Transitioned,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,
