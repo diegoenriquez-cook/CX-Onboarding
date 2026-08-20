@@ -349,7 +349,7 @@ Ernesto Nunez,33,CX - QA,Analyst,Active,,,5,Exceeds expectations,0.125,4.3,Devel
 Bruno Bances Monard,33,CX - QA,Analyst,Inactive,,,5,Exceeds expectations,0.125,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,#N/A,,,
 Lucia Ponce,33,CX - QA,Analyst,Inactive,,,4.3,Developing,0.1,4.3,Developing,0.1,3.00,Developing,0.7,4.25,Meets expectations,0.8,3.6,Developing,1.05,2.75,,Intervention Required,,,
 Fernando Alfredo Merino Suarez,33,CX - Specialist,Specialist,Inactive,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,,#N/A,,,
-Alejandra Geldres,34,CX - Specialist,Specialist,Active,Jose Patron,,5,Exceeds expectations,0.125,4.6,Meets expectations,0.125,3.67,Developing,1.05,4.75,Exceeds expectations,1,4.2,Meets expectations,1.6,3.9,,Coaching Required,"Supervisor Quick View
+Alejandra Geldres,34,CX - Specialist,Specialist,Active,Jose Patron,,5,Exceeds expectations,0.125,4.6,Meets expectations,0.125,4.00,Meets expectations,1.4,4.75,Exceeds expectations,1,4.2,Meets expectations,1.6,4.25,,Ready with Coaching,"Supervisor Quick View
 • Readiness: 🟢 Ready for Operations.
 • Tier recommendation: Expert 2.
 • Final performance: 4.2 TPH, 90% IQS, and 73.7% CSAT.
@@ -371,7 +371,7 @@ Alejandro Benel,34,CX - Specialist,Specialist,Active,"Ketevan Streletska",,5,Ex
 • Behavioral focus: Reinforce punctuality and proactive communication when unexpected issues arise.
 • Recommended support: Weekly TPH reviews, early QA calibrations, and coaching on complex investigations and customer communication.
 • Overall assessment: Alejandro enters Operations with a strong quality foundation and excellent analytical skills. Continued coaching should focus on increasing productivity while maintaining his high QA standards and customer experience.",Expert 2,https://app.notion.com/p/cookunity/Alejandro-Benel-Alejandro-3676c6b786ba81b29964c21ccf055bab?source=copy_link
-Alejandro Sandoval,34,CX - Specialist,Specialist,Active,Fiorella Marquez,,5,Exceeds expectations,0.125,5.0,Exceeds expectations,0.125,3.33,Developing,0.7,3.75,Developing,0.6,4.6,Exceeds expectations,2,3.55,,Coaching Required,"Supervisor Quick View
+Alejandro Sandoval,34,CX - Specialist,Specialist,Active,Fiorella Marquez,,5,Exceeds expectations,0.125,5.0,Exceeds expectations,0.125,3.00,Developing,0.7,3.75,Developing,0.6,4.6,Exceeds expectations,2,3.55,,Coaching Required,"Supervisor Quick View
 • Readiness: 🟡 Ready for Operations with Coaching.
 • Tier recommendation: Expert 2.
 • Final performance: 2.9 TPH, 100% IQS, and 57.1% CSAT.
@@ -382,7 +382,7 @@ Alejandro Sandoval,34,CX - Specialist,Specialist,Active,Fiorella Marquez,,5,Exce
 • Execution focus: Maintain excellent validation habits while balancing speed with a consistent customer experience.
 • Recommended support: Weekly KPI reviews, early QA calibration, reverse shadowing during the first month, and targeted coaching on customer interactions with low CSAT.
 • Overall assessment: Ready to manage Expert 2 case complexity, with continued coaching focused on customer experience consistency while building productivity toward Operations expectations.",Expert 2,https://app.notion.com/p/cookunity/Alejandro-Sandoval-Ojeda-Ale-3676c6b786ba815b8c96d4be00e930d8?source=copy_link
-Alexander Llaxa,34,CX - Specialist,Specialist,Active,Jose Angel Diaz,,5,Exceeds expectations,0.125,5.0,Exceeds expectations,0.125,4.33,Meets expectations,1.4,3.75,Developing,0.6,4.4,Meets expectations,1.6,3.85,,Coaching Required,"Supervisor Quick View
+Alexander Llaxa,34,CX - Specialist,Specialist,Active,Jose Angel Diaz,,5,Exceeds expectations,0.125,5.0,Exceeds expectations,0.125,4.67,Exceeds expectations,1.75,3.75,Developing,0.6,4.4,Meets expectations,1.6,4.2,,Ready with Coaching,"Supervisor Quick View
 • Readiness: 🟢 Ready for Operations.
 • Tier recommendation: Expert 2.
 • Final performance: 4.2 TPH, 87.5% IQS, and 91.7% CSAT.
@@ -430,7 +430,7 @@ Bessy Valles,34,CX - Specialist,Specialist,Active,"Ketevan Streletska",,5,Excee
 • Execution focus: Improve SOP navigation speed and maintain consistent documentation quality.
 • Recommended support: Weekly KPI review, early QA calibration, monitoring of warm meal cases, and continued reinforcement through live coaching.
 • Overall assessment: Ready to transition into Expert 2 case complexity, with coaching focused primarily on productivity growth and maintaining consistent IQS while preserving her strong customer experience performance.",Expert 2,https://app.notion.com/p/cookunity/Bessy-Valles-Torrejon-Bessy-3676c6b786ba818b9e58c61a78d7cf71?source=copy_link
-Brayson Rey,34,CX - Specialist,Specialist,Active,Alejandro Rodriguez,,5,Exceeds expectations,0.125,4.5,Meets expectations,0.125,4.00,Meets expectations,1.4,5,Exceeds expectations,1,4,Meets expectations,1.6,4.25,,Ready with Coaching,"Supervisor Quick View
+Brayson Rey,34,CX - Specialist,Specialist,Active,Alejandro Rodriguez,,5,Exceeds expectations,0.125,4.5,Meets expectations,0.125,4.33,Meets expectations,1.4,5,Exceeds expectations,1,4,Meets expectations,1.6,4.25,,Ready with Coaching,"Supervisor Quick View
 • Readiness: 🟢 Ready for Operations.
 • Tier recommendation: Expert 2.
 • Final performance: 3.7 TPH, 92.5% IQS, and 91.7% CSAT.
@@ -536,7 +536,7 @@ Arian Alegria,34,CX - Specialist,Specialist,Active,"Ketevan Streletska",,5,Exce
 • Execution focus: Continue strengthening fraud investigations and confidence with unfamiliar high-complexity cases.
 • Recommended support: Weekly KPI reviews, QA calibration focused on customer experience, reverse shadowing for advanced cases, and reinforcement of proactive participation during team discussions.
 • Overall assessment: Ready to independently manage Expert 2 case complexity, with coaching centered on customer experience consistency and continued productivity growth.",Expert 2,https://app.notion.com/p/cookunity/Gianfrancis-Arian-Alegr-a-Davila-Arian-3676c6b786ba815eaae7dec91ab8b82b?source=copy_link
-Ana Lucia Aguilar Hornes,34,CX - Specialist,Specialist,Active,Ximena Anticona,,5,Exceeds expectations,0.125,4.7,Meets expectations,0.125,3.67,Developing,1.05,5,Exceeds expectations,1,4,Meets expectations,1.6,3.9,,Coaching Required,"Supervisor Quick View
+Ana Lucia Aguilar Hornes,34,CX - Specialist,Specialist,Active,Ximena Anticona,,5,Exceeds expectations,0.125,4.7,Meets expectations,0.125,4.00,Meets expectations,1.4,5,Exceeds expectations,1,4,Meets expectations,1.6,4.25,,Ready with Coaching,"Supervisor Quick View
 • Readiness: 🟡 Ready for Operations with Coaching.
 • Tier recommendation: Expert 2.
 • Final performance: 3.4 TPH, 75% IQS, and 73.3% CSAT.
@@ -559,7 +559,7 @@ Jean Carlo Gastelo,34,CX - Specialist,Specialist,Active,Gabriel Badilla,,5,Excee
 • Execution focus: Maintain complete validations, accurate documentation, and high-quality escalation practices.
 • Recommended support: Weekly KPI reviews, early QA calibrations, documentation audits, and continued coaching focused on productivity and customer de-escalation.
 • Overall assessment: Jean Carlo demonstrated consistent growth throughout onboarding and is ready to manage Expert 2 case complexity. His combination of strong critical thinking, excellent quality performance, and exceptional coachability provides a solid foundation for success in Operations, with productivity remaining the primary focus during his first 30 days.",Expert 2,https://app.notion.com/p/cookunity/Jose-Jean-Carlo-Gastelo-Ramirez-Jean-Carlo-3676c6b786ba8184bfebc71784de0de5?source=copy_link
-JoseMa Reyes,34,CX - Specialist,Specialist,Active,"Ketevan Streletska",,5,Exceeds expectations,0.125,5.0,Exceeds expectations,0.125,3.67,Developing,1.05,5,Exceeds expectations,1,5,Exceeds expectations,2,4.3,,Ready with Coaching,"Supervisor Quick View
+JoseMa Reyes,34,CX - Specialist,Specialist,Active,"Ketevan Streletska",,5,Exceeds expectations,0.125,5.0,Exceeds expectations,0.125,4.00,Meets expectations,1.4,5,Exceeds expectations,1,5,Exceeds expectations,2,4.65,,Production Ready,"Supervisor Quick View
 • Readiness: 🟢 Ready for Operations.
 • Tier recommendation: Expert 2.
 • Final performance: 3.7 TPH, 100% IQS, and 81.8% CSAT.
@@ -570,7 +570,7 @@ JoseMa Reyes,34,CX - Specialist,Specialist,Active,"Ketevan Streletska",,5,Excee
 • Execution focus: Increase decision speed without sacrificing validation quality or documentation standards.
 • Recommended support: Weekly KPI reviews, early QA calibration, workflow-efficiency coaching, and confidence-building through live observations.
 • Overall assessment: Ready to manage Expert 2 case complexity with a strong quality-first mindset. Continued coaching should primarily focus on productivity gains while preserving the excellent quality and customer experience standards established during onboarding.",Expert 2,https://app.notion.com/p/cookunity/Jose-Manuel-Reyes-Flores-JoseMa-3676c6b786ba8132b85ce065e18dd853?source=copy_link
-Jose Tica Tarazona,34,CX - Specialist,Specialist,Active,"Ketevan Streletska",,5,Exceeds expectations,0.125,4.6,Meets expectations,0.125,3.67,Developing,1.05,4,Meets expectations,0.8,3,Developing,0.8,2.9,,Intervention Required,"Supervisor Quick View
+Jose Tica Tarazona,34,CX - Specialist,Specialist,Active,"Ketevan Streletska",,5,Exceeds expectations,0.125,4.6,Meets expectations,0.125,4.00,Meets expectations,1.4,4,Meets expectations,0.8,3,Developing,0.8,3.25,,Intervention Required,"Supervisor Quick View
 • Readiness: 🟡 Ready for Operations with Coaching.
 • Tier recommendation: Expert 1.
 • Final performance: 2.2 TPH, 90% IQS, and 100% CSAT.
@@ -618,7 +618,7 @@ Junior Tello,34,CX - Specialist,Specialist,Active,Paola Pirela,,5,Exceeds expect
 • Recommended support: Weekly KPI reviews, frequent QA calibration, reverse shadowing, and close monitoring of attendance, communication, and accountability.
 • Overall assessment: Junior demonstrated encouraging growth throughout onboarding but was unable to sustain KPI performance during the final stages of training. Additional coaching is recommended before transitioning to Operations as an Expert 1 specialist.
 ",Expert 1,https://app.notion.com/p/cookunity/Junior-Jose-Alexander-Tello-Alvinez-A-3676c6b786ba81d38a61dc126ebc09fa?source=copy_link
-Michelle Diaz,34,CX - Specialist,Specialist,Active,Fiorella Marquez,,5,Exceeds expectations,0.125,4.6,Meets expectations,0.125,3.67,Developing,1.05,3.5,Developing,0.6,3.8,Developing,1.2,3.1,,Intervention Required,"Supervisor Quick View
+Michelle Diaz,34,CX - Specialist,Specialist,Active,Fiorella Marquez,,5,Exceeds expectations,0.125,4.6,Meets expectations,0.125,4.00,Meets expectations,1.4,3.5,Developing,0.6,3.8,Developing,1.2,3.45,,Intervention Required,"Supervisor Quick View
 • Readiness: 🟡 Ready for Operations with Coaching.
 • Tier recommendation: Expert 2.
 • Final performance: 5.0 TPH, 94.0% IQS, and 66.7% CSAT.
@@ -629,7 +629,7 @@ Michelle Diaz,34,CX - Specialist,Specialist,Active,Fiorella Marquez,,5,Exceeds e
 • Execution focus: Strengthen GovX/login validations, billing investigations, communication responsiveness, and adherence to operational expectations.
 • Recommended support: Weekly KPI review, QA calibration focused on customer experience, structured behavioral follow-up, and targeted coaching on communication, punctuality, and professional engagement.
 • Overall assessment: Technically prepared to manage Expert 2 case complexity with consistently strong quality and productivity, but requires ongoing behavioral coaching and customer experience development to ensure long-term operational success.",Expert 2,https://app.notion.com/p/cookunity/Michelle-Nayelli-Diaz-Castro-Mich-3676c6b786ba81c6ba77dc5ed42871c1?source=copy_link
-Monica Muñoz Cruz,34,CX - Specialist,Specialist,Active,Fiorella Marquez,,5,Exceeds expectations,0.125,4.5,Developing,0.1,3.00,Developing,0.7,4.25,Meets expectations,0.8,4,Meets expectations,1.6,3.325,,Intervention Required,"Supervisor Quick View
+Monica Muñoz Cruz,34,CX - Specialist,Specialist,Active,Fiorella Marquez,,5,Exceeds expectations,0.125,4.5,Developing,0.1,3.33,Developing,0.7,4.25,Meets expectations,0.8,4,Meets expectations,1.6,3.325,,Intervention Required,"Supervisor Quick View
 • Readiness: 🟡 Ready with Coaching.
 • Tier recommendation: Expert 1.
 • Final performance: 2.8 TPH, 86% IQS, and 80% CSAT.
@@ -651,7 +651,7 @@ Pamela Mananí,34,CX - Specialist,Specialist,Active,Grey Cruzado,,5,Exceeds expe
 • Execution focus: Improve workflow efficiency while maintaining current quality standards and continue building independence from AI for routine validations.
 • Recommended support: Weekly TPH reviews, early reverse shadowing session, QA calibration during the first month, and reinforcement of proactive communication regarding attendance and technical issues.
 • Overall assessment: Pamela is ready to transition into Expert 2 Operations work. She has demonstrated outstanding quality and consistent critical thinking throughout onboarding. Productivity remains the only meaningful development area, and based on her steady upward trajectory, she is well positioned to close that gap with targeted coaching during her first month in Operations.",Expert 2,https://app.notion.com/p/cookunity/Pamela-Ingrid-Manani-Pam-3676c6b786ba811780b3c0309e4ed7cd?source=copy_link
-Piero Alvarado,34,CX - Specialist,Specialist,Active,Ximena Anticona,,5,Exceeds expectations,0.125,4.9,Exceeds expectations,0.125,3.00,Developing,0.7,4.5,Exceeds expectations,1,3.8,Developing,1.2,3.15,,Intervention Required,"Supervisor Quick View
+Piero Alvarado,34,CX - Specialist,Specialist,Active,Ximena Anticona,,5,Exceeds expectations,0.125,4.9,Exceeds expectations,0.125,3.67,Developing,1.05,4.5,Exceeds expectations,1,3.8,Developing,1.2,3.5,,Coaching Required,"Supervisor Quick View
 • Readiness: 🟡 Ready with Coaching (Expert 2 – Provisional).
 • Tier recommendation: Expert 2 – Provisional.
 • Final performance: 3.3 TPH, 77.5% IQS, and 100% CSAT.
@@ -663,7 +663,7 @@ Piero Alvarado,34,CX - Specialist,Specialist,Active,Ximena Anticona,,5,Exceeds e
 • Execution focus: Strengthen Processes & Escalations quality, validate AI-generated content before submission, and reinforce operational discipline during concurrent case handling.
 • Recommended support: Weekly KPI reviews, early QA calibrations, live chat monitoring, billing case follow-up, and structured coaching on WABI quality during the first month.
 • Overall assessment: Piero demonstrated steady growth throughout onboarding and established a strong quality foundation supported by solid critical thinking and engagement. He is recommended to transition as an Expert 2 – Provisional, with continued coaching focused on productivity, live operational execution, and process consistency before confirming permanent Expert 2 placement.",Expert 2,https://app.notion.com/p/cookunity/Piero-Alvarado-3676c6b786ba81dc8902e502a1126d43?source=copy_link
-Ricardo Andrade,34,CX - Specialist,Specialist,Active,Francisco Romano,,5,Exceeds expectations,0.125,5.0,Exceeds expectations,0.125,3.67,Developing,1.05,4,Meets expectations,0.8,5,Exceeds expectations,2,4.1,,Ready with Coaching,"Supervisor Quick View
+Ricardo Andrade,34,CX - Specialist,Specialist,Active,Francisco Romano,,5,Exceeds expectations,0.125,5.0,Exceeds expectations,0.125,4.00,Meets expectations,1.4,4,Meets expectations,0.8,5,Exceeds expectations,2,4.45,,Ready with Coaching,"Supervisor Quick View
 • Readiness: 🟢 Ready for Operations.
 • Tier recommendation: Expert 2.
 • Final performance: 5.0 TPH, 72.5% IQS, and 95.7% CSAT.
@@ -685,7 +685,7 @@ Rodrigo Cornejo,34,CX - Specialist,Specialist,Active,Francisco Romano,,5,Exceeds
 • Execution focus: Build consistent validation habits, proofread every response, complete mandatory account merges, and improve ticket triage before resolving cases.
 • Recommended support: Weekly KPI reviews, QA calibration, validation-focused coaching, and close monitoring of recurring IQS deductions during the first month.
 • Overall assessment: Rodrigo has demonstrated the potential to succeed in Operations, but he requires continued coaching to convert his strong knowledge base into consistent operational execution before becoming eligible for Expert 2 progression.",Expert 1 ,https://app.notion.com/p/cookunity/Rodrigo-Josue-Cornejo-Chacon-Rodrigo-Josue-3676c6b786ba81719901fbda4d0cf7c9?source=copy_link
-Willy Ganoza Luyo,34,CX - Specialist,Specialist,Active,Jose Patron,,5,Exceeds expectations,0.125,4.5,Meets expectations,0.125,3.00,Developing,0.7,4.25,Meets expectations,0.8,4,Meets expectations,1.6,3.35,,Intervention Required,"Supervisor Quick View
+Willy Ganoza Luyo,34,CX - Specialist,Specialist,Active,Jose Patron,,5,Exceeds expectations,0.125,4.5,Meets expectations,0.125,3.33,Developing,0.7,4.25,Meets expectations,0.8,4,Meets expectations,1.6,3.35,,Intervention Required,"Supervisor Quick View
 • Readiness: 🟡 Ready for Operations with Coaching.
 • Tier recommendation: Expert 2.
 • Incoming supervisor: José Patrón.
